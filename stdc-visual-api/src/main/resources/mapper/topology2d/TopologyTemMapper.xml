@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.stdc.topology2d.mapper.TopologyTemplateMapper">
+
+    <insert id="saveTemplate" parameterType="com.stdc.topology2d.entity.po.TopologyTemplate">
+        INSERT INTO
+            stdc_topology_template (
+            data, name, version, create_time,
+            template_id, folder, username, create_by )
+        VALUES (
+
+            json_set( CAST(#{template.data} AS JSON) ), #{template.name}, #{template.version},
+            NOW(),#{template.templateId}, #{template.folder},#{template.username},#{template.createBy} )
+    </insert>
+
+</mapper>

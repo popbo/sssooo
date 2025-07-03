@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.stdc.visual.auth.mapper.RoleMapper">
+
+
+    <resultMap id="RolePO" type="com.stdc.visual.auth.entity.role.po.RolePO">
+        <id property="roleId" column="role_id" jdbcType="BIGINT"/>
+        <result property="name" column="name" jdbcType="VARCHAR"/>
+        <result property="description" column="description" jdbcType="VARCHAR"/>
+        <result property="createBy" column="create_by" jdbcType="VARCHAR"/>
+        <result property="updateBy" column="update_by" jdbcType="VARCHAR"/>
+        <result property="createTime" column="create_time" jdbcType="BIGINT"/>
+        <result property="updateTime" column="update_time" jdbcType="BIGINT"/>
+    </resultMap>
+
+    <sql id="BASE_SQL">
+        `role_id`,`name`,`description`,`create_by`,`update_by`,`create_time`,`update_time`
+    </sql>
+
+    <insert id="save" parameterType="com.stdc.visual.auth.entity.role.dto.RoleDTO">
+        INSERT INTO `stdc_visual_sys_role` (
+        <include refid="BASE_SQL"/>
+		)VALUES(
+		#{roleId},#{name},#{description},#{createBy},#{updateBy},#{createTime},#{updateTime})
+    </insert>
+
+    <delete id="deleteByPrimaryKey" parameterType="string">
+        DELETE FROM `stdc_visual_sys_role`
+        WHERE
+        `role_id` = #{roleId}
+    </delete>
+
+    <update id="update" parameterType="com.stdc.visual.auth.entity.role.dto.RoleDTO">
+        UPDATE `stdc_visual_sys_role`
+        <set>
+            <if test="name != null">
+                `name` = #{name},
+            </if>
+            <if test="description != null">
+                `name` = #{description},
+            </if>
+            <if test="createBy != null">
+                `create_by` = #{createBy},
+            </if>
+            <if test="updateBy != null">
+                `update_by` = #{updateBy},
+            </if>
+            <if test="createTime != null">
+                `create_time` = #{createTime},
+            </if>
+            <if test="updateTime != null">
+                `update_time` = #{updateTime},
+            </if>
+        </set>
+        WHERE
+        `role_id` = #{roleId}
+    </update>
+
+    <select id="query" parameterType="com.stdc.visual.auth.entity.role.dto.RoleDTO" resultMap="RolePO">
+        SELECT
+        <include refid="BASE_SQL"></include>
+        FROM
+            `stdc_visual_sys_role`
+        WHERE
+        1=1
+        <if test="roleId != null">
+            AND `role_id` = #{roleId}
+        </if>
+        <if test="name != null">
+            AND `name` = #{name}
+        </if>
+        <if test="name != null">
+            AND `name` = #{name}
+        </if>
+        <if test="description != null">
+            AND `name` = #{description}
+        </if>
+        <if test="createBy != null">
+            AND `create_by` = #{createBy}
+        </if>
+        <if test="updateBy != null">
+            AND `update_by` = #{updateBy}
+        </if>
+        <if test="createTime != null">
+            AND `create_time` = #{createTime}
+        </if>
+        <if test="updateTime != null">
+            AND `update_time` = #{updateTime}
+        </if>
+    </select>
+    <select id="queryByRoleId" parameterType="string" resultMap="RolePO">
+        SELECT
+        <include refid="BASE_SQL"></include>
+        FROM
+        `stdc_visual_sys_role`
+        WHERE
+        `role_id` = #{roleId}
+    </select>
+
+    <select id="queryAll" resultMap="RolePO">
+        SELECT
+        <include refid="BASE_SQL"/>
+        FROM
+        `stdc_visual_sys_role`
+    </select>
+
+    <select id="selectRolePermissionByUserId" parameterType="string" resultType="com.stdc.visual.auth.entity.role.po.RolePO">
+        select distinct r.*
+        from stdc_visual_sys_role r
+        left join stdc_visual_sys_users_roles ur on ur.role_id = r.role_id
+        left join stdc_visual_sys_user u on u.user_id = ur.user_id
+        left join stdc_visual_sys_dept d on u.dept_id = d.dept_id
+        WHERE r.del_flag = '0' and ur.user_id = #{userId}
+    </select>
+
+</mapper>

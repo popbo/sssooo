@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.stdc.visual.auth.mapper.DeptMapper">
+
+    <resultMap id="DeptPO" type="com.stdc.visual.auth.entity.dept.po.DeptPO">
+        <id property="deptId" column="dept_id" jdbcType="BIGINT"/>
+        <result property="pid" column="pid" jdbcType="BIGINT"/>
+        <result property="subCount" column="sub_count" jdbcType="INTEGER"/>
+        <result property="name" column="name" jdbcType="VARCHAR"/>
+        <result property="deptSort" column="dept_sort" jdbcType="INTEGER"/>
+        <result property="createBy" column="create_by" jdbcType="VARCHAR"/>
+        <result property="updateBy" column="update_by" jdbcType="VARCHAR"/>
+        <result property="createTime" column="create_time" jdbcType="BIGINT"/>
+        <result property="updateTime" column="update_time" jdbcType="BIGINT"/>
+    </resultMap>
+
+    <sql id="BASE_SQL">
+        `dept_id`, `pid`, `sub_count`, `name`, `dept_sort`, `create_by`, `update_by`, `create_time`, `update_time`
+    </sql>
+
+
+    <insert id="save" parameterType="com.stdc.visual.auth.entity.dept.dto.DeptDTO">
+        INSERT INTO `stdc_visual_sys_dept` (
+        <include refid="BASE_SQL"/>
+        )
+        VALUES (
+        #{deptId},#{pid},#{subCount},#{name},#{deptSort},#{createBy},#{updateBy},#{createTime},#{updateTime}
+        )
+    </insert>
+
+    <delete id="deleteByPrimaryKey" parameterType="string">
+        DELETE FROM `stdc_visual_sys_dept`
+        WHERE
+        `dept_id` = #{deptId}
+    </delete>
+
+    <update id="update" parameterType="com.stdc.visual.auth.entity.dept.dto.DeptDTO">
+        UPDATE `stdc_visual_sys_dept`
+        <set>
+            <if test="deptId != null">
+                `dept_id` = #{deptId},
+            </if>
+            <if test="pid != null">
+                `pid` = #{pid},
+            </if>
+            <if test="subCount != null">
+                `sub_count` = #{subCount},
+            </if>
+            <if test="name != null">
+                `name` = #{name},
+            </if>
+            <if test="deptSort != null">
+                `dept_sort` = #{deptSort},
+            </if>
+            <if test="createBy != null">
+                `create_by` = #{createBy},
+            </if>
+            <if test="updateBy != null">
+                `update_by` = #{updateBy},
+            </if>
+            <if test="createTime != null">
+                `create_time` = #{createTime},
+            </if>
+            <if test="updateTime != null">
+                `update_time` = #{updateTime},
+            </if>
+
+        </set>
+        WHERE
+        `dept_id` = #{deptId}
+    </update>
+
+    <select id="query" parameterType="com.stdc.visual.auth.entity.dept.dto.DeptDTO" resultType="com.stdc.visual.auth.entity.dept.dto.DeptDTO">
+        SELECT
+        <include refid="BASE_SQL"/>
+        FROM
+        `stdc_visual_sys_dept`
+        WHERE TRUE
+        <if test="deptId != null">
+            AND `dept_id` = #{deptId}
+        </if>
+        <if test="pid != null">
+            AND `pid` = #{pid}
+        </if>
+        <if test="subCount != null">
+            AND `sub_count` = #{subCount}
+        </if>
+        <if test="name != null">
+            AND `name` = #{name}
+        </if>
+        <if test="deptSort != null">
+            AND `dept_sort` = #{deptSort}
+        </if>
+        <if test="createBy != null">
+            AND `create_by` = #{createBy}
+        </if>
+        <if test="updateBy != null">
+            AND `update_by` = #{updateBy}
+        </if>
+    </select>
+
+    <select id="queryById" parameterType="string" resultMap="DeptPO">
+        SELECT
+        <include refid="BASE_SQL"/>
+        FROM
+            `stdc_visual_sys_dept`
+        WHERE
+             `dept_id` = #{deptId}
+    </select>
+
+    <select id="queryAll" parameterType="com.stdc.visual.auth.entity.dept.dto.DeptDTO" resultMap="DeptPO">
+        SELECT
+        <include refid="BASE_SQL"/>
+        FROM
+        `stdc_visual_sys_dept`
+    </select>
+
+</mapper>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.stdc.visual.dynamic.mapper.DatasetTableMapper">
+    <resultMap id="BaseResultMap" type="com.stdc.visual.dynamic.base.dataset.po.DatasetTable">
+        <id column="id" jdbcType="VARCHAR" property="id"/>
+        <result column="name" jdbcType="VARCHAR" property="name"/>
+        <result column="scene_id" jdbcType="VARCHAR" property="sceneId"/>
+        <result column="data_source_id" jdbcType="VARCHAR" property="dataSourceId"/>
+        <result column="type" jdbcType="VARCHAR" property="type"/>
+        <result column="mode" jdbcType="INTEGER" property="mode"/>
+        <result column="create_by" jdbcType="VARCHAR" property="createBy"/>
+        <result column="create_time" jdbcType="BIGINT" property="createTime"/>
+        <result column="qrtz_instance" jdbcType="VARCHAR" property="qrtzInstance"/>
+        <result column="sync_status" jdbcType="VARCHAR" property="syncStatus"/>
+        <result column="last_update_time" jdbcType="BIGINT" property="lastUpdateTime"/>
+    </resultMap>
+    <resultMap extends="BaseResultMap" id="ResultMapWithBLOBs"
+               type="com.stdc.visual.dynamic.base.dataset.po.DatasetTable">
+        <result column="info" jdbcType="LONGVARCHAR" property="info"/>
+    </resultMap>
+    <resultMap id="BaseResultMapDTO" type="com.stdc.visual.dynamic.base.dataset.dto.DataSetTableDTO"
+               extends="com.stdc.visual.dynamic.mapper.DatasetTableMapper.ResultMapWithBLOBs">
+        <result column="privileges" property="privileges"/>
+    </resultMap>
+
+    <sql id="Example_Where_Clause">
+        <where>
+            <foreach collection="oredCriteria" item="criteria" separator="or">
+                <if test="criteria.valid">
+                    <trim prefix="(" prefixOverrides="and" suffix=")">
+                        <foreach collection="criteria.criteria" item="criterion">
+                            <choose>
+                                <when test="criterion.noValue">
+                                    and ${criterion.condition}
+                                </when>
+                                <when test="criterion.singleValue">
+                                    and ${criterion.condition} #{criterion.value}
+                                </when>
+                                <when test="criterion.betweenValue">
+                                    and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                                </when>
+                                <when test="criterion.listValue">
+                                    and ${criterion.condition}
+                                    <foreach close=")" collection="criterion.value" item="listItem" open="("
+                                             separator=",">
+                                        #{listItem}
+                                    </foreach>
+                                </when>
+                            </choose>
+                        </foreach>
+                    </trim>
+                </if>
+            </foreach>
+        </where>
+    </sql>
+    <sql id="Update_By_Example_Where_Clause">
+        <where>
+            <foreach collection="example.oredCriteria" item="criteria" separator="or">
+                <if test="criteria.valid">
+                    <trim prefix="(" prefixOverrides="and" suffix=")">
+                        <foreach collection="criteria.criteria" item="criterion">
+                            <choose>
+                                <when test="criterion.noValue">
+                                    and ${criterion.condition}
+                                </when>
+                                <when test="criterion.singleValue">
+                                    and ${criterion.condition} #{criterion.value}
+                                </when>
+                                <when test="criterion.betweenValue">
+                                    and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                                </when>
+                                <when test="criterion.listValue">
+                                    and ${criterion.condition}
+                                    <foreach close=")" collection="criterion.value" item="listItem" open="("
+                                             separator=",">
+                                        #{listItem}
+                                    </foreach>
+                                </when>
+                            </choose>
+                        </foreach>
+                    </trim>
+                </if>
+            </foreach>
+        </where>
+    </sql>
+    <sql id="Base_Column_List">
+        id, `name`, scene_id, data_source_id, `type`, `mode`, create_by, create_time, qrtz_instance,
+        sync_status, last_update_time
+    </sql>
+    <sql id="Blob_Column_List">
+        info
+    </sql>
+
+    <select id="searchOne" resultMap="BaseResultMapDTO">
+        select
+        id, `name`, scene_id, data_source_id, `type`, `mode`,`info`, create_by, create_time,
+        get_auths(id,'dataset',#{userId}) as `privileges`
+        from stdc_visual_dataset_table
+        <where>
+            <if test="id != null">
+                and id = #{id,jdbcType=VARCHAR}
+            </if>
+            <if test="sceneId != null">
+                and scene_id = #{sceneId,jdbcType=VARCHAR}
+            </if>
+            <if test="mode != null">
+                and mode = #{mode,jdbcType=INTEGER}
+            </if>
+            <if test="typeFilter != null">
+                and type in
+                <foreach collection="typeFilter" item="item" open="(" separator="," close=")">
+                    #{item,jdbcType=INTEGER}
+                </foreach>
+            </if>
+        </where>
+        <if test="sort != null">
+            order by ${sort}
+        </if>
+    </select>
+
+    <select id="search" parameterType="com.stdc.visual.dynamic.base.dataset.request.DataSetTableRequest" resultMap="BaseResultMapDTO">
+        select
+        id, `name`, scene_id, data_source_id, `type`, `mode`,`info`, create_by, create_time
+        from stdc_visual_dataset_table
+        WHERE
+        TRUE
+            <if test="id != null">
+                and id = #{id,jdbcType=VARCHAR}
+            </if>
+            <if test="sceneId != null">
+                and scene_id = #{sceneId,jdbcType=VARCHAR}
+            </if>
+            <if test="name != null">
+                and name like CONCAT('%', #{name},'%')
+            </if>
+            <if test="mode != null">
+                and mode = #{mode,jdbcType=INTEGER}
+            </if>
+            <if test="type != null">
+                and type = #{type,jdbcType=VARCHAR}
+            </if>
+            <if test="typeFilter != null">
+                and type in
+                <foreach collection="typeFilter" item="item" open="(" separator="," close=")">
+                    #{item,jdbcType=INTEGER}
+                </foreach>
+            </if>
+    </select>
+
+
+</mapper>

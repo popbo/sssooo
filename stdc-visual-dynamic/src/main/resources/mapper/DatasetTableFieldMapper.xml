@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.stdc.visual.dynamic.mapper.DatasetTableFieldMapper">
+    <resultMap id="BaseResultMap" type="com.stdc.visual.dynamic.base.dataset.po.DatasetTableField">
+        <id column="id" jdbcType="VARCHAR" property="id"/>
+        <result column="table_id" jdbcType="VARCHAR" property="tableId"/>
+        <result column="origin_name" jdbcType="VARCHAR" property="originName"/>
+        <result column="name" jdbcType="VARCHAR" property="name"/>
+        <result column="dataease_name" jdbcType="VARCHAR" property="dataeaseName"/>
+        <result column="group_type" jdbcType="VARCHAR" property="groupType"/>
+        <result column="type" jdbcType="VARCHAR" property="type"/>
+        <result column="size" jdbcType="INTEGER" property="size"/>
+        <result column="de_type" jdbcType="INTEGER" property="deType"/>
+        <result column="de_type_format" jdbcType="INTEGER" property="deTypeFormat"/>
+        <result column="de_extract_type" jdbcType="INTEGER" property="deExtractType"/>
+        <result column="ext_field" jdbcType="INTEGER" property="extField"/>
+        <result column="checked" jdbcType="BIT" property="checked"/>
+        <result column="column_index" jdbcType="INTEGER" property="columnIndex"/>
+        <result column="last_sync_time" jdbcType="BIGINT" property="lastSyncTime"/>
+    </resultMap>
+    <sql id="Example_Where_Clause">
+        <where>
+            <foreach collection="oredCriteria" item="criteria" separator="or">
+                <if test="criteria.valid">
+                    <trim prefix="(" prefixOverrides="and" suffix=")">
+                        <foreach collection="criteria.criteria" item="criterion">
+                            <choose>
+                                <when test="criterion.noValue">
+                                    and ${criterion.condition}
+                                </when>
+                                <when test="criterion.singleValue">
+                                    and ${criterion.condition} #{criterion.value}
+                                </when>
+                                <when test="criterion.betweenValue">
+                                    and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                                </when>
+                                <when test="criterion.listValue">
+                                    and ${criterion.condition}
+                                    <foreach close=")" collection="criterion.value" item="listItem" open="("
+                                             separator=",">
+                                        #{listItem}
+                                    </foreach>
+                                </when>
+                            </choose>
+                        </foreach>
+                    </trim>
+                </if>
+            </foreach>
+        </where>
+    </sql>
+    <sql id="Update_By_Example_Where_Clause">
+        <where>
+            <foreach collection="example.oredCriteria" item="criteria" separator="or">
+                <if test="criteria.valid">
+                    <trim prefix="(" prefixOverrides="and" suffix=")">
+                        <foreach collection="criteria.criteria" item="criterion">
+                            <choose>
+                                <when test="criterion.noValue">
+                                    and ${criterion.condition}
+                                </when>
+                                <when test="criterion.singleValue">
+                                    and ${criterion.condition} #{criterion.value}
+                                </when>
+                                <when test="criterion.betweenValue">
+                                    and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                                </when>
+                                <when test="criterion.listValue">
+                                    and ${criterion.condition}
+                                    <foreach close=")" collection="criterion.value" item="listItem" open="("
+                                             separator=",">
+                                        #{listItem}
+                                    </foreach>
+                                </when>
+                            </choose>
+                        </foreach>
+                    </trim>
+                </if>
+            </foreach>
+        </where>
+    </sql>
+    <sql id="Base_Column_List">
+        id, table_id, origin_name, `name`, dataease_name, group_type, `type`, `size`, de_type,
+        de_type_format, de_extract_type, ext_field, `checked`, column_index, last_sync_time
+    </sql>
+
+</mapper>

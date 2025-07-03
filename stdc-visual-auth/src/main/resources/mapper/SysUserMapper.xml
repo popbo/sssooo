@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.stdc.visual.auth.mapper.SysUserMapper">
+
+    <select id="selectUserList" resultType="com.stdc.visual.auth.entity.user.dto.SysUserDTO"
+            parameterType="com.stdc.visual.auth.entity.user.dto.SysUserDTO">
+        select u.*, d.name dept_name
+        from stdc_visual_sys_user u
+        left join stdc_visual_sys_dept d on u.dept_id = d.dept_id
+        where 1=1
+        <if test="sysUser.deptId != null and sysUser.deptId != ''">
+            AND u.dept_id = #{userRole.deptId}
+        </if>
+        <if test="sysUser.userId != null and sysUser.userId != ''">
+            AND u.user_id = #{userRole.userId}
+        </if>
+    </select>
+
+    <select id="selectAllocatedList" resultType="com.stdc.visual.auth.entity.user.dto.SysUserDTO"
+            parameterType="com.stdc.visual.auth.entity.user.dto.SysUserDTO">
+        select u.*, d.name dept_name, r.name role_name
+        from stdc_visual_sys_user u
+        left join stdc_visual_sys_dept d on u.dept_id = d.dept_id
+        left join stdc_visual_sys_users_roles ur on u.user_id = ur.user_id
+        left join stdc_visual_sys_role r on r.role_id = ur.role_id
+        where 1=1
+        <if test="sysUser.roleId != null and sysUser.roleId != ''">
+            AND r.role_id = #{userRole.roleId}
+        </if>
+        <if test="sysUser.deptId != null and sysUser.deptId != ''">
+            AND u.dept_id = #{userRole.deptId}
+        </if>
+        <if test="sysUser.userId != null and sysUser.userId != ''">
+            AND u.user_id = #{userRole.userId}
+        </if>
+    </select>
+
+    <select id="selectUnallocatedList" resultType="com.stdc.visual.auth.entity.user.dto.SysUserDTO"
+            parameterType="com.stdc.visual.auth.entity.user.dto.SysUserDTO">
+        select u.*, d.name dept_name, r.name role_name
+        from stdc_visual_sys_user u
+        left join stdc_visual_sys_dept d on u.dept_id = d.dept_id
+        left join stdc_visual_sys_users_roles ur on u.user_id = ur.user_id
+        left join stdc_visual_sys_role r on r.role_id = ur.role_id
+        where 1=1
+        <if test="sysUser.roleId != null and sysUser.roleId != ''">
+            AND (r.role_id != #{userRole.roleId} or r.role_id is null)
+        </if>
+        <if test="sysUser.deptId != null and sysUser.deptId != ''">
+            AND u.dept_id = #{userRole.deptId}
+        </if>
+        <if test="sysUser.userId != null and sysUser.userId != ''">
+            AND u.user_id = #{userRole.userId}
+        </if>
+    </select>
+
+</mapper>

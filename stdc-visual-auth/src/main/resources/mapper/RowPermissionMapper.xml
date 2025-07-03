@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.stdc.visual.auth.mapper.RowPermissionMapper">
+
+    <resultMap id="RowPermissionPO" type="com.stdc.visual.auth.entity.permission.po.RowPermissionPO">
+        <id property="id" column="id" jdbcType="VARCHAR"/>
+        <result property="authTargetType" column="auth_target_type" jdbcType="VARCHAR"/>
+        <result property="authTargetId" column="auth_target_id" jdbcType="BIGINT"/>
+        <result property="datasetId" column="dataset_id" jdbcType="VARCHAR"/>
+        <result property="datasetFieldId" column="dataset_field_id" jdbcType="VARCHAR"/>
+        <result property="filterType" column="filter_type" jdbcType="VARCHAR"/>
+        <result property="logic" column="logic" jdbcType="VARCHAR"/>
+        <result property="filter" column="filter" jdbcType="LONGVARCHAR"/>
+        <result property="enumCheckField" column="enum_check_field" jdbcType="LONGVARCHAR"/>
+        <result property="updateTime" column="update_time" jdbcType="BIGINT"/>
+    </resultMap>
+
+    <sql id="BASE_SQL">
+       `id`, `auth_target_type`, `auth_target_id`, `dataset_id`, `dataset_field_id`, `filter_type`, `logic`, `filter`, `enum_check_field`, `update_time`
+    </sql>
+
+
+    <insert id="save" parameterType="com.stdc.visual.auth.entity.permission.dto.RowPermissionDTO">
+        INSERT INTO `stdc_visual_dataset_row_permissions` (
+        <include refid="BASE_SQL"/>
+        )
+        VALUES (
+        #{id},#{authTargetType},#{authTargetId},#{datasetId},#{datasetFieldId},#{filterType},#{logic},#{filter},#{enumCheckField},#{updateTime}
+        )
+    </insert>
+
+    <delete id="deleteByPrimaryKey" parameterType="string">
+        DELETE FROM `stdc_visual_dataset_row_permissions`
+        WHERE
+        `id` = #{id}
+    </delete>
+
+    <update id="update" parameterType="com.stdc.visual.auth.entity.permission.dto.ColumnPermissionDTO">
+        UPDATE `stdc_visual_dataset_row_permissions`
+        <set>
+            <if test="authTargetType != null">
+                `auth_target_type` = #{authTargetType},
+            </if>
+            <if test="authTargetId != null">
+                `auth_target_id` = #{authTargetId},
+            </if>
+            <if test="datasetId != null">
+                `dataset_id` = #{datasetId},
+            </if>
+            <if test="datasetFieldId != null">
+                `dataset_field_id` = #{datasetFieldId},
+            </if>
+            <if test="filter != null">
+                `filter` = #{filter},
+            </if>
+            <if test="logic != null">
+                `logic` = #{logic},
+            </if>
+            <if test="filterType != null">
+                `filter_type` = #{filterType},
+            </if>
+            <if test="enumCheckField != null">
+                `enum_check_field` = #{enumCheckField},
+            </if>
+            <if test="updateTime != null">
+                `update_time` = #{updateTime},
+            </if>
+        </set>
+        WHERE
+        `id` = #{id}
+    </update>
+
+    <select id="query" parameterType="com.stdc.visual.auth.entity.permission.dto.ColumnPermissionDTO" resultMap="RowPermissionPO">
+        SELECT
+        <include refid="BASE_SQL"/>
+        FROM
+        `stdc_visual_dataset_row_permissions`
+        WHERE TRUE
+        <if test="id != null">
+            AND `id` = #{id}
+        </if>
+        <if test="authTargetType != null">
+            AND `auth_target_type` = #{authTargetType}
+        </if>
+        <if test="authTargetId != null">
+            AND `auth_target_id` = #{authTargetId}
+        </if>
+        <if test="datasetId != null">
+            AND `dataset_id` = #{datasetId}
+        </if>
+        <if test="datasetFieldId != null">
+            AND `dataset_field_id` = #{datasetFieldId}
+        </if>
+        <if test="filter != null">
+            AND `filter` = #{filter}
+        </if>
+        <if test="logic != null">
+            AND `logic` = #{logic}
+        </if>
+        <if test="filterType != null">
+            AND `filter_type` = #{filterType}
+        </if>
+        <if test="enumCheckField != null">
+            AND `enum_check_field` = #{enumCheckField}
+        </if>
+        <if test="updateTime != null">
+            AND `update_time` = #{updateTime}
+        </if>
+    </select>
+
+    <select id="queryFieldNameById" parameterType="string" resultType="string">
+        SELECT
+            `name`
+        FROM
+            stdc_visual_dataset_table_field
+        WHERE
+            id = #{id}
+    </select>
+
+    <select id="queryAll" resultMap="RowPermissionPO">
+        SELECT
+        <include refid="BASE_SQL"/>
+        FROM
+        `stdc_visual_dataset_row_permissions`
+    </select>
+
+
+</mapper>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.stdc.visual.mapper.VisualMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="visualResultMap" type="com.stdc.visual.entity.po.Visual">
+        <result column="id" property="id"/>
+        <result column="create_time" property="createTime"/>
+        <result column="update_time" property="updateTime"/>
+        <result column="is_deleted" property="isDeleted"/>
+        <result column="title" property="title"/>
+        <result column="category" property="category"/>
+        <result column="edit_password" property="editPassword"/>
+    </resultMap>
+
+    <update id="updateBackgroundUrl">
+        UPDATE `stdc_visual_visual`
+        SET `background_id` = #{backGroundId}
+        WHERE
+	        `id` = #{id}
+    </update>
+
+    <select id="getSameCateGory" resultType="long" parameterType="long">
+        SELECT
+            `id`
+        FROM
+            `stdc_visual_visual`
+        WHERE
+            `category` = ( SELECT `category` FROM `stdc_visual_visual` WHERE `id` = #{id} )
+        AND
+            `is_deleted` != 1
+    </select>
+</mapper>

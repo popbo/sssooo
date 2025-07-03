@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.stdc.visual.auth.mapper.UserRoleMapper">
+
+
+    <resultMap id="UserRolePO" type="com.stdc.visual.auth.entity.role.po.UserRolePO">
+        <result property="userId" column="user_id" jdbcType="BIGINT"/>
+        <result property="roleId" column="role_id" jdbcType="BIGINT"/>
+    </resultMap>
+
+    <sql id="BASE_SQL">
+        `user_id`,`role_id`
+    </sql>
+
+    <insert id="save" parameterType="com.stdc.visual.auth.entity.role.dto.UserRoleDTO">
+        INSERT INTO `stdc_visual_sys_users_roles`
+        (
+        <include refid="BASE_SQL"/>
+        )
+        VALUES
+        (
+        #{userId},#{roleId}
+        )
+    </insert>
+
+    <delete id="deleteById" parameterType="com.stdc.visual.auth.entity.role.dto.UserRoleDTO">
+        DELETE FROM
+        `stdc_visual_sys_users_roles`
+        WHERE
+        `user_id` = #{userId}
+        OR
+        `role_id` = #{roleId}
+    </delete>
+
+    <update id="updateById" parameterType="com.stdc.visual.auth.entity.role.dto.UserRoleDTO">
+        UPDATE `stdc_visual_sys_users_roles`
+        <set>
+            <if test="userId != null">
+                `user_id` = #{userId},
+            </if>
+            <if test="roleId != null">
+                `role_id` = #{roleId},
+            </if>
+        </set>
+        WHERE
+        `user_id` = #{userId}
+        OR
+        `role_id` = #{roleId}
+    </update>
+
+    <select id="queryById" parameterType="com.stdc.visual.auth.entity.role.dto.UserRoleDTO" resultMap="UserRolePO">
+        SELECT
+        <include refid="BASE_SQL"></include>
+        FROM
+        `stdc_visual_sys_users_roles`
+        WHERE
+        `user_id` = #{userId}
+         OR
+        `role_id` = #{roleId}
+    </select>
+
+    <select id="queryByUserId" parameterType="string" resultMap="UserRolePO">
+        SELECT
+        <include refid="BASE_SQL"></include>
+        FROM
+        `stdc_visual_sys_users_roles`
+        WHERE
+        `user_id` = #{userId}
+    </select>
+
+    <select id="queryAll" resultMap="UserRolePO">
+        SELECT
+        <include refid="BASE_SQL"/>
+        FROM
+        `stdc_visual_sys_users_roles`
+    </select>
+
+    <select id="roleCodes" resultType="String">
+        select
+        r.role_id
+        from
+        stdc_visual_sys_role r
+        left join stdc_visual_sys_users_roles sur on sur.role_id = r.role_id
+        where
+        sur.user_id = #{userId}
+    </select>
+</mapper>

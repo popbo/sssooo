@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>stdc-visual-service</artifactId>
+        <groupId>com.stdc</groupId>
+        <version>2.0.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.stdc</groupId>
+    <artifactId>stdc-visual-auth</artifactId>
+    <version>${stdc-visual-auth.version}</version>
+    <packaging>jar</packaging>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.stdc</groupId>
+            <artifactId>stdc-start-auth</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.stdc</groupId>
+            <artifactId>stdc-start-mybatis</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.stdc</groupId>
+            <artifactId>stdc-start-redis</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.stdc</groupId>
+            <artifactId>stdc-start-http</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.stdc</groupId>
+            <artifactId>stdc-visual-common</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>${gson.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-all</artifactId>
+            <version>5.4.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.fasterxml.jackson.dataformat</groupId>
+            <artifactId>jackson-dataformat-xml</artifactId>
+            <version>2.10.3</version>
+        </dependency>
+        <dependency>
+            <groupId>io.lettuce</groupId>
+            <artifactId>lettuce-core</artifactId>
+            <version>6.1.8.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>com.unittec.license</groupId>
+            <artifactId>Aladdin-HASP</artifactId>
+            <version>9.0</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
+
+</project>

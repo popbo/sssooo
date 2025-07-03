@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <groupId>com.stdc</groupId>
+    <artifactId>stdc-visual-service</artifactId>
+    <version>2.0.0</version>
+    <modelVersion>4.0.0</modelVersion>
+    <name>stdc-visual-service</name>
+    <description>可视化</description>
+
+    <modules>
+        <module>stdc-visual-api</module>
+        <module>stdc-visual-common</module>
+        <module>stdc-visual-dynamic</module>
+        <module>stdc-visual-auth</module>
+    </modules>
+
+    <packaging>pom</packaging>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+
+        <java.version>8</java.version>
+
+        <stdc-visual-api.version>2.0.0</stdc-visual-api.version>
+        <stdc-visual-auth.version>2.0.0</stdc-visual-auth.version>
+        <stdc-visual-dynamic.version>2.0.0</stdc-visual-dynamic.version>
+        <stdc-visual-common.version>2.0.0</stdc-visual-common.version>
+
+        <!--springboot核心依赖包-->
+        <stdc-core-boot.version>0.0.1-SNAPSHOT</stdc-core-boot.version>
+        <!--基础工具包模块-->
+        <stdc-core-tool.version>0.0.1-SNAPSHOT</stdc-core-tool.version>
+        <!--mybatis模块-->
+        <stdc-start-mybatis.version>0.0.1-SNAPSHOT</stdc-start-mybatis.version>
+        <!--redis模块-->
+        <stdc-start-redis.version>0.0.1-SNAPSHOT</stdc-start-redis.version>
+        <!--日志模块-->
+        <stdc-start-log.version>0.0.1-SNAPSHOT</stdc-start-log.version>
+        <!--swagger模块-->
+        <stdc-start-swagger.version>0.0.1-SNAPSHOT</stdc-start-swagger.version>
+        <!--权限模块-->
+        <stdc-start-auth.version>0.0.1-SNAPSHOT</stdc-start-auth.version>
+        <!--对象存储-->
+        <stdc-start-oss.version>0.0.1-SNAPSHOT</stdc-start-oss.version>
+        <!--http请求-->
+        <stdc-start-http.version>0.0.1-SNAPSHOT</stdc-start-http.version>
+
+        <!--工具包-->
+        <commons-lang3.version>3.12.0</commons-lang3.version>
+        <!--集合类包-->
+        <commons-collections.version>3.2.2</commons-collections.version>
+        <!--stringtemplate-->
+        <ST4.version>4.3</ST4.version>
+        <!--jwt-->
+        <jjwt.version>0.9.1</jjwt.version>
+        <!--cas-client-autoconfig-support-->
+        <cas-client-autoconfig-support.version>2.2.0-GA</cas-client-autoconfig-support.version>
+        <!--cas-client-core-->
+        <cas-client-core.version>3.5.0</cas-client-core.version>
+        <!--gson-->
+        <gson.version>2.9.0</gson.version>
+        <xjar.version>4.0.2</xjar.version>
+    </properties>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>com.stdc</groupId>
+                <artifactId>stdc-visual-api</artifactId>
+                <version>${stdc-visual-api.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.stdc</groupId>
+                <artifactId>stdc-visual-auth</artifactId>
+                <version>${stdc-visual-auth.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.stdc</groupId>
+                <artifactId>stdc-visual-common</artifactId>
+                <version>${stdc-visual-common.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.stdc</groupId>
+                <artifactId>stdc-visual-dynamic</artifactId>
+                <version>${stdc-visual-dynamic.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.stdc</groupId>
+                <artifactId>stdc-core-boot</artifactId>
+                <version>${stdc-core-boot.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.stdc</groupId>
+                <artifactId>stdc-core-tool</artifactId>
+                <version>${stdc-core-tool.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.stdc</groupId>
+                <artifactId>stdc-start-log</artifactId>
+                <version>${stdc-start-log.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.stdc</groupId>
+                <artifactId>stdc-start-mybatis</artifactId>
+                <version>${stdc-start-mybatis.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.stdc</groupId>
+                <artifactId>stdc-start-redis</artifactId>
+                <version>${stdc-start-redis.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.stdc</groupId>
+                <artifactId>stdc-start-swagger</artifactId>
+                <version>${stdc-start-swagger.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.stdc</groupId>
+                <artifactId>stdc-start-auth</artifactId>
+                <version>${stdc-start-auth.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.stdc</groupId>
+                <artifactId>stdc-start-oss</artifactId>
+                <version>${stdc-start-oss.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.stdc</groupId>
+                <artifactId>stdc-start-http</artifactId>
+                <version>${stdc-start-http.version}</version>
+            </dependency>
+            <!-- pinyin4j -->
+            <dependency>
+                <groupId>com.belerweb</groupId>
+                <artifactId>pinyin4j</artifactId>
+                <version>2.5.0</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+    <!-- 设置 jitpack.io 插件仓库 -->
+<!--    <pluginRepositories>-->
+<!--        <pluginRepository>-->
+<!--            <id>jitpack.io</id>-->
+<!--            <url>https://jitpack.io</url>-->
+<!--        </pluginRepository>-->
+<!--    </pluginRepositories>-->
+<!--    <build>-->
+<!--       <plugins>-->
+<!--           <plugin>-->
+<!--               <groupId>com.github.core-lib</groupId>-->
+<!--               <artifactId>xjar-maven-plugin</artifactId>-->
+<!--               <version>${xjar.version}</version>-->
+<!--               <executions>-->
+<!--                   <execution>-->
+<!--                       <goals>-->
+<!--                           <goal>build</goal>-->
+<!--                       </goals>-->
+<!--                       <phase>package</phase>-->
+<!--                       <configuration>-->
+
+<!--                       </configuration>-->
+<!--                   </execution>-->
+<!--               </executions>-->
+<!--           </plugin>-->
+<!--       </plugins>-->
+<!--    </build>-->
+
+
+<!--    <distributionManagement>-->
+<!--        <repository>-->
+<!--            <id>releases</id>-->
+<!--            <name>Internal Releases</name>-->
+<!--            <url>http://10.255.102.228:8081/repository/maven-releases</url>-->
+<!--        </repository>-->
+<!--        <snapshotRepository>-->
+<!--            <id>snapshots</id>-->
+<!--            <name>Internal Snapshots</name>-->
+<!--            <url>http://10.255.102.228:8081/repository/maven-snapshots/</url>-->
+<!--        </snapshotRepository>-->
+<!--    </distributionManagement>-->
+
+<!--    <build>-->
+<!--        <plugins>-->
+<!--            <plugin>-->
+<!--                <groupId>org.springframework.boot</groupId>-->
+<!--                <artifactId>spring-boot-maven-plugin</artifactId>-->
+<!--            </plugin>-->
+<!--        </plugins>-->
+<!--    </build>-->
+
+</project>

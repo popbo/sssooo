@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.stdc.visual.dynamic.mapper.DatasetTableUnionMapper">
+    <resultMap id="BaseResultMap" type="com.stdc.visual.dynamic.base.dataset.po.DatasetTableUnion">
+        <id column="id" jdbcType="VARCHAR" property="id"/>
+        <result column="source_table_id" jdbcType="VARCHAR" property="sourceTableId"/>
+        <result column="source_table_field_id" jdbcType="VARCHAR" property="sourceTableFieldId"/>
+        <result column="source_union_relation" jdbcType="VARCHAR" property="sourceUnionRelation"/>
+        <result column="target_table_id" jdbcType="VARCHAR" property="targetTableId"/>
+        <result column="target_table_field_id" jdbcType="VARCHAR" property="targetTableFieldId"/>
+        <result column="target_union_relation" jdbcType="VARCHAR" property="targetUnionRelation"/>
+        <result column="create_by" jdbcType="VARCHAR" property="createBy"/>
+        <result column="create_time" jdbcType="BIGINT" property="createTime"/>
+    </resultMap>
+
+    <resultMap id="BaseResultMapDTO" type="com.stdc.visual.dynamic.base.dataset.dto.DataSetTableUnionDTO">
+        <id column="id" jdbcType="VARCHAR" property="id"/>
+        <result column="source_table_id" jdbcType="VARCHAR" property="sourceTableId"/>
+        <result column="source_table_field_id" jdbcType="VARCHAR" property="sourceTableFieldId"/>
+        <result column="source_union_relation" jdbcType="VARCHAR" property="sourceUnionRelation"/>
+        <result column="target_table_id" jdbcType="VARCHAR" property="targetTableId"/>
+        <result column="target_table_field_id" jdbcType="VARCHAR" property="targetTableFieldId"/>
+        <result column="target_union_relation" jdbcType="VARCHAR" property="targetUnionRelation"/>
+        <result column="create_by" jdbcType="VARCHAR" property="createBy"/>
+        <result column="create_time" jdbcType="BIGINT" property="createTime"/>
+
+        <result column="sourceTableName" jdbcType="VARCHAR" property="sourceTableName"/>
+        <result column="sourceTableFieldName" jdbcType="VARCHAR" property="sourceTableFieldName"/>
+        <result column="targetTableName" jdbcType="VARCHAR" property="targetTableName"/>
+        <result column="targetTableFieldName" jdbcType="VARCHAR" property="targetTableFieldName"/>
+    </resultMap>
+
+
+    <sql id="Example_Where_Clause">
+        <where>
+            <foreach collection="oredCriteria" item="criteria" separator="or">
+                <if test="criteria.valid">
+                    <trim prefix="(" prefixOverrides="and" suffix=")">
+                        <foreach collection="criteria.criteria" item="criterion">
+                            <choose>
+                                <when test="criterion.noValue">
+                                    and ${criterion.condition}
+                                </when>
+                                <when test="criterion.singleValue">
+                                    and ${criterion.condition} #{criterion.value}
+                                </when>
+                                <when test="criterion.betweenValue">
+                                    and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                                </when>
+                                <when test="criterion.listValue">
+                                    and ${criterion.condition}
+                                    <foreach close=")" collection="criterion.value" item="listItem" open="("
+                                             separator=",">
+                                        #{listItem}
+                                    </foreach>
+                                </when>
+                            </choose>
+                        </foreach>
+                    </trim>
+                </if>
+            </foreach>
+        </where>
+    </sql>
+    <sql id="Update_By_Example_Where_Clause">
+        <where>
+            <foreach collection="example.oredCriteria" item="criteria" separator="or">
+                <if test="criteria.valid">
+                    <trim prefix="(" prefixOverrides="and" suffix=")">
+                        <foreach collection="criteria.criteria" item="criterion">
+                            <choose>
+                                <when test="criterion.noValue">
+                                    and ${criterion.condition}
+                                </when>
+                                <when test="criterion.singleValue">
+                                    and ${criterion.condition} #{criterion.value}
+                                </when>
+                                <when test="criterion.betweenValue">
+                                    and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                                </when>
+                                <when test="criterion.listValue">
+                                    and ${criterion.condition}
+                                    <foreach close=")" collection="criterion.value" item="listItem" open="("
+                                             separator=",">
+                                        #{listItem}
+                                    </foreach>
+                                </when>
+                            </choose>
+                        </foreach>
+                    </trim>
+                </if>
+            </foreach>
+        </where>
+    </sql>
+    <sql id="Base_Column_List">
+        id, source_table_id, source_table_field_id, source_union_relation, target_table_id,
+        target_table_field_id, target_union_relation, create_by, create_time
+    </sql>
+
+    <select id="selectBySourceTableId" resultMap="BaseResultMapDTO" parameterType="java.lang.String">
+        select dtu.*,dt.name as sourceTableName,dtf.name as sourceTableFieldName,dt1.name as targetTableName,dtf1.name
+        as targetTableFieldName
+        from stdc_visual_dataset_table_union dtu
+        left join stdc_visual_dataset_table dt on dt.id = dtu.source_table_id
+        left join stdc_visual_dataset_table_field dtf on dtf.id = dtu.source_table_field_id
+        left join stdc_visual_dataset_table dt1 on dt1.id = dtu.target_table_id
+        left join stdc_visual_dataset_table_field dtf1 on dtf1.id = dtu.target_table_field_id
+        where dtu.source_table_id = #{tableId,jdbcType=VARCHAR}
+        order by dtu.create_time
+    </select>
+
+    <select id="selectByTargetTableId" resultMap="BaseResultMapDTO" parameterType="java.lang.String">
+        select dtu.*,dt.name as sourceTableName,dtf.name as sourceTableFieldName,dt1.name as targetTableName,dtf1.name
+        as targetTableFieldName
+        from stdc_visual_dataset_table_union dtu
+        left join stdc_visual_dataset_table dt on dt.id = dtu.source_table_id
+        left join stdc_visual_dataset_table_field dtf on dtf.id = dtu.source_table_field_id
+        left join stdc_visual_dataset_table dt1 on dt1.id = dtu.target_table_id
+        left join stdc_visual_dataset_table_field dtf1 on dtf1.id = dtu.target_table_field_id
+        where dtu.target_table_id = #{tableId,jdbcType=VARCHAR}
+        order by dtu.create_time
+    </select>
+
+    <select id="selectUsedFieldBySource" resultMap="BaseResultMapDTO"
+            parameterType="com.stdc.visual.dynamic.base.dataset.po.DatasetTableUnion">
+        select * from stdc_visual_dataset_table_union
+        where source_table_id = #{sourceTableId,jdbcType=VARCHAR}
+        and target_table_id = #{targetTableId,jdbcType=VARCHAR}
+        and (source_table_field_id = #{sourceTableFieldId,jdbcType=VARCHAR}
+        or target_table_field_id = #{targetTableFieldId,jdbcType=VARCHAR})
+        <if test="id != null">
+            and id != #{id,jdbcType=VARCHAR}
+        </if>
+    </select>
+
+    <select id="selectUsedFieldByTarget" resultMap="BaseResultMapDTO"
+            parameterType="com.stdc.visual.dynamic.base.dataset.po.DatasetTableUnion">
+        select * from stdc_visual_dataset_table_union
+        where source_table_id = #{targetTableId,jdbcType=VARCHAR}
+        and target_table_id = #{sourceTableId,jdbcType=VARCHAR}
+        and (source_table_field_id = #{targetTableFieldId,jdbcType=VARCHAR}
+        or target_table_field_id = #{sourceTableFieldId,jdbcType=VARCHAR})
+        <if test="id != null">
+            and id != #{id,jdbcType=VARCHAR}
+        </if>
+    </select>
+</mapper>

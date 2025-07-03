@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>stdc-visual-service</artifactId>
+        <groupId>com.stdc</groupId>
+        <version>2.0.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.stdc</groupId>
+    <artifactId>stdc-visual-dynamic</artifactId>
+    <version>${stdc-visual-dynamic.version}</version>
+    <packaging>jar</packaging>
+    <dependencies>
+        <dependency>
+            <groupId>com.stdc</groupId>
+            <artifactId>stdc-core-boot</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.stdc</groupId>
+            <artifactId>stdc-start-mybatis</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.stdc</groupId>
+            <artifactId>stdc-start-log</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.stdc</groupId>
+            <artifactId>stdc-visual-common</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.stdc</groupId>
+            <artifactId>stdc-start-auth</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.stdc</groupId>
+            <artifactId>stdc-start-redis</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.stdc</groupId>
+            <artifactId>stdc-visual-auth</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.stdc</groupId>
+            <artifactId>stdc-start-oss</artifactId>
+        </dependency>
+        <!--工具类-->
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>${commons-lang3.version}</version>
+        </dependency>
+        <!--集合类库-->
+        <dependency>
+            <groupId>commons-collections</groupId>
+            <artifactId>commons-collections</artifactId>
+            <version>${commons-collections.version}</version>
+        </dependency>
+        <!--stringtemplate-->
+        <dependency>
+            <groupId>org.antlr</groupId>
+            <artifactId>ST4</artifactId>
+            <version>${ST4.version}</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.taosdata.jdbc/taos-jdbcdriver -->
+        <dependency>
+            <groupId>com.taosdata.jdbc</groupId>
+            <artifactId>taos-jdbcdriver</artifactId>
+            <version>3.2.4</version>
+        </dependency>
+
+    </dependencies>
+
+    <build>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <includes>
+                    <include>**/*.xml</include>
+                </includes>
+            </resource>
+        </resources>
+        <plugins>
+            <!--打包资源文件-->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-resources-plugin</artifactId>
+                <version>3.2.0</version>
+            </plugin>
+            <!--打包插件-->
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <version>2.4.11</version>
+                <configuration>
+                    <skip>true</skip>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+
+</project>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.stdc.visual.dynamic.mapper.DatasetGroupMapper">
+    <resultMap id="BaseResultMap" type="com.stdc.visual.dynamic.base.dataset.po.DatasetGroup">
+        <id column="id" jdbcType="VARCHAR" property="id"/>
+        <result column="name" jdbcType="VARCHAR" property="name"/>
+        <result column="pid" jdbcType="VARCHAR" property="pid"/>
+        <result column="level" jdbcType="INTEGER" property="level"/>
+        <result column="type" jdbcType="VARCHAR" property="type"/>
+        <result column="create_by" jdbcType="VARCHAR" property="createBy"/>
+        <result column="create_time" jdbcType="BIGINT" property="createTime"/>
+    </resultMap>
+    <sql id="Example_Where_Clause">
+        <where>
+            <foreach collection="oredCriteria" item="criteria" separator="or">
+                <if test="criteria.valid">
+                    <trim prefix="(" prefixOverrides="and" suffix=")">
+                        <foreach collection="criteria.criteria" item="criterion">
+                            <choose>
+                                <when test="criterion.noValue">
+                                    and ${criterion.condition}
+                                </when>
+                                <when test="criterion.singleValue">
+                                    and ${criterion.condition} #{criterion.value}
+                                </when>
+                                <when test="criterion.betweenValue">
+                                    and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                                </when>
+                                <when test="criterion.listValue">
+                                    and ${criterion.condition}
+                                    <foreach close=")" collection="criterion.value" item="listItem" open="("
+                                             separator=",">
+                                        #{listItem}
+                                    </foreach>
+                                </when>
+                            </choose>
+                        </foreach>
+                    </trim>
+                </if>
+            </foreach>
+        </where>
+    </sql>
+    <sql id="Update_By_Example_Where_Clause">
+        <where>
+            <foreach collection="example.oredCriteria" item="criteria" separator="or">
+                <if test="criteria.valid">
+                    <trim prefix="(" prefixOverrides="and" suffix=")">
+                        <foreach collection="criteria.criteria" item="criterion">
+                            <choose>
+                                <when test="criterion.noValue">
+                                    and ${criterion.condition}
+                                </when>
+                                <when test="criterion.singleValue">
+                                    and ${criterion.condition} #{criterion.value}
+                                </when>
+                                <when test="criterion.betweenValue">
+                                    and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                                </when>
+                                <when test="criterion.listValue">
+                                    and ${criterion.condition}
+                                    <foreach close=")" collection="criterion.value" item="listItem" open="("
+                                             separator=",">
+                                        #{listItem}
+                                    </foreach>
+                                </when>
+                            </choose>
+                        </foreach>
+                    </trim>
+                </if>
+            </foreach>
+        </where>
+    </sql>
+    <sql id="Base_Column_List">
+        id, `name`, pid, `level`, `type`, create_by, create_time
+    </sql>
+    <resultMap id="BaseResultMapDTO" type="com.stdc.visual.dynamic.base.dataset.dto.DataSetGroupDTO"
+               extends="com.stdc.visual.dynamic.mapper.DatasetGroupMapper.BaseResultMap">
+        <result column="label" property="label"/>
+    </resultMap>
+
+
+
+    <select id="search" resultMap="BaseResultMapDTO">
+        select
+        id, `name`, ifnull(pid,0) as pid, `level`, `type`, create_by, create_time,`name` as label
+        from stdc_visual_dataset_group
+        WHERE
+        true
+            <if test="id != null">
+                and stdc_visual_dataset_group.id = #{id,jdbcType=VARCHAR}
+            </if>
+            <if test="name != null and name != ''">
+                and stdc_visual_dataset_group.`name` like CONCAT('%', #{name},'%')
+            </if>
+            <if test="pid != null">
+                and stdc_visual_dataset_group.pid = #{pid,jdbcType=VARCHAR}
+            </if>
+            <if test="level != null">
+                and stdc_visual_dataset_group.`level` = #{level,jdbcType=INTEGER}
+            </if>
+            <if test="type != null and type != ''">
+                and stdc_visual_dataset_group.`type` = #{type,jdbcType=VARCHAR}
+            </if>
+            <if test="createBy != null">
+                and stdc_visual_dataset_group.create_by = #{createBy,jdbcType=VARCHAR}
+            </if>
+            <if test="createTime != null">
+                and stdc_visual_dataset_group.create_time = #{createTime,jdbcType=BIGINT}
+            </if>
+            <if test="ids != null and ids.size() > 0">
+                and id in
+                <foreach collection="ids" item="item" separator="," open="(" close=")">
+                    #{item}
+                </foreach>
+            </if>
+    </select>
+
+</mapper>

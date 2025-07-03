@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.stdc.visual.mapper.OssFileMapper">
+
+    <resultMap id="ossFile" type="com.stdc.visual.entity.po.OssFile">
+        <id column="id" property="id"/>
+        <result column="name_prefix" property="namePrefix"/>
+        <result column="name_suffix" property="nameSuffix"/>
+        <result column="link" property="link"/>
+        <result column="do_main" property="doMain"/>
+        <result column="visual_id" property="visualId"/>
+        <result column="componet_id" property="componetId"/>
+        <result column="type" property="type"/>
+        <result column="system_type" property="systemType"/>
+        <result column="is_deleted" property="isDeleted"/>
+        <result column="create_time" property="createTime"/>
+        <result column="update_time" property="updateTime"/>
+    </resultMap>
+
+    <select id="queryFileByType" resultMap="ossFile">
+        SELECT
+            DISTINCT(`oss_f`.`id`),
+            `oss_f`.`name_prefix`,
+            `oss_f`.`name_suffix`,
+            `oss_f`.`link`,
+            `oss_f`.`do_main`,
+            `oss_f`.`visual_id`,
+            `oss_f`.`componet_id`,
+            `oss_f`.`type`,
+            `oss_f`.`system_type`,
+            `oss_f`.`is_deleted`,
+            `oss_f`.`create_time`,
+            `oss_f`.`update_time`
+        FROM
+            stdc_visual_oss_file oss_f
+            LEFT JOIN stdc_visual_sys_role_source srs ON srs.source_id = oss_f.id
+        WHERE
+            oss_f.system_type = #{source}
+            AND oss_f.type =  #{type}
+            AND oss_f.is_deleted= 0
+            AND srs.role_id IN
+            <foreach collection="roleIds" item="roleId" index="index" open="(" close=")" separator=",">
+                #{roleId}
+            </foreach>
+            LIMIT #{current},#{size}
+    </select>
+
+    <select id="queryFileWithVisualId" parameterType="long" resultMap="ossFile">
+        SELECT
+            oss.*
+        FROM
+            ( SELECT * FROM stdc_visual_oss_file oss ) oss
+            JOIN ( SELECT component, background_id FROM `stdc_visual_config` WHERE visual_id = #{visualId} ORDER BY update_time DESC LIMIT 1 ) cf
+        WHERE
+            LOCATE( oss.link, cf.component ) > 0
+            OR oss.id = cf.background_id
+    </select>
+
+    <select id="queryBackGroundWithVisualId" parameterType="long" resultMap="ossFile">
+        SELECT
+            oss.*
+        FROM
+            ( SELECT * FROM stdc_visual_oss_file oss ) oss
+            JOIN ( SELECT component, background_id FROM `stdc_visual_config` WHERE visual_id = #{visualId} ORDER BY update_time DESC LIMIT 1 ) cf
+        WHERE
+            oss.id = cf.background_id
+    </select>
+
+
+    <select id="queryCountByType" resultType="integer">
+        SELECT
+        count(DISTINCT(`oss_f`.`id`))
+        FROM
+        stdc_visual_oss_file oss_f
+        LEFT JOIN stdc_visual_sys_role_source srs ON srs.source_id = oss_f.id
+        WHERE
+        oss_f.system_type = #{source}
+        AND oss_f.type =  #{type}
+        AND oss_f.is_deleted= 0
+        AND srs.role_id IN
+        <foreach collection="roleIds" item="roleId" index="index" open="(" close=")" separator=",">
+            #{roleId}
+        </foreach>
+    </select>
+
+    <select id="selectBackOssFileWithOutTemplate"  parameterType="string" resultMap="ossFile">
+        SELECT
+           oss.*
+        FROM
+            stdc_visual_oss_file oss
+        WHERE
+            oss.id = #{id}
+            AND oss.id NOT IN ( SELECT background_id FROM stdc_visual_config WHERE visual_id IN ( SELECT id FROM stdc_visual_visual WHERE category = "999999" AND is_deleted = 0 ) )
+            AND oss.is_deleted = 0
+    </select>
+
+
+    <select id="queryBackGroundWithConfigId"  parameterType="long" resultMap="ossFile">
+        SELECT
+            oss_file.id
+        FROM
+            stdc_visual_oss_file
+            JOIN stdc_visual_config ON oss_file.id = config.background_id
+        WHERE
+            config.id = #{configId}
+    </select>
+
+</mapper>

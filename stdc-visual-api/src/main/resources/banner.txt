@@ -1,0 +1,15 @@
+${AnsiColor.BRIGHT_YELLOW}                   ,----,                                                                  ,----,
+${AnsiColor.BRIGHT_YELLOW}                 ,/   .`|                                                                ,/   .`|
+${AnsiColor.BRIGHT_YELLOW}  .--.--.      ,`   .'  :   ,---,      ,----..              ,---,       ,---,          ,`   .'  : ,---,
+${AnsiColor.BRIGHT_YELLOW} /  /    '.  ;    ;     / .'  .' `\   /   /   \           .'  .' `\    '  .' \       ;    ;     /'  .' \            ,---.
+${AnsiColor.BRIGHT_YELLOW}|  :  /`. /.'___,/    ,',---.'     \ |   :     :        ,---.'     \  /  ;    '.   .'___,/    ,'/  ;    '.         /__./|
+${AnsiColor.BRIGHT_YELLOW};  |  |--` |    :     | |   |  .`\  |.   |  ;. /        |   |  .`\  |:  :       \  |    :     |:  :       \   ,---.;  ; |
+${AnsiColor.BRIGHT_YELLOW}|  :  ;_   ;    |.';  ; :   : |  '  |.   ; /--`         :   : |  '  |:  |   /\   \ ;    |.';  ;:  |   /\   \ /___/ \  | |
+${AnsiColor.BRIGHT_YELLOW}\  \    `.`----'  |  | |   ' '  ;  :;   | ;            |   ' '  ;  :|  :  ' ;.   :`----'  |  ||  :  ' ;.   :\   ;  \ ' |
+${AnsiColor.BRIGHT_YELLOW}  `----.   \   '   :  ; '   | ;  .  ||   : |            '   | ;  .  ||  |  ;/  \   \   '   :  ;|  |  ;/  \   \\   \  \: |
+${AnsiColor.BRIGHT_YELLOW}  __ \  \  |   |   |  ' |   | :  |  '.   | '___         |   | :  |  ''  :  | \  \ ,'   |   |  ''  :  | \  \ ,' ;   \  ' .
+${AnsiColor.BRIGHT_YELLOW} /  /`--'  /   '   :  | '   : | /  ; '   ; : .'|        '   : | /  ; |  |  '  '--'     '   :  ||  |  '  '--'    \   \   '
+${AnsiColor.BRIGHT_YELLOW}'--'.     /    ;   |.'  |   | '` ,/  '   | '/  :        |   | '` ,/  |  :  :           ;   |.' |  :  :           \   `  ;
+${AnsiColor.BRIGHT_YELLOW}  `--'---'     '---'    ;   :  .'    |   :    /         ;   :  .'    |  | ,'           '---'   |  | ,'            :   \ |
+${AnsiColor.BRIGHT_YELLOW}                        |   ,.'       \   \ .'          |   ,.'      `--''                     `--''               '---"
+${AnsiColor.BRIGHT_YELLOW}                        '---'          `---`            '---'

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.stdc.topology2d.mapper.TopologyDataMapper">
+
+    <insert id="saveData" parameterType="com.stdc.topology2d.entity.po.TopologyData">
+        INSERT INTO
+            stdc_topology_data (
+            data,
+            collection, name, shared, version, shared_url, shared_custom,shared_encryption, create_time, category_key, category_value,
+            module_type, password, folder, username, shared_password,shared_image, visual_type, image, external_id, create_by )
+        VALUES (
+
+            json_set( CAST(#{topo.data} AS JSON) )
+            #{topo.collection}, #{topo.name}, #{topo.shared}, #{topo.version},#{topo.sharedUrl}, #{topo.sharedCustom}, #{topo.sharedEncryption},
+            NOW(), #{topo.categoryKey}, #{topo.categoryValue},#{topo.moduleType}, #{topo.password}, #{topo.folder},#{topo.username},
+            #{topo.sharedPassword}, #{topo.sharedImage},#{topo.visualType}, #{topo.image}, #{topo.externalId},#{topo.createBy} )
+    </insert>
+
+</mapper>
