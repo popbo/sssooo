@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="43.369px" height="39.654px" viewBox="0 0 43.369 39.654" enable-background="new 0 0 43.369 39.654" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<g>
+
+					<polygon com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="&#xD;&#xA;					42.369,38.654 22.146,26.98 42.369,15.303 				" />
+
+					<polygon com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="&#xD;&#xA;					1,15.303 21.225,26.98 1,38.654 				" />
+			</g>
+		</g>
+	</g>
+	<polyline com-has-ani="true" com-name="com_switch" fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="21.966,26.979 21.966,19.855&#xD;&#xA;		28.918,15.303 15.015,11.605 25.244,5.855 16.994,0.855 	" />
+</g>
+</svg>

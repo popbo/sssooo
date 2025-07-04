@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="36.74px" height="72.996px" viewBox="0 0 36.74 72.996" enable-background="new 0 0 36.74 72.996" xml:space="preserve">
+<g>
+	<g com-has-ani="true" com-name="com_no_use">
+		<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="18.943" cy="11.95" r="10.95" />
+		<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="32.974,68.019 20.678,49.474&#xD;&#xA;		17.18,51.793 13.682,49.474 1.386,68.019 6.804,71.61 17.18,55.96 27.556,71.61 	" />
+		<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="12.618,20.542 2.118,52.292&#xD;&#xA;		29.993,52.292 25.243,25.792 	" />
+
+		<rect x="20.243" y="37.417" transform="matrix(0.8766 0.4812 -0.4812 0.8766 22.933 -8.2195)" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="14.499" height="6.375" />
+	</g>
+</g>
+</svg>

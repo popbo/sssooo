@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="35.366px" height="48.201px" viewBox="0 0 35.366 48.201" enable-background="new 0 0 35.366 48.201" xml:space="preserve">
+<g>
+	<g>
+		
+			<polygon com-has-ani="true" com-name="com_stroke" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="&#xD;&#xA;			11.015,47.201 22.688,26.979 34.366,47.201 		" />
+		
+			<polygon com-has-ani="true" com-name="com_stroke" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="&#xD;&#xA;			1,13.301 21.225,24.979 1,36.654 		" />
+	</g>
+	<polyline com-has-ani="true" com-name="com_stroke" fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="22.717,26.979 22.717,19.855&#xD;&#xA;		29.668,15.301 15.765,11.605 25.995,5.855 17.745,0.855 	" />
+</g>
+</svg>

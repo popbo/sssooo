@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="81.578px" height="50.934px" viewBox="0 0 81.578 50.934" enable-background="new 0 0 81.578 50.934" xml:space="preserve">
+<g>
+	<circle fill="#947266" cx="31.45" cy="3.219" r="3.219" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="31.45" y1="6.438" x2="31.45" y2="25.121" />
+	
+		<rect x="26.3" y="24.846" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="10.3" height="25.088" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="36.6" y1="33.949" x2="26.3" y2="33.949" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="36.6" y1="41.949" x2="26.3" y2="41.949" />
+	<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="79.955,27.039 70.073,46.664 &#xD;&#xA;		60.191,27.039 	" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="64.318" y1="35.236" x2="75.959" y2="35.236" />
+	<polyline fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="0,2.967 69.521,2.967 69.521,27.211 	" />
+</g>
+</svg>

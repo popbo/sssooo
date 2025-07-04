@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="95.333px" height="169.979px" viewBox="0 0 95.333 169.979" enable-background="new 0 0 95.333 169.979" xml:space="preserve">
+<g>
+	<rect com-has-ani="true" com-name="com_stroke" x="22" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="51" height="5.666" />
+	<rect com-has-ani="true" com-name="com_stroke" x="1" y="49.665" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="93.333" height="8.667" />
+	<rect com-has-ani="true" com-name="com_stroke" x="1" y="114.665" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="93.333" height="8.667" />
+	<polygon com-has-ani="true" com-name="com_stroke" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="9.406,165.604 4.594,165.604 &#xD;&#xA;		4.594,43.944 9.406,34.998 	" />
+	<polygon com-has-ani="true" com-name="com_stroke" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="11.406,168.979 2.594,168.979 &#xD;&#xA;		4.594,165.604 9.406,165.604 	" />
+	<polygon com-has-ani="true" com-name="com_stroke" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="89.656,165.604 84.843,165.604 &#xD;&#xA;		84.843,43.944 89.656,34.998 	" />
+	<polygon com-has-ani="true" com-name="com_stroke" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="91.656,168.979 82.843,168.979 &#xD;&#xA;		84.843,165.604 89.656,165.604 	" />
+
+		<rect com-has-ani="true" com-name="com_stroke" x="9.406" y="152.093" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="75.437" height="3.646" />
+	<rect com-has-ani="true" com-name="com_stroke" x="27" y="6.666" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="3.75" height="7.625" />
+
+		<rect com-has-ani="true" com-name="com_stroke" x="36.313" y="6.666" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="3.75" height="7.625" />
+
+		<rect com-has-ani="true" com-name="com_stroke" x="45.625" y="6.666" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="3.75" height="7.625" />
+
+		<rect com-has-ani="true" com-name="com_stroke" x="54.937" y="6.666" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="3.75" height="7.625" />
+	<rect com-has-ani="true" com-name="com_stroke" x="64.25" y="6.666" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="3.75" height="7.625" />
+	<path com-has-ani="true" com-name="com_stroke" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M82,115.999c0,10.493-8.506,19-19,19H32&#xD;&#xA;		c-10.493,0-19-8.507-19-19V29c0-10.494,8.507-19,19-19h31c10.494,0,19,8.506,19,19V115.999z" />
+
+		<rect com-has-ani="true" com-name="com_stroke" x="30.083" y="134.999" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="33.75" height="9.667" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="13" y1="113.998" x2="81.763" y2="113.998" />
+</g>
+</svg>

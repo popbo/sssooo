@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="59.011px" height="76.719px" viewBox="0 0 59.011 76.719" enable-background="new 0 0 59.011 76.719" xml:space="preserve">
+<g>
+	<rect com-has-ani="true" com-name="com_inner" x="48.114" y="63.053" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="9.896" height="7" />
+
+		<ellipse com-has-ani="true" com-name="com_inner" transform="matrix(0.949 -0.3153 0.3153 0.949 -15.0106 11.3077)" fill="#E8332E" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="27.447" cy="52.052" rx="6.249" ry="1.66" />
+
+		<ellipse com-has-ani="true" com-name="com_inner" transform="matrix(0.949 -0.3153 0.3153 0.949 -16.9678 12.7164)" fill="#E8332E" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="30.82" cy="58.802" rx="6.249" ry="1.66" />
+
+		<rect com-has-ani="true" com-name="com_inner" x="3.719" y="3.719" transform="matrix(0.94 -0.3412 0.3412 0.94 -3.4832 4.97)" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="17.333" height="17.333" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="14.722" y1="20.758" x2="35.011" y2="68.345" />
+	<path com-has-ani="true" com-name="com_inner" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M6.781,28.386v47.333h41.333V28.386H6.781z&#xD;&#xA;		 M41.675,68.345H13.221V35.76h28.454V68.345z" />
+</g>
+</svg>

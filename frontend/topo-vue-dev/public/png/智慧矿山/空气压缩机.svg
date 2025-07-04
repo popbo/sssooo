@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="97.935px" height="63.668px" viewBox="0 0 97.935 63.668" enable-background="new 0 0 97.935 63.668" xml:space="preserve">
+<g>
+	<polygon com-has-ani="true" com-name="com_switch"  fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="96.759,62.668 1.175,62.668 11.175,1 &#xD;&#xA;		86.759,1 	" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="11.175" y1="1" x2="27.263" y2="62.668" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="85.931" y1="1" x2="69.843" y2="62.668" />
+</g>
+</svg>

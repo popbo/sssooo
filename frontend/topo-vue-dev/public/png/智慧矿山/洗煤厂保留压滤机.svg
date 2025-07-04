@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="37.5px" height="66.5px" viewBox="0 0 37.5 66.5" enable-background="new 0 0 37.5 66.5" xml:space="preserve">
+<g>
+	<path com-has-ani="true" com-name="com_switch"  fill="#r" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M25.367,34&#xD;&#xA;		c1.776-4.497,2.883-10.785,2.883-17.75c0-5.755-0.756-11.047-2.021-15.25H11.271C10.006,5.203,9.25,10.495,9.25,16.25&#xD;&#xA;		c0,6.965,1.105,13.253,2.883,17.75H25.367z" />
+	<ellipse fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="18.75" cy="61" rx="17.75" ry="4.5" />
+	<rect x="17" y="34" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="3.5" height="24.5" />
+</g>
+</svg>

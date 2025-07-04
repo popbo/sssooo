@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="196.597px" height="78.42px" viewBox="0 0 196.597 78.42" enable-background="new 0 0 196.597 78.42" xml:space="preserve">
+<g>
+	<g>
+		<rect x="1" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="183.566" height="76.42" />
+		<g>
+			
+				<rect x="11.241" y="6.515" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="50.422" height="26.787" />
+			
+				<rect x="67.967" y="6.515" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="50.422" height="26.787" />
+			
+				<rect x="124.691" y="6.515" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="50.422" height="26.787" />
+			<g>
+				<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="23.008" cy="15.558" r="4.676" />
+				<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="34.723" cy="23.094" r="4.676" />
+				<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="50.685" cy="14.341" r="4.675" />
+			</g>
+			<g>
+				<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="164.135" cy="15.558" r="4.676" />
+				<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="152.42" cy="23.094" r="4.676" />
+				<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="136.457" cy="14.341" r="4.676" />
+			</g>
+			
+				<rect x="72.693" y="11.242" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="23.635" height="15.756" />
+			
+				<rect x="101.844" y="11.242" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="10.242" height="15.756" />
+			
+				<rect x="18.332" y="23.06" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="9.454" height="3.939" />
+			
+				<rect x="159.355" y="23.06" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="9.455" height="3.939" />
+			<g>
+				
+					<rect x="1" y="42.755" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="92.177" height="34.665" />
+				
+					<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="10.453" y1="54.573" x2="83.723" y2="54.573" />
+				<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="26.211" cy="49.846" r="3.939" />
+				<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="43.543" cy="49.846" r="3.939" />
+				<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="61.664" cy="49.846" r="3.939" />
+				
+					<rect x="8.09" y="49.846" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="5.516" height="27.574" />
+				
+					<rect x="13.605" y="71.118" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="66.967" height="3.151" />
+				
+					<rect x="30.938" y="57.725" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="24.423" height="3.939" />
+			</g>
+			<g>
+				
+					<rect x="92.389" y="42.755" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="92.178" height="34.665" />
+				
+					<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="175.113" y1="54.573" x2="101.844" y2="54.573" />
+				<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="159.355" cy="49.846" r="3.939" />
+				<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="142.023" cy="49.846" r="3.939" />
+				<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="123.903" cy="49.846" r="3.939" />
+				
+					<rect x="171.961" y="49.846" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="5.516" height="27.574" />
+				
+					<rect x="104.994" y="71.118" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="66.967" height="3.151" />
+				
+					<rect x="130.205" y="57.725" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="24.424" height="3.939" />
+			</g>
+		</g>
+	</g>
+	
+		<rect x="184.566" y="29.362" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="11.03" height="41.755" />
+	
+		<rect x="184.566" y="15.969" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="11.03" height="5.515" />
+</g>
+</svg>

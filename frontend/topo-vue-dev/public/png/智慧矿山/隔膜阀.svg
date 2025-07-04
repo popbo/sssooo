@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="43.369px" height="32.389px" viewBox="0 0 43.369 32.389" enable-background="new 0 0 43.369 32.389" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						
+							<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="&#xD;&#xA;							42.369,31.389 22.146,19.715 42.369,8.037 						" />
+						
+							<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="&#xD;&#xA;							1,8.037 21.225,19.715 1,31.389 						" />
+					</g>
+				</g>
+			</g>
+		</g>
+		<path fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M1,6.537" />
+	</g>
+	<path fill="none" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="&#xD;&#xA;		M1,6.537C1,6.537,7.362,1,21.225,1c13.863,0,21.145,5.537,21.145,5.537" />
+</g>
+</svg>

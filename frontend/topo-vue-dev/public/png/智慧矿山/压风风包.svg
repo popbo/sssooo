@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="123.419px" height="147.865px" viewBox="0 0 123.419 147.865" enable-background="new 0 0 123.419 147.865" xml:space="preserve">
+<g com-has-ani="true" com-name="visible" visibility="visible">
+	<rect com-has-ani="true" com-name="com_switch" x="1" y="98.991" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="25.854" height="6.357" />
+
+		<rect com-has-ani="true" com-name="com_switch" x="96.565" y="57.477" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="25.854" height="6.356" />
+	<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M96.565,110.211&#xD;&#xA;		c0,8.056-6.529,14.587-14.586,14.587H42.218c-8.057,0-14.587-6.531-14.587-14.587V37.278c0-8.055,6.53-14.585,14.587-14.585h39.762&#xD;&#xA;		c8.057,0,14.586,6.53,14.586,14.585V110.211z" />
+
+		<rect com-has-ani="true" com-name="com_switch" x="50.13" y="124.798" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="23.938" height="4.861" />
+
+		<rect com-has-ani="true" com-name="com_switch" x="42.62" y="15.118" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="38.956" height="7.294" />
+
+		<rect com-has-ani="true" com-name="com_switch" x="46.733" y="129.659" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="30.729" height="4.861" />
+
+		<rect com-has-ani="true" com-name="com_switch" x="96.565" y="51.118" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="5.207" height="95.747" />
+
+		<rect com-has-ani="true" com-name="com_switch" x="22.424" y="51.118" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="5.207" height="95.747" />
+
+		<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="27.631" y1="134.521" x2="96.565" y2="134.521" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="35.888" y1="15.118" x2="88.309" y2="15.118" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="40.81" y1="1" x2="51.095" y2="1" />
+	<rect com-has-ani="true" com-name="com_switch" x="44.55" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="2.992" height="14.118" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="72.787" y1="1" x2="83.072" y2="1" />
+	<rect com-has-ani="true" com-name="com_switch" x="76.527" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="2.991" height="14.118" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="57.206" y1="6.235" x2="67.492" y2="6.235" />
+
+		<rect com-has-ani="true" com-name="com_switch" x="60.696" y="6.235" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="2.992" height="8.883" />
+</g>
+</svg>

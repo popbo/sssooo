@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="129.043px" height="50.881px" viewBox="0 0 129.043 50.881" enable-background="new 0 0 129.043 50.881" xml:space="preserve">
+<g>
+	<polygon com-has-ani="true" com-name="com_switch" fill="#947266" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="64.521,16.705 49.117,48.583 &#xD;&#xA;		33.712,16.705 	" />
+	<polygon com-has-ani="true" com-name="com_switch" fill="#947266" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="95.332,16.705 79.927,48.583 &#xD;&#xA;		64.521,16.705 	" />
+	<circle com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="13.23" cy="13.229" r="12.23" />
+	<circle com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="115.813" cy="13.229" r="12.23" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="13.23" y1="1" x2="115.813" y2="1" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="13.23" y1="25.46" x2="115.813" y2="25.46" />
+</g>
+</svg>

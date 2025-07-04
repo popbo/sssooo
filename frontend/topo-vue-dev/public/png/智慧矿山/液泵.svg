@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="89.518px" height="29.261px" viewBox="0 0 89.518 29.261" enable-background="new 0 0 89.518 29.261" xml:space="preserve">
+<g>
+	
+		<rect x="19.227" y="18.265" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="7.27" height="6.361" />
+	
+		<ellipse fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="26.497" cy="21.461" rx="2.288" ry="3.197" />
+	<g>
+		<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="20.135,22.809 23.771,6.452 &#xD;&#xA;			4.688,6.452 1.053,22.809 3.779,28.261 22.861,28.261 		" />
+		<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="1.053" y1="22.809" x2="20.135" y2="22.809" />
+	</g>
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="22.129" y1="13.835" x2="33.857" y2="13.835" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="66.479" y1="13.721" x2="51.94" y2="13.721" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="71.023" y1="21.9" x2="51.94" y2="21.9" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="71.023" y1="5.543" x2="51.94" y2="5.543" />
+	<path fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M53.758,21.9c-4.518,0-5.453-3.661-5.453-8.179&#xD;&#xA;		c0-4.517,0.936-8.178,5.453-8.178" />
+	<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M34.675,5.543c-4.517,0-4.452,3.661-4.452,8.178&#xD;&#xA;		c0,4.518-0.064,8.179,4.452,8.179h10.904V5.543H34.675z" />
+	<rect x="51.031" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="10.904" height="4.543" />
+	<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="51.94,28.261 40.127,28.261 37.4,21.9 &#xD;&#xA;		53.758,21.9 	" />
+	<rect x="3.779" y="2.817" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="20.9" height="3.634" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="10.367" y1="2.817" x2="10.367" y2="6.452" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="14.342" y1="2.817" x2="14.342" y2="6.452" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="18.318" y1="2.817" x2="18.318" y2="6.452" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="34.518" y1="5.546" x2="34.518" y2="21.898" />
+	<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M80.314,21.918h-8.633&#xD;&#xA;		c-4.529,0-8.202-3.672-8.202-8.202l0,0c0-4.511,3.69-8.202,8.202-8.202h8.633c4.531,0,8.203,3.673,8.203,8.202l0,0&#xD;&#xA;		C88.518,18.228,84.826,21.918,80.314,21.918z" />
+	
+		<ellipse fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="82.081" cy="13.716" rx="6.437" ry="8.202" />
+</g>
+</svg>

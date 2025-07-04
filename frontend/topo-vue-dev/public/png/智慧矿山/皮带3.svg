@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+viewBox="0 0 505.9 41.6" enable-background="new 0 0 505.9 41.6;" xml:space="preserve">
+<g>
+	<rect com-has-ani="true" com-name="com_switch" x="20.5" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="464.7" height="7.7"/>
+	<g com-has-ani="true" com-name="com_rotate">
+		<circle com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="20.7" cy="20.9" r="19.7"/>
+		<g>
+			<path fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M21,5.8c-0.1,0-0.2,0-0.3,0
+				c-8.3,0-15.1,6.8-15.1,15.1H21V5.8z"/>
+			<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M21,5.8c0.1,0,0.2,0,0.3,0
+				c8,0,14.6,6.8,14.6,15.1H21V5.8z"/>
+			<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M21,36c-0.1,0-0.2,0-0.3,0
+				c-8.3,0-15.1-6.8-15.1-15.1H21V36z"/>
+			<path fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10"  d="M21,36c0.1,0,0.2,0,0.3,0
+				c8,0,14.6-6.8,14.6-15.1H21V36z"/>
+		</g>
+	</g>
+	<g com-has-ani="true" com-name="com_rotate">
+		<circle com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="485.2" cy="20.9" r="19.7"/>
+		<g>
+			<path fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M485.5,5.8c-0.1,0-0.2,0-0.3,0
+				c-8.3,0-15.1,6.8-15.1,15.1h15.4V5.8z"/>
+			<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M485.4,5.8c0.1,0,0.2,0,0.3,0
+				c8,0,14.6,6.8,14.6,15.1h-14.8V5.8z"/>
+			<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M485.5,36c-0.1,0-0.2,0-0.3,0
+				c-8.3,0-15.1-6.8-15.1-15.1h15.4V36z"/>
+			<path fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M485.4,36c0.1,0,0.2,0,0.3,0
+				c8,0,14.6-6.8,14.6-15.1h-14.8V36z"/>
+		</g>
+	</g>
+</g>
+</svg>

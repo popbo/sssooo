@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1040px" height="145px" viewBox="0 0 1040 145" enable-background="new 0 0 1040 145" xml:space="preserve">
+<g>
+	<line fill="none" stroke="#947266" stroke-width="3" stroke-miterlimit="10" x1="32.5" y1="1.842" x2="1007.5" y2="1.842" />
+	<line fill="none" stroke="#947266" stroke-width="3" stroke-miterlimit="10" x1="32.5" y1="63.155" x2="422.5" y2="65.155" />
+	<line fill="none" stroke="#947266" stroke-width="3" stroke-miterlimit="10" x1="541.5" y1="63.864" x2="712" y2="63.572" />
+	<line fill="none" stroke="#947266" stroke-width="3" stroke-miterlimit="10" x1="836.5" y1="64.801" x2="1007" y2="63.301" />
+	<line fill="none" stroke="#947266" stroke-width="3" stroke-miterlimit="10" x1="786.076" y1="143.098" x2="938.5" y2="143.254" />
+	<line fill="none" stroke="#947266" stroke-width="3" stroke-miterlimit="10" x1="496.5" y1="143.117" x2="644.5" y2="143.411" />
+	<line fill="none" stroke="#947266" stroke-width="3" stroke-miterlimit="10" x1="553.857" y1="122.614" x2="634.035" y2="83.509" />
+	<line fill="none" stroke="#947266" stroke-width="3" stroke-miterlimit="10" x1="435.982" y1="72.654" x2="484.982" y2="140.385" />
+	<line fill="none" stroke="#947266" stroke-width="3" stroke-miterlimit="10" x1="726.341" y1="72.457" x2="774.826" y2="139.551" />
+	<line fill="none" stroke="#947266" stroke-width="3" stroke-miterlimit="10" x1="850.399" y1="122.904" x2="924.441" y2="85.321" />
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="494.5" cy="127" r="17" />
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="541.5" cy="94.5" r="31.5" />
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="644.5" cy="112.5" r="31.5" />
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="785" cy="127" r="17" />
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="32.5" cy="32.5" r="31.5" />
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="422.5" cy="81" r="17" />
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="712" cy="80" r="17" />
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="938.5" cy="112.5" r="31.5" />
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="836.5" cy="95.5" r="31.5" />
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="1007.5" cy="32.5" r="31.5" />
+</g>
+</svg>

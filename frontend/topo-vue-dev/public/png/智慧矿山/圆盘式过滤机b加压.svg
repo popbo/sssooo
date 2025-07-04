@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="56px" height="56px" viewBox="0 0 56 56" enable-background="new 0 0 56 56" xml:space="preserve">
+<g>
+	<rect x="1" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="54" height="54" />
+	<g>
+		<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="28" cy="28" r="18.232" />
+		
+			<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="14.748" y1="41.616" x2="41.622" y2="14.742" />
+		
+			<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="14.748" y1="14.742" x2="41.622" y2="41.616" />
+	</g>
+</g>
+</svg>

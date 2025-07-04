@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="99px" height="58px" viewBox="0 0 99 58" enable-background="new 0 0 99 58" xml:space="preserve">
+<g>
+	<rect com-has-ani="true" com-name="com_switch" x="10.93" y="20.833" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="19.403" height="21" />
+
+  <rect com-has-ani="true" com-name="com_switch" x="30.333" y="26.833" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="14.333" height="8.5" />
+
+  <rect com-has-ani="true" com-name="com_switch" x="13.333" y="41.833" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="3.667" height="8.5" />
+	<rect com-has-ani="true" com-name="com_switch" x="24" y="41.833" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="3.666" height="8.5" />
+	<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M49,17.666v21.667c0,3.313,2.687,6,6,6V11.666&#xD;&#xA;		C51.687,11.666,49,14.353,49,17.666z" />
+
+  <ellipse com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="86.167" cy="28.499" rx="11.833" ry="16.834" />
+
+  <rect com-has-ani="true" com-name="com_switch" x="55" y="11.666" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="30.666" height="33.667" />
+	<rect com-has-ani="true" com-name="com_switch" x="76.666" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="5.978" height="10.666" />
+	<rect com-has-ani="true" com-name="com_switch" x="58.333" y="6.333" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="5" height="5.333" />
+	<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M92.166,53.667c0,1.841-1.492,3.333-3.333,3.333&#xD;&#xA;		H4.334C2.492,57,1,55.508,1,53.667l0,0c0-1.842,1.492-3.334,3.334-3.334h84.499C90.674,50.333,92.166,51.825,92.166,53.667&#xD;&#xA;		L92.166,53.667z" />
+	<rect com-has-ani="true" com-name="com_switch" x="55" y="45.333" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="15.333" height="5" />
+</g>
+</svg>

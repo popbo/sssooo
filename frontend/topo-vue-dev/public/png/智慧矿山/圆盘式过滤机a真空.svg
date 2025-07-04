@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="56.465px" height="47.465px" viewBox="0 0 56.465 47.465" enable-background="new 0 0 56.465 47.465" xml:space="preserve">
+<g>
+	<polyline fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="55.465,22 55.465,46.465 1,46.465 &#xD;&#xA;		1,22 	" />
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="28.232" cy="19.232" r="18.232" />
+	<g>
+		
+			<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="12.478" y1="27.965" x2="44.478" y2="10.965" />
+		
+			<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="12.478" y1="10.965" x2="44.478" y2="27.965" />
+	</g>
+</g>
+</svg>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="27px" height="61px" viewBox="0 0 22 47" enable-background="new 0 0 22 47" xml:space="preserve">
+<g>
+  	 <rect  x="0" y="0" fill="#CCCCCC01" stroke="none" stroke-width="0" width="27" height="61"/>
+	<rect com-has-ani="true" com-name="com_knifeline" x="14.385" y="36.744" fill="#4DCC46" width="2" height="4.67" />
+	<rect com-has-ani="true" com-name="com_knifeline" x="-1.019" y="27.203" transform="matrix(-0.5404 -0.8414 0.8414 -0.5404 -8.7373 51.6329)" fill="#4DCC46" width="21.503" height="2" />
+	<rect com-has-ani="true" com-name="com_knifeline" x="14.385" y="11.156" fill="#4DCC46" width="2" height="6.973" />
+  <rect com-has-ani="true" com-name="com_knifeline" x="11.898" y="16.129" fill="#4DCC46" width="6.973" height="2" />
+  <rect com-has-ani="true" com-name="com_line" x="11.898" y="16.129" fill="#FF2727" width="6.973" height="2" />
+	<rect com-has-ani="true" com-name="com_line" x="14.385" y="10.156" fill="#FF2727" width="2" height="32.258" />
+</g>
+</svg>

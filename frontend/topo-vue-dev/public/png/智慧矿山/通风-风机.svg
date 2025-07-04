@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="56.208px" height="56.208px" viewBox="0 0 56.208 56.208" enable-background="new 0 0 56.208 56.208" xml:space="preserve">
+<g>
+	<g com-has-ani="true" com-name="com_rotate">
+		<circle com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="28.104" cy="28.105" r="27.104" />
+
+			<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="&#xD;&#xA;			M47.202,27.839c0,10.418-8.444,18.857-18.857,18.857c-10.411,0-18.856-8.439-18.856-18.857c0-10.414,8.445-18.853,18.856-18.853&#xD;&#xA;			C38.757,8.986,47.202,17.425,47.202,27.839z" />
+
+			<rect com-has-ani="true" com-name="com_switch" x="26.772" y="12.617" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="3.145" height="9.438" />
+
+			<rect com-has-ani="true" com-name="com_switch" x="34.395" y="26.531" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="9.438" height="3.146" />
+
+			<rect com-has-ani="true" com-name="com_switch" x="12.857" y="26.531" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="9.438" height="3.146" />
+
+			<rect com-has-ani="true" com-name="com_switch" x="34.703" y="30.67" transform="matrix(-0.6757 0.7371 -0.7371 -0.6757 86.8792 32.5639)" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="3.149" height="9.441" />
+
+			<polygon com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="&#xD;&#xA;			15.872,18.789 18.001,16.468 24.954,22.855 22.826,25.171 	" />
+
+			<rect com-has-ani="true" com-name="com_switch" x="34.298" y="15.687" transform="matrix(0.7158 0.6984 -0.6984 0.7158 24.446 -19.2496)" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="3.144" height="9.437" />
+
+			<rect com-has-ani="true" com-name="com_switch" x="19.247" y="31.09" transform="matrix(0.7157 0.6984 -0.6984 0.7157 30.9309 -4.3593)" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="3.146" height="9.44" />
+
+			<rect com-has-ani="true" com-name="com_switch" x="26.772" y="34.153" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="3.145" height="9.441" />
+
+			<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="&#xD;&#xA;			M28.345,36.091c-4.535,0-8.228-3.689-8.228-8.229c0-4.538,3.693-8.228,8.228-8.228c4.536,0,8.229,3.689,8.229,8.228&#xD;&#xA;			C36.574,32.401,32.88,36.091,28.345,36.091z M28.345,23.505c-2.402,0-4.356,1.955-4.356,4.357c0,2.4,1.955,4.357,4.356,4.357&#xD;&#xA;			c2.403,0,4.356-1.957,4.356-4.357C32.701,25.46,30.748,23.505,28.345,23.505z" />
+	</g>
+
+</g>
+</svg>

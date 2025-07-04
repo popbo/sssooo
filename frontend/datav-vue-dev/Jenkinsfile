@@ -1,0 +1,251 @@
+node{
+    def robots = '''{
+        "DATAV-VUE": "95bb5303-39e4-4533-b10f-cb23b4fb08a7",
+    }'''
+    def robot = readJSON text: robots
+    try {
+        run_stages()
+    } catch (e) {
+        throw e
+    }
+}
+
+
+def run_stages(){
+    stage('配置信息'){
+        common = '''{
+            "jenkins_harbor_cret": "ea9d47ea-5858-425b-8ded-37ea636449c3",
+            "harbor_host": "10.255.111.87",
+            "img_directory": "unittec",
+            "img_author": "panshuang",
+            "packageJson":"./package.json",
+            "sonar_url": "http://10.255.102.190:9000",
+            "sonar_cert_id": "7b21507c-f9e7-4fab-a678-6c19e3501e6c"
+
+            // JENKINS_RANCHER_CERT=e6d165e4-450a-41a6-bb03-c5e8853195ca
+            // IMG_HTTP_PORT=8080       //自己想要的
+            // NODE_HTTP_PORT=18061     //别人访问的
+            // AGENT_API_URL=http://10.255.102.50:8080/api/
+            // RANCHER_LOGIN_URL=https://10.255.111.50/v3
+            // RANCHER_PROJECT_ID=c-nsmgq:p-h59zl
+            // RANCHER_NAMESPACE=default
+            // RANCHER_NODE_NAME=iot-product01
+        }'''
+    }
+    stage('检出scm'){
+        checkout scm
+    }
+
+    stage('读取环境'){
+        // 获取当前分支
+        branch_name = getGitbranch_name()
+        Common = readJSON text: common
+        packageJson = readJSON file: Common['packageJson']
+        app_name = "${packageJson.name}"
+        img_tag = "${packageJson.version}"
+        img_name = "${app_name}-${branch_name}"
+        docker_harbor_image = "${Common['harbor_host']}/${Common['img_directory']}/${img_name}:${img_tag}"
+        service_name = "${img_name}"
+        if(env.SERVICE_NAME && "${SERVICE_NAME}"!=null && "${SERVICE_NAME}" != ""){
+            service_name = "${SERVICE_NAME}"
+        }
+    }
+    stage('代码质量检查'){
+        withCredentials([string(credentialsId: Common['sonar_cert_id'], variable: 'sonar_cert')]) {
+            def sonar_scanner_home = tool name: 'sonar_scanner_local_4.7'
+            withEnv(["PATH+bin=${sonar_scanner_home}/bin"]) {
+                sh "sonar-scanner -Dsonar.projectKey=${app_name} -Dsonar.sources=. -Dsonar.host.url=${Common['sonar_url']} -Dsonar.login=${sonar_cert}"
+            }            
+        }
+    }
+    stage('编译->打包') {
+        def root = tool name: 'local_node_14.15.1', type: 'nodejs'
+        withEnv(["NODEROOT=${root}", "PATH+NODE=${root}/bin"]){
+            sh "node --version"
+            sh "npm --version"
+            sh "npm install --registry=http://10.255.102.228:8081/repository/npm-public/" 
+            sh "npm run build"            
+        }
+ 	}
+    stage('编写nginx') {
+        dir("./dist/") {
+            writeFile encoding: 'utf-8', file: 'nginx.conf', text: '''
+worker_processes  1;
+events {
+    worker_connections  1024;
+}
+http {
+    include       mime.types;
+    default_type  application/octet-stream;
+    sendfile      on;
+    keepalive_timeout  65;
+    client_max_body_size 500m;
+
+    map $http_upgrade $connection_upgrade { 
+        default          keep-alive;  
+        'websocket'      upgrade;     
+    }
+
+    server {
+        listen       ''' + "${IMG_HTTP_PORT}" + ''';
+        server_name  localhost;
+        location / {
+            root   /home/projects/ui;
+            try_files $uri $uri/ /index.html;
+            index  index.html index.htm;
+        }		
+        location /''' + "${AGENT_API_PATH}" + '''/{
+            proxy_set_header Host $http_host;
+            proxy_set_header X-Real-IP $remote_addr;
+            proxy_set_header REMOTE-HOST $remote_addr;
+            proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+            proxy_http_version 1.1;
+            proxy_set_header Upgrade $http_upgrade;
+            proxy_set_header Connection "upgrade";
+            proxy_pass ''' + "${AGENT_API_URL}" + ''';
+        }
+
+        location /''' + "${AGENT_API_PATH}" + '''/ws/event {
+            proxy_pass ''' + "${AGENT_API_HOST}" + ''';
+            proxy_http_version 1.1;
+            proxy_set_header Upgrade $http_upgrade; 
+            proxy_set_header Connection $connection_upgrade;
+            proxy_read_timeout 60000s;
+        }
+        location /stdc-visual/custom/{
+            proxy_pass http://10.255.111.142:9000/stdc-visual/custom/; 
+        }
+        location /stdc-visual/system/{
+            proxy_pass http://10.255.111.142:9000/stdc-visual/system/;
+        }
+        error_page   500 502 503 504  /50x.html;
+        location = /50x.html {
+            root   html;
+        }
+    }
+}'''    
+        }
+    }
+        stage('编写sso.js') {
+        dir("./dist/") {
+            writeFile encoding: 'utf-8', file: 'sso.js', text: '''
+window.$website = {
+  // url: 'https://data.bladex.vip/blade-visual', // http://192.168.152.43:8050
+  // url: 'http://192.168.152.43:8050',
+  // url: 'http://192.168.152.43:8080/stdc-visual',
+  // url: 'http://192.168.152.43:8083/stdc-visual',
+  url: 'http://10.255.111.102:18061/stdc-visual',
+  isDemo: false,
+  isDemoTip: '演示环境不允许操作',
+}
+
+window.ssoConfig = {
+  mode: \'''' + "${SSO_JS_MODEL}" + '''\', // 空则不使用单点  支持的模式有  cas oauth basic
+  url: 'https://uia.unittec.com/cipher/cas/login',
+  logout: 'https://uia.unittec.com/cipher/cas/logout',
+}
+'''    
+        }
+    }
+    stage('构建镜像') {
+        dir("./dist/") {
+            withCredentials([usernamePassword(credentialsId: Common['jenkins_harbor_cret'], passwordVariable: 'password', usernameVariable: 'username')]) {
+                sh """
+                docker login ${Common['harbor_host']} -u ${username} -p ${password}
+                cat > Dockerfile << EOF
+# 基础镜像
+FROM 10.255.111.87/library/nginx:1.23
+# author
+MAINTAINER lxx
+
+# 挂载目录
+VOLUME /home/projects/ui
+# 创建目录
+RUN mkdir -p /home/projects/ui
+# 指定路径
+WORKDIR /home/projects/ui
+# 复制conf文件到路径
+COPY ./nginx.conf /etc/nginx/nginx.conf
+# 复制html文件到路径
+COPY . /home/projects/ui
+EOF
+            docker build -t ${docker_harbor_image} .
+            docker login ${Common['harbor_host']} -u ${username} -p ${password}
+            docker push ${docker_harbor_image}
+        """
+            }
+        }
+    }
+    stage('清理旧镜像') {
+        dir("./") {
+            sh """
+            sh /mnt/data/jenkins/clear_old_images.sh ${docker_harbor_image}
+            """
+        }
+    }
+    stage('安装部署') {
+        dir("./") {
+            withCredentials([string(credentialsId: "${JENKINS_RANCHER_CERT}", variable: 'token')]) {
+                sh """
+                rancher login ${RANCHER_LOGIN_URL} --token ${token} --skip-verify --context ${RANCHER_PROJECT_ID};
+                cat > app-jenkins-rancher.yml << EOF
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ${service_name}
+  namespace: ${RANCHER_NAMESPACE}
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      workload.user.cattle.io/workloadselector: deployment-${RANCHER_NAMESPACE}-${service_name}
+  strategy:
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 0
+    type: RollingUpdate
+  template:
+    metadata:
+      labels:
+        workload.user.cattle.io/workloadselector: deployment-${RANCHER_NAMESPACE}-${service_name}
+    spec:
+      imagePullSecrets:
+        - name: harbor-cert
+      nodeName: ${RANCHER_NODE_NAME}
+      restartPolicy: Always
+      containers:
+        - name: ${service_name}
+          image: ${Common['harbor_host']}/${Common['img_directory']}/${img_name}:${img_tag}
+          imagePullPolicy: Always
+          ports:
+            - name: ${IMG_HTTP_PORT}tcp${NODE_HTTP_PORT}
+              containerPort: ${IMG_HTTP_PORT}
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: service-${service_name}
+  namespace: ${RANCHER_NAMESPACE}
+spec:
+  ports:
+    - name: http
+      port: ${IMG_HTTP_PORT}
+      targetPort: ${IMG_HTTP_PORT}
+      nodePort: ${NODE_HTTP_PORT}
+  selector:
+    workload.user.cattle.io/workloadselector: deployment-${RANCHER_NAMESPACE}-${service_name}
+  type: NodePort
+EOF
+                cat app-jenkins-rancher.yml
+                rancher kubectl apply -f app-jenkins-rancher.yml
+                rancher kubectl rollout restart deployment/${service_name} --namespace ${RANCHER_NAMESPACE}
+                """
+            }
+        }
+    }
+}
+
+// 获取分支名称
+def getGitbranch_name() {
+    return scm.branches[0].name
+}

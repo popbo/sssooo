@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="69.223px" height="53.538px" viewBox="0 0 69.223 53.538" enable-background="new 0 0 69.223 53.538" xml:space="preserve">
+<g>
+	<rect x="1" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="22.408" height="37.347" />
+	<rect x="23.408" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="22.408" height="37.347" />
+	<rect x="45.816" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="22.407" height="37.347" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="1" y1="17.153" x2="68.223" y2="17.153" />
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="12.204" cy="9.217" r="6.722" />
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="34.611" cy="9.217" r="6.722" />
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="57.019" cy="9.217" r="6.723" />
+	<rect x="1" y="38.347" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="67.223" height="14.191" />
+</g>
+</svg>

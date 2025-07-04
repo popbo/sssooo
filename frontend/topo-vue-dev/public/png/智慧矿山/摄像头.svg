@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="图层_1"   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 26.44 31.83">
+  <circle cx="13.22" cy="13.19" r="12.19" style="fill:#FFF201;stroke:#947266;stroke-miterlimit:10;stroke-width:2px"/>
+  <circle cx="13.22" cy="13.19" r="6.27" style="fill:#947266"/>
+  <circle cx="10.98" cy="10.49" r="2.6" style="fill:#fff"/>
+  <path d="M23.25,24.13c1.38.69,2.19,1.53,2.19,2.44,0,2.35-5.47,4.26-12.22,4.26S1,28.92,1,26.57c0-.89.79-1.72,2.14-2.41"
+        style="fill:#FFC900;stroke:#947266;stroke-linecap:round;stroke-miterlimit:10;stroke-width:2px"/>
+</svg>

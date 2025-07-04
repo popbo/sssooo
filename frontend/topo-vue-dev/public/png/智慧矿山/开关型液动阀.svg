@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="30.446px" height="39.204px" viewBox="0 0 30.446 39.204" enable-background="new 0 0 30.446 39.204" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<rect x="13.459" y="19.568" fill="#CCCCCC" width="3.529" height="10.532"/>
+			<polygon com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#8C6B5C" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				29.946,38.704 15.551,30.393 29.946,22.081 			"/>
+
+			<polygon com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#8C6B5C" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				0.5,22.081 14.896,30.393 0.5,38.704 			"/>
+
+		</g>
+		<g>
+
+				<rect com-has-ani="true" com-name="com_switch" x="8.027" y="0.5" fill="#CCCCCC" stroke="#947266" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="14.392" height="19.688"/>
+		</g>
+	</g>
+	<polygon fill="#8C6B5C" points="21.543,10.531 8.904,10.531 8.904,12.284 14.348,12.284 14.348,19.308 16.102,19.308
+		16.102,12.284 21.543,12.284 	"/>
+	<rect x="9.841" y="7.287" fill="#8C6B5C" width="10.766" height="1.775"/>
+</g>
+</svg>

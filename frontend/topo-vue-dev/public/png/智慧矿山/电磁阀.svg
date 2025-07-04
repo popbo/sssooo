@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="30.448px" height="38.131px" viewBox="0 0 30.448 38.131" enable-background="new 0 0 30.448 38.131" xml:space="preserve">
+<g>
+	<g>
+		<rect x="13.46" y="18.493" fill="#CCCCCC" width="3.528" height="10.533"/>
+		<polygon com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#8C6B5C" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			29.948,37.631 15.552,29.319 29.948,21.008 		"/>
+
+		<polygon com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#8C6B5C" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			0.5,21.008 14.897,29.319 0.5,37.631 		"/>
+
+	</g>
+	<g>
+		<g>
+			<circle fill="#947266" cx="14.703" cy="10.746" r="10.746"/>
+			<circle com-has-ani="true" com-name="com_switch" fill="#CCCCCC" cx="14.702" cy="10.746" r="9.208"/>
+		</g>
+		<g>
+			<path fill="#040000" d="M11.581,13.616c0.277,0.242,0.648,0.441,1.113,0.599c0.465,0.156,0.906,0.233,1.324,0.233
+				c1.273,0,1.91-0.452,1.91-1.358c0-0.254-0.068-0.482-0.205-0.687c-0.137-0.204-0.324-0.383-0.563-0.539
+				c-0.239-0.155-0.686-0.396-1.342-0.721c-0.91-0.453-1.51-0.874-1.799-1.263s-0.434-0.833-0.434-1.333
+				c0-0.754,0.303-1.353,0.908-1.793c0.605-0.441,1.369-0.662,2.291-0.662c0.902,0,1.564,0.109,1.986,0.328v1.276
+				c-0.547-0.379-1.238-0.567-2.074-0.567c-0.555,0-1.007,0.116-1.356,0.349c-0.349,0.233-0.524,0.557-0.524,0.971
+				c0,0.366,0.121,0.666,0.363,0.896s0.768,0.545,1.576,0.943c0.891,0.426,1.514,0.852,1.868,1.276
+				c0.355,0.425,0.533,0.904,0.533,1.437c0,0.797-0.289,1.407-0.867,1.834c-0.577,0.426-1.38,0.639-2.407,0.639
+				c-0.359,0-0.778-0.05-1.257-0.149c-0.479-0.099-0.827-0.224-1.046-0.371v-1.337H11.581z"/>
+		</g>
+	</g>
+</g>
+</svg>

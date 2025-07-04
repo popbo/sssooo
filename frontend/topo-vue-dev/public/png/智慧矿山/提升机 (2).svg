@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="100px" y="100px" width="284.213px" height="675.171px" viewBox="0 0 284.213 675.171" enable-background="new 0 0 284.213 675.171" xml:space="preserve">
+<g >
+	<path com-has-ani="true" com-name="com_path" fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M100.927,64.614v574.055&#xD;&#xA;		c0,19.607,15.895,35.502,35.502,35.502s35.503-15.895,35.503-35.502V104.344l12.267-31.045" />
+	<g>
+
+			<rect com-has-ani="true" com-name="com_move" x="161.24" y="136.877" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" width="14.513" height="23.92" />
+		<g>
+
+				<rect com-has-ani="true" com-name="com_move_u" x="164.977" y="140.768" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" width="7.04" height="7.041" />
+
+				<rect com-has-ani="true" com-name="com_move_d" x="164.977" y="149.866" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" width="7.04" height="7.041" />
+
+				<line com-has-ani="true" com-name="com_move_lu" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" x1="164.977" y1="140.768" x2="172.017" y2="147.809" />
+
+				<line com-has-ani="true" com-name="com_move_ld" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" x1="164.977" y1="149.866" x2="172.017" y2="156.907" />
+		</g>
+	</g>
+	<g>
+		<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" cx="182.332" cy="115.62" r="19.011" />
+
+			<line com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" x1="163.32" y1="115.62" x2="182.332" y2="115.62" />
+
+			<line com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" x1="165.868" y1="125.125" x2="182.332" y2="115.62" />
+
+			<line com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" x1="172.826" y1="132.084" x2="182.332" y2="115.62" />
+
+			<line com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" x1="182.332" y1="134.631" x2="182.332" y2="115.62" />
+
+			<line com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" x1="191.838" y1="132.084" x2="182.332" y2="115.62" />
+
+			<line com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" x1="198.796" y1="125.125" x2="182.332" y2="115.62" />
+
+			<line com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" x1="201.343" y1="115.62" x2="182.332" y2="115.62" />
+
+			<line com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" x1="198.796" y1="106.116" x2="182.332" y2="115.62" />
+
+			<line com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" x1="191.838" y1="99.157" x2="182.332" y2="115.62" />
+
+			<line com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" x1="182.332" y1="96.61" x2="182.332" y2="115.62" />
+
+			<line com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" x1="172.826" y1="99.157" x2="182.332" y2="115.62" />
+
+			<line com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" x1="165.868" y1="106.116" x2="182.332" y2="115.62" />
+		<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" cx="182.332" cy="115.62" r="4.037" />
+		<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" cx="178.625" cy="101.785" r="1.98" />
+		<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" cx="172.204" cy="105.493" r="1.98" />
+		<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" cx="168.496" cy="111.914" r="1.981" />
+		<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" cx="168.496" cy="119.327" r="1.981" />
+		<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" cx="172.204" cy="125.749" r="1.98" />
+		<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" cx="178.625" cy="129.457" r="1.98" />
+		<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" cx="186.039" cy="129.457" r="1.981" />
+		<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" cx="192.46" cy="125.749" r="1.98" />
+		<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" cx="196.167" cy="119.327" r="1.981" />
+		<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" cx="196.167" cy="111.914" r="1.98" />
+		<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" cx="192.46" cy="105.493" r="1.98" />
+		<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" cx="186.039" cy="101.785" r="1.981" />
+	</g>
+	<g>
+		<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="141.589" cy="50.143" r="48.89" />
+		<g>
+			<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="141.589" cy="50.143" r="36.706" />
+			<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="141.589" cy="50.143" r="14.47" />
+			<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="141.589" cy="50.143" r="5.74" />
+			<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="127.119" cy="28.436" r="5.74" />
+			<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="156.047" cy="28.436" r="5.74" />
+			<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="127.119" cy="71.85" r="5.74" />
+			<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="156.047" cy="71.85" r="5.74" />
+		</g>
+
+			<line com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="141.589" y1="1.252" x2="141.589" y2="99.034" />
+	</g>
+	<g>
+		<path com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M276.615,134.631h-75.272V98.805h49.272&#xD;&#xA;			c0,0,2.325,11.893-11.636,11.893c0,0.553-5.864,1.652-5.864,13.869c0,0.391,13.75,0,13.75,0l3.25,6.113h11.75L276.615,134.631z" />
+		<g>
+
+				<rect com-has-ani="true" com-name="com_fill" x="206.296" y="93.176" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="4.272" height="17.691" />
+
+				<rect com-has-ani="true" com-name="com_fill" x="204.202" y="110.868" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="8.46" height="6.479" />
+		</g>
+		<g>
+
+				<rect com-has-ani="true" com-name="com_fill" x="218.651" y="93.176" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="4.272" height="17.691" />
+
+				<rect com-has-ani="true" com-name="com_fill" x="216.558" y="110.868" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="8.46" height="6.479" />
+		</g>
+		<g>
+			<g>
+				<polygon com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="209.365,6.28 209.365,18.78 &#xD;&#xA;					201.343,18.78 201.343,95.756 228.115,95.756 228.115,31.28 211.615,4.53 				" />
+				<polygon com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="215.122,1.073 230.865,24 &#xD;&#xA;					227.615,35.28 206.092,2.28 				" />
+			</g>
+			<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="209.365" cy="88.801" r="4.375" />
+			<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="220.365" cy="88.801" r="4.375" />
+		</g>
+		<g>
+			<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="204.359" cy="33.618" r="8.761" />
+			<path com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M186.429,45.133l-2.82-6.668&#xD;&#xA;				c-0.876-2.07,0.093-4.461,2.164-5.336l7.695-3.256c2.071-0.876,4.461,0.092,5.337,2.165l2.82,6.666&#xD;&#xA;				c0.876,2.072-0.093,4.46-2.163,5.335l-7.696,3.256C189.694,48.172,187.306,47.204,186.429,45.133z" />
+		</g>
+		<g>
+			<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="206.092" cy="53.268" r="8.761" />
+			<path com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M188.162,64.784l-2.821-6.666&#xD;&#xA;				c-0.876-2.072,0.093-4.461,2.164-5.338l7.696-3.256c2.071-0.875,4.46,0.094,5.336,2.164l2.821,6.668&#xD;&#xA;				c0.876,2.07-0.093,4.459-2.164,5.336l-7.696,3.256C191.428,67.825,189.038,66.856,188.162,64.784z" />
+		</g>
+	</g>
+	<g>
+		<path com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M7.598,134.631h75.271V98.805H33.598&#xD;&#xA;			c0,0-2.326,11.893,11.636,11.893c0,0.553,5.864,1.652,5.864,13.869c0,0.391-13.75,0-13.75,0l-3.25,6.113h-11.75L7.598,134.631z" />
+		<g>
+
+				<rect com-has-ani="true" com-name="com_fill" x="73.644" y="93.176" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="4.273" height="17.691" />
+
+				<rect com-has-ani="true" com-name="com_fill" x="71.551" y="110.868" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="8.46" height="6.479" />
+		</g>
+		<g>
+
+				<rect com-has-ani="true" com-name="com_fill" x="61.289" y="93.176" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="4.272" height="17.691" />
+
+				<rect com-has-ani="true" com-name="com_fill" x="59.195" y="110.868" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="8.46" height="6.479" />
+		</g>
+		<g>
+			<g>
+				<polygon com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="74.848,6.28 74.848,18.78 &#xD;&#xA;					82.869,18.78 82.869,95.756 56.098,95.756 56.098,31.28 72.598,4.53 				" />
+				<polygon com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="69.09,1.073 53.348,24 56.598,35.28 &#xD;&#xA;					78.12,2.28 				" />
+			</g>
+			<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="74.848" cy="88.801" r="4.375" />
+			<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="63.848" cy="88.801" r="4.375" />
+		</g>
+		<g>
+			<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="79.853" cy="33.618" r="8.761" />
+			<path com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M97.783,45.133l2.82-6.668&#xD;&#xA;				c0.877-2.07-0.092-4.461-2.163-5.336l-7.696-3.256c-2.071-0.876-4.46,0.092-5.336,2.165l-2.821,6.666&#xD;&#xA;				c-0.876,2.072,0.093,4.46,2.164,5.335l7.696,3.256C94.518,48.172,96.907,47.204,97.783,45.133z" />
+		</g>
+		<g>
+			<circle com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="78.121" cy="53.268" r="8.761" />
+			<path com-has-ani="true" com-name="com_fill" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M96.051,64.784l2.82-6.666&#xD;&#xA;				c0.876-2.072-0.093-4.461-2.164-5.338l-7.695-3.256c-2.071-0.875-4.461,0.094-5.337,2.164l-2.82,6.668&#xD;&#xA;				c-0.876,2.07,0.093,4.459,2.163,5.336l7.696,3.256C92.785,67.825,95.175,66.856,96.051,64.784z" />
+		</g>
+	</g>
+	<g>
+
+			<rect  com-has-ani="true" com-name="com_move_l" x="93.671" y="636.202" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" width="14.512" height="23.918" />
+		<g>
+
+				<rect com-has-ani="true" com-name="com_move_u_l" x="97.407" y="640.093" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" width="7.039" height="7.039" />
+
+				<rect com-has-ani="true" com-name="com_move_d_l" x="97.407" y="649.19" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" width="7.039" height="7.039" />
+
+				<line com-has-ani="true" com-name="com_move_lu_l" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" x1="97.407" y1="640.093" x2="104.446" y2="647.132" />
+
+				<line com-has-ani="true" com-name="com_move_ld_l" fill="#CCCCCC" stroke="#947266" stroke-width="1.5" stroke-miterlimit="10" x1="97.407" y1="649.19" x2="104.446" y2="656.229" />
+		</g>
+	</g>
+</g>
+</svg>

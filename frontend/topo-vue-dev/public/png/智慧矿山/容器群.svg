@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="65.24px" height="57.332px" viewBox="0 0 65.24 57.332" enable-background="new 0 0 65.24 57.332" xml:space="preserve">
+<g>
+	<g>
+		<rect x="16.953" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="31.333" height="12" />
+		<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="48.286,13 16.953,13 24.953,44.332 &#xD;&#xA;			40.286,44.332 		" />
+	</g>
+	<g>
+		<rect x="1.287" y="5" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="31.333" height="12" />
+		<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="32.62,17 1.287,17 9.287,48.332 &#xD;&#xA;			24.62,48.332 		" />
+	</g>
+	<g>
+		<rect x="32.62" y="5" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="31.333" height="12" />
+		<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="63.953,17 32.62,17 40.62,48.332 &#xD;&#xA;			55.953,48.332 		" />
+	</g>
+	<g>
+		<rect x="16.953" y="13" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="31.333" height="12" />
+		<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="48.286,25 16.953,25 24.953,56.332 &#xD;&#xA;			40.286,56.332 		" />
+	</g>
+</g>
+</svg>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="94px" height="29px" viewBox="0 0 94 29" enable-background="new 0 0 94 29" xml:space="preserve">
+<g>
+	<rect com-has-ani="true" com-name="com_inner" x="1" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="23" height="23" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="1" y1="1" x2="24" y2="24" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="24" y1="1" x2="1" y2="24" />
+</g>
+<g>
+	<g>
+		<rect com-has-ani="true" com-name="com_inner" x="24" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="23" height="23" />
+		<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="24" y1="1" x2="47" y2="24" />
+		<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="47" y1="1" x2="24" y2="24" />
+	</g>
+	<g>
+		<rect com-has-ani="true" com-name="com_inner" x="47" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="23" height="23" />
+		<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="47" y1="1" x2="70" y2="24" />
+		<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="70" y1="1" x2="47" y2="24" />
+	</g>
+	<g>
+		<rect com-has-ani="true" com-name="com_inner" x="70" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="23" height="23" />
+		<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="70" y1="1" x2="93" y2="24" />
+		<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="93" y1="1" x2="70" y2="24" />
+	</g>
+	<rect com-has-ani="true" com-name="com_inner" x="1" y="24" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="92" height="4" />
+</g>
+</svg>

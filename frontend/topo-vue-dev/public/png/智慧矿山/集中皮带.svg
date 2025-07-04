@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="810.502px" height="83.635px" viewBox="0 0 810.502 83.635" enable-background="new 0 0 810.502 83.635" xml:space="preserve">
+<g>
+	<line fill="#040000" stroke="#947266" stroke-width="3" stroke-miterlimit="10" x1="24.145" y1="19.677" x2="785.896" y2="1.53" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="3" stroke-miterlimit="10" x1="786.36" y1="46.754" x2="512.644" y2="28.49" />
+	
+		<line fill="#CCCCCC" stroke="#947266" stroke-width="3" stroke-miterlimit="10" x1="512.644" y1="52.067" x2="647.243" y2="56.833" />
+	
+		<line fill="#CCCCCC" stroke="#947266" stroke-width="3" stroke-miterlimit="10" x1="647.311" y1="79.78" x2="171.104" y2="55.239" />
+	
+		<line fill="#CCCCCC" stroke="#947266" stroke-width="3" stroke-miterlimit="10" x1="170.055" y1="55.239" x2="24.711" y2="64.895" />
+	<g>
+		<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M777.97,2.58&#xD;&#xA;			c-5.519,2.146-10.218,6.4-12.79,12.247l21.18,9.316L777.97,2.58z" />
+		<path fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M765.18,14.827&#xD;&#xA;			c-2.385,5.42-2.7,11.75-0.385,17.705l21.564-8.389L765.18,14.827z" />
+		<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M764.795,32.532&#xD;&#xA;			c2.147,5.52,6.4,10.216,12.248,12.789l9.316-21.177L764.795,32.532z" />
+		<path fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M777.043,45.321&#xD;&#xA;			c5.42,2.383,11.752,2.699,17.705,0.385l-8.389-21.562L777.043,45.321z" />
+		<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M794.749,45.706&#xD;&#xA;			c5.518-2.146,10.216-6.398,12.789-12.248l-21.178-9.314L794.749,45.706z" />
+		<path fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M807.538,33.458&#xD;&#xA;			c2.385-5.42,2.701-11.75,0.385-17.705l-21.563,8.391L807.538,33.458z" />
+		<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M807.922,15.753&#xD;&#xA;			c-2.147-5.518-6.4-10.217-12.248-12.788l-9.314,21.179L807.922,15.753z" />
+		<path fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M795.674,2.965&#xD;&#xA;			c-5.42-2.386-11.75-2.7-17.704-0.385l8.39,21.563L795.674,2.965z" />
+	</g>
+	<g>
+		<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M15.754,20.722&#xD;&#xA;			c-5.518,2.146-10.217,6.4-12.789,12.247l21.18,9.317L15.754,20.722z" />
+		<path fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M2.965,32.969&#xD;&#xA;			c-2.385,5.42-2.701,11.75-0.385,17.706l21.564-8.389L2.965,32.969z" />
+		<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M2.581,50.674&#xD;&#xA;			c2.146,5.52,6.4,10.217,12.248,12.789l9.316-21.178L2.581,50.674z" />
+		<path fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M14.829,63.463&#xD;&#xA;			c5.42,2.383,11.752,2.697,17.705,0.383l-8.389-21.561L14.829,63.463z" />
+		<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M32.534,63.846&#xD;&#xA;			C38.051,61.7,42.749,57.45,45.323,51.6l-21.178-9.314L32.534,63.846z" />
+		<path fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M45.323,51.6&#xD;&#xA;			c2.385-5.42,2.701-11.75,0.385-17.706l-21.563,8.391L45.323,51.6z" />
+		<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M45.708,33.895&#xD;&#xA;			c-2.148-5.518-6.4-10.217-12.248-12.788l-9.314,21.179L45.708,33.895z" />
+		<path fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M33.459,21.106&#xD;&#xA;			c-5.42-2.386-11.75-2.7-17.705-0.385l8.391,21.564L33.459,21.106z" />
+	</g>
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="170.977" cy="68.635" r="14" />
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="512.644" cy="40.301" r="12.333" />
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="647.311" cy="68.301" r="12" />
+</g>
+</svg>

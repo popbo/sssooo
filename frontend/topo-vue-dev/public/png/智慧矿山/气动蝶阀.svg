@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="27.945px" height="39.122px" viewBox="0 0 27.945 39.122" enable-background="new 0 0 27.945 39.122" xml:space="preserve">
+<g>
+	<g>
+		<rect x="12.243" y="18.161" fill="#CCCCCC" width="3.528" height="10.533"/>
+		<g>
+
+				<rect com-has-ani="true" com-name="com_switch" x="0.5" y="28.694" fill="#CCCCCC" stroke="#8C6B5C" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="26.945" height="9.928"/>
+			<g>
+				<path fill="#8C6B5C" d="M16.496,33.274l11.157-4.111l-0.346-0.938l-11.152,4.109C16.327,32.616,16.444,32.934,16.496,33.274z"/>
+				<path fill="#8C6B5C" d="M11.452,34.067l-11.09,4.086l0.346,0.938l11.094-4.086C11.626,34.723,11.507,34.407,11.452,34.067z"/>
+			</g>
+
+				<circle fill="none" stroke="#8C6B5C" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="13.973" cy="33.659" r="2.063"/>
+		</g>
+	</g>
+	<g>
+
+			<rect com-has-ani="true" com-name="com_switch" x="6.776" y="0.5" fill="#CCCCCC" stroke="#947266" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="14.393" height="19.688"/>
+		<polygon fill="#8C6B5C" points="20.013,11.687 7.933,11.687 7.933,13.364 13.136,13.364 13.136,20.075 14.813,20.075
+			14.813,13.364 20.013,13.364 		"/>
+	</g>
+</g>
+</svg>

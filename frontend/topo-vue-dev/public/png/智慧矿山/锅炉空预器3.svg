@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="172.065px" height="25.879px" viewBox="0 0 172.065 25.879" enable-background="new 0 0 172.065 25.879"
+	 xml:space="preserve">
+<g>
+	
+		<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M171.065,21.238c0,2.01-4.178,3.641-9.325,3.641H10.324C5.177,24.879,1,23.248,1,21.238V4.642C1,2.63,5.177,1,10.017,1h151.417
+		c5.454,0,9.632,1.63,9.632,3.642V21.238L171.065,21.238z"/>
+	<rect x="52.734" y="2.576" fill="#947266" width="2.098" height="20.438"/>
+	<rect x="111.921" y="2.648" fill="#947266" width="2.099" height="20.438"/>
+</g>
+</svg>

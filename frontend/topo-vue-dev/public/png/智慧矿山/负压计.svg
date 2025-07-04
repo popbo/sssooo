@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="63.267px" height="128.427px" viewBox="0 0 63.267 128.427" enable-background="new 0 0 63.267 128.427" xml:space="preserve">
+<g>
+	<path fill="#E7211A" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M53.349,1.032v95.854&#xD;&#xA;		c0,11.943-9.771,21.716-21.716,21.716l0,0c-11.943,0-21.716-9.772-21.716-21.716V1.032L1,1.003v95.79&#xD;&#xA;		c0,16.849,13.785,30.634,30.633,30.634l0,0c16.849,0,30.634-13.785,30.634-30.634V1.003L53.349,1.032z" />
+	<g>
+		<line fill="none" stroke="#6BB92D" stroke-width="2" stroke-miterlimit="10" x1="24.976" y1="7.465" x2="24.976" y2="104.566" />
+		<line fill="none" stroke="#6BB92D" stroke-width="2" stroke-miterlimit="10" x1="17.366" y1="7.465" x2="32.225" y2="7.465" />
+		<line fill="none" stroke="#6BB92D" stroke-width="2" stroke-miterlimit="10" x1="19.366" y1="17.175" x2="30.226" y2="17.175" />
+		<line fill="none" stroke="#6BB92D" stroke-width="2" stroke-miterlimit="10" x1="19.366" y1="26.885" x2="30.226" y2="26.885" />
+		<line fill="none" stroke="#6BB92D" stroke-width="2" stroke-miterlimit="10" x1="19.366" y1="36.595" x2="30.226" y2="36.595" />
+		<line fill="none" stroke="#6BB92D" stroke-width="2" stroke-miterlimit="10" x1="19.366" y1="46.305" x2="30.226" y2="46.305" />
+		<line fill="none" stroke="#E7211A" stroke-width="2" stroke-miterlimit="10" x1="19.366" y1="56.015" x2="30.226" y2="56.015" />
+		<line fill="none" stroke="#6BB92D" stroke-width="2" stroke-miterlimit="10" x1="19.366" y1="65.725" x2="30.226" y2="65.725" />
+		<line fill="none" stroke="#6BB92D" stroke-width="2" stroke-miterlimit="10" x1="19.366" y1="75.435" x2="30.226" y2="75.435" />
+		<line fill="none" stroke="#6BB92D" stroke-width="2" stroke-miterlimit="10" x1="19.366" y1="85.146" x2="30.226" y2="85.146" />
+		<line fill="none" stroke="#6BB92D" stroke-width="2" stroke-miterlimit="10" x1="19.366" y1="94.855" x2="30.226" y2="94.855" />
+		<line fill="none" stroke="#6BB92D" stroke-width="2" stroke-miterlimit="10" x1="17.366" y1="104.566" x2="32.225" y2="104.566" />
+		<text transform="matrix(1 0 0 1 36.9746 9.6313)" fill="#040000" font-family="'MicrosoftYaHei'" font-size="6">2.5</text>
+		<text transform="matrix(1 0 0 1 36.9746 19.2983)" fill="#040000" font-family="'MicrosoftYaHei'" font-size="6">2.0</text>
+		<text transform="matrix(1 0 0 1 36.9746 28.9653)" fill="#040000" font-family="'MicrosoftYaHei'" font-size="6">1.5</text>
+		<text transform="matrix(1 0 0 1 36.9746 38.6313)" fill="#040000" font-family="'MicrosoftYaHei'" font-size="6">1.0</text>
+		<text transform="matrix(1 0 0 1 36.9746 48.2983)" fill="#040000" font-family="'MicrosoftYaHei'" font-size="6">0.5</text>
+		<text transform="matrix(1 0 0 1 36.9746 57.9653)" fill="#040000" font-family="'MicrosoftYaHei'" font-size="6">0</text>
+		<text transform="matrix(1 0 0 1 36.9746 67.6313)" fill="#040000" font-family="'MicrosoftYaHei'" font-size="6">0.5</text>
+		<text transform="matrix(1 0 0 1 36.9746 77.2983)" fill="#040000" font-family="'MicrosoftYaHei'" font-size="6">1.0</text>
+		<text transform="matrix(1 0 0 1 36.9746 86.9653)" fill="#040000" font-family="'MicrosoftYaHei'" font-size="6">1.5</text>
+		<text transform="matrix(1 0 0 1 36.9746 96.6313)" fill="#040000" font-family="'MicrosoftYaHei'" font-size="6">2.0</text>
+		<text transform="matrix(1 0 0 1 36.9746 106.2983)" fill="#040000" font-family="'MicrosoftYaHei'" font-size="6">2.5</text>
+	</g>
+	<polyline fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="1,57.175 1,1.003 9.917,1.003 &#xD;&#xA;		9.917,57.175 	" />
+</g>
+</svg>

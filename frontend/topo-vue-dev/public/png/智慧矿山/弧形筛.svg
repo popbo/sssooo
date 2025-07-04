@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="67.333px" height="45.875px" viewBox="0 0 67.333 45.875" enable-background="new 0 0 67.333 45.875" xml:space="preserve">
+<g>
+	<polygon  com-has-ani="true" com-name="com_switch"  fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="1,2.75 1,10 9.25,11.5 9.25,5.75 &#xD;&#xA;		18.253,7.125 18.253,15.75 13.75,20 21.75,44.5 25.75,44.5 25.75,42.25 28.25,42 28.25,44.5 31.584,43.416 33.334,40.75 &#xD;&#xA;		22.25,15.916 22.25,1.082 	" />
+	<polygon  com-has-ani="true" com-name="com_switch"  fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="66.333,2.75 66.333,10 58.083,11.5 &#xD;&#xA;		58.083,5.75 49.082,7.125 49.082,15.75 53.583,20 45.583,44.5 41.583,44.5 41.583,42.25 39.083,42 39.083,44.5 35.75,43.416 &#xD;&#xA;		34,40.75 45.083,15.916 45.083,1.082 	" />
+</g>
+</svg>

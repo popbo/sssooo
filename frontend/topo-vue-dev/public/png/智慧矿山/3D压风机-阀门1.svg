@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="b2d1eaf4-185b-4cb9-9b02-c1c55e7d6ce5" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24.54 59.11">
+  <defs>
+    <linearGradient id="ea67c1b7-e9f1-4661-a66e-77207864d7cd" data-name="未命名的渐变" x1="5.45" y1="15.43" x2="19" y2="15.43" gradientTransform="matrix(1, 0, 0, -1, 0, 59.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.08" stop-color="#072f4b"/>
+      <stop offset="0.34" stop-color="#042036"/>
+      <stop offset="0.53" stop-color="#03182b"/>
+      <stop offset="0.68" stop-color="#041e33"/>
+      <stop offset="0.91" stop-color="#082e4a"/>
+      <stop offset="0.92" stop-color="#082e4b"/>
+    </linearGradient>
+    <linearGradient id="e3c2a2dd-e6db-441a-baaa-8285371c4606" data-name="未命名的渐变 2" x1="12.14" y1="25.23" x2="12.14" y2="28.41" gradientTransform="matrix(1, 0, 0, -1, 0, 59.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.08" stop-color="#06304f"/>
+      <stop offset="0.53" stop-color="#063152"/>
+      <stop offset="0.92" stop-color="#0a3459"/>
+    </linearGradient>
+    <linearGradient id="e126915c-1b00-4f41-a2f7-a549e67ae15f" data-name="未命名的渐变 3" x1="6.03" y1="28.49" x2="18.27" y2="28.49" gradientTransform="matrix(1, 0, 0, -1, 0, 59.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.08" stop-color="#073252"/>
+      <stop offset="0.45" stop-color="#08375b"/>
+      <stop offset="0.76" stop-color="#073253"/>
+      <stop offset="0.83" stop-color="#073050"/>
+    </linearGradient>
+    <linearGradient id="b5cff062-2f6b-4d35-a2a9-5d660304af48" data-name="未命名的渐变 4" x1="12.18" y1="28.12" x2="12.11" y2="34.59" gradientTransform="matrix(1, 0, 0, -1, 0, 59.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.08" stop-color="#0e3d62"/>
+      <stop offset="0.14" stop-color="#0d3c60"/>
+      <stop offset="0.53" stop-color="#083655"/>
+      <stop offset="0.85" stop-color="#0a3a5d"/>
+      <stop offset="0.92" stop-color="#0a3b60"/>
+    </linearGradient>
+    <linearGradient id="e9750c86-2532-41fd-97c9-7358968b3353" data-name="未命名的渐变 5" x1="5.16" y1="40.08" x2="19.02" y2="40.14" gradientTransform="matrix(1, 0, 0, -1, 0, 59.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.11" stop-color="#073252"/>
+      <stop offset="0.35" stop-color="#08375b"/>
+      <stop offset="0.62" stop-color="#093557"/>
+      <stop offset="0.86" stop-color="#073252"/>
+    </linearGradient>
+    <linearGradient id="a66490a2-3ca5-4291-9a56-4e2b10e6841b" data-name="未命名的渐变 6" x1="11.92" y1="43" x2="11.92" y2="38.84" gradientTransform="matrix(1, 0, 0, -1, 0, 59.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.11" stop-color="#0a2940"/>
+      <stop offset="0.35" stop-color="#0c2a42"/>
+      <stop offset="0.62" stop-color="#263e56"/>
+      <stop offset="0.82" stop-color="#28425e"/>
+      <stop offset="0.86" stop-color="#294361"/>
+    </linearGradient>
+    <linearGradient id="bd53ed35-9969-4f33-802f-1bc449761ca2" data-name="未命名的渐变 7" x1="10.56" y1="33.99" x2="13.13" y2="33.99" gradientTransform="matrix(1, 0, 0, -1, 0, 59.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.11" stop-color="#062a46"/>
+      <stop offset="0.35" stop-color="#072641"/>
+      <stop offset="0.66" stop-color="#082642"/>
+      <stop offset="1" stop-color="#05253d"/>
+    </linearGradient>
+    <linearGradient id="ab4051f7-c819-4296-adae-afe384c30a15" data-name="未命名的渐变 8" x1="10.56" y1="44.27" x2="13.13" y2="44.27" xlink:href="#bd53ed35-9969-4f33-802f-1bc449761ca2"/>
+    <linearGradient id="b7efd822-b59a-4a3a-83d4-7d2a79b0f5e8" data-name="未命名的渐变 9" x1="17.53" y1="36.91" x2="19.85" y2="36.91" gradientTransform="matrix(1, 0, 0, -1, 0, 59.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.11" stop-color="#06243e"/>
+      <stop offset="0.35" stop-color="#072d4c"/>
+      <stop offset="0.65" stop-color="#09365a"/>
+      <stop offset="0.94" stop-color="#093759"/>
+    </linearGradient>
+    <linearGradient id="bb4b1aa0-ddb2-470f-a18b-4df86c5b98ff" data-name="未命名的渐变 10" x1="4.1" y1="36.72" x2="7.15" y2="36.72" gradientTransform="matrix(1, 0, 0, -1, 0, 59.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.11" stop-color="#09365a"/>
+      <stop offset="0.35" stop-color="#113a5c"/>
+      <stop offset="0.65" stop-color="#073252"/>
+      <stop offset="0.89" stop-color="#052d4a"/>
+      <stop offset="0.94" stop-color="#052b47"/>
+    </linearGradient>
+    <linearGradient id="b43a8476-d762-4cc1-9036-8cbf7960d1fd" data-name="未命名的渐变 11" x1="5.39" y1="48.83" x2="19.63" y2="48.9" gradientTransform="matrix(1, 0, 0, -1, 0, 59.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.11" stop-color="#072f4d"/>
+      <stop offset="0.35" stop-color="#08375b"/>
+      <stop offset="0.62" stop-color="#093557"/>
+      <stop offset="0.86" stop-color="#073252"/>
+    </linearGradient>
+    <linearGradient id="f6f077fa-b693-48c8-96ce-7f40a9ad73b9" data-name="未命名的渐变 12" x1="12.33" y1="53.85" x2="12.33" y2="49.2" gradientTransform="matrix(1, 0, 0, -1, 0, 59.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.11" stop-color="#324269"/>
+      <stop offset="0.35" stop-color="#2f4167"/>
+      <stop offset="0.64" stop-color="#2f4268"/>
+      <stop offset="0.81" stop-color="#374269"/>
+      <stop offset="0.86" stop-color="#3b4269"/>
+    </linearGradient>
+    <linearGradient id="a5c2a419-787e-46d8-8ef3-6fe0e06434ec" data-name="未命名的渐变 13" x1="12.23" y1="49.06" x2="12.53" y2="58.08" gradientTransform="matrix(1, 0, 0, -1, 0, 59.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#881c22"/>
+      <stop offset="0.33" stop-color="#a72024"/>
+      <stop offset="0.58" stop-color="#a92024"/>
+      <stop offset="0.99" stop-color="#d81f1c"/>
+    </linearGradient>
+    <linearGradient id="ba255d4e-b4c7-48ed-bb94-9093644d325f" data-name="未命名的渐变 14" x1="20.01" y1="55.57" x2="19.89" y2="54.05" gradientTransform="matrix(1, 0, 0, -1, 0, 59.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.08" stop-color="#d81f1c"/>
+      <stop offset="0.58" stop-color="#d81f1c"/>
+      <stop offset="0.91" stop-color="#8e1e22"/>
+    </linearGradient>
+    <linearGradient id="a424fe7b-efab-41fc-81d8-aad02cc97a2b" data-name="未命名的渐变 15" x1="6.88" y1="52.81" x2="6.63" y2="54.01" gradientTransform="matrix(1, 0, 0, -1, 0, 59.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.05" stop-color="#972024"/>
+      <stop offset="0.98" stop-color="#d81f1c"/>
+      <stop offset="0.99" stop-color="#d81f1c"/>
+    </linearGradient>
+    <linearGradient id="f3e2a4d2-2148-47e8-b936-79fd1b2242ae" data-name="未命名的渐变 16" x1="14.89" y1="52.61" x2="15.29" y2="53.24" gradientTransform="matrix(1, 0, 0, -1, 0, 59.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.05" stop-color="#a12124"/>
+      <stop offset="0.4" stop-color="#d81f1c"/>
+      <stop offset="0.98" stop-color="#d81f1c"/>
+    </linearGradient>
+    <linearGradient id="b21584db-4495-44da-b9bb-0c5dc51a0f12" data-name="未命名的渐变 17" x1="25.04" y1="55.35" x2="-0.5" y2="54.28" gradientTransform="matrix(1, 0, 0, -1, 0, 59.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a32124"/>
+      <stop offset="0.33" stop-color="#c51c1e"/>
+      <stop offset="0.66" stop-color="#d81f1c"/>
+      <stop offset="1" stop-color="#b91e22"/>
+      <stop offset="1" stop-color="#b31f23"/>
+    </linearGradient>
+  </defs>
+  <title>3D压风机-阀门1</title>
+  <g>
+    <ellipse cx="12.23" cy="39.55" rx="8.13" ry="7.73" style="fill: #2f4054"/>
+    <g>
+      <path d="M18.77,43.1h-.11a.63.63,0,0,1-.55-.32l-.05-.1a.64.64,0,0,1,0-.63l.06-.09a.61.61,0,0,1,.55-.31h.11a.63.63,0,0,1,.55.32l.05.1a.64.64,0,0,1,0,.63l-.06.09A.63.63,0,0,1,18.77,43.1Z" transform="translate(0 0)" style="fill: #edf3fa"/>
+      <path d="M18.74,43.14h-.11a.63.63,0,0,1-.55-.32l0-.1a.64.64,0,0,1,0-.63l.06-.09a.61.61,0,0,1,.55-.31h.11a.63.63,0,0,1,.55.32l.05.1a.64.64,0,0,1,0,.63l-.06.09A.61.61,0,0,1,18.74,43.14Z" transform="translate(0 0)" style="fill: #bac1ca"/>
+      <path d="M5.27,42.28l-.35.59a.07.07,0,0,0,0,.09l.35.55a.09.09,0,0,0,.08,0l.36-.06a.1.1,0,0,0,.07-.09c0-.24-.13-.95-.13-1l-.29-.17S5.3,42.24,5.27,42.28Z" transform="translate(0 0)" style="fill: #979fac;stroke: #231815;stroke-miterlimit: 10"/>
+    </g>
+    <rect x="5.45" y="38.22" width="13.55" height="12.47" style="fill: url(#ea67c1b7-e9f1-4661-a66e-77207864d7cd)"/>
+    <ellipse cx="12.23" cy="47.47" rx="6.91" ry="6.47" style="fill: #04192d"/>
+    <ellipse cx="12.23" cy="50.28" rx="8.13" ry="7.92" style="fill: #0d436c"/>
+    <ellipse cx="12.23" cy="50.69" rx="8.13" ry="7.92" style="fill: #2d93c9"/>
+    <ellipse cx="12.23" cy="51.19" rx="8.13" ry="7.92" style="fill: #186ca1"/>
+    <g>
+      <path d="M5.82,49.08H5.71a.66.66,0,0,1-.58-.28l-.06-.09A.62.62,0,0,1,5,48.09l.05-.1a.66.66,0,0,1,.52-.36H5.7a.64.64,0,0,1,.57.27l.06.09a.62.62,0,0,1,0,.63l0,.1A.62.62,0,0,1,5.82,49.08Z" transform="translate(0 0)" style="fill: #edf3fa"/>
+      <path d="M5.85,49.13H5.74a.64.64,0,0,1-.57-.27l-.06-.09a.62.62,0,0,1-.05-.63l.05-.1a.66.66,0,0,1,.52-.36h.11a.64.64,0,0,1,.57.27l.06.09a.62.62,0,0,1,0,.63l0,.1A.66.66,0,0,1,5.85,49.13Z" transform="translate(0 0)" style="fill: #bac1ca"/>
+      <path d="M12,45.1h-.11a.63.63,0,0,1-.54-.32l-.05-.1a.62.62,0,0,1,0-.63l.06-.09a.66.66,0,0,1,.55-.31h.11a.63.63,0,0,1,.54.32l.05.1a.62.62,0,0,1,0,.63l-.06.09A.63.63,0,0,1,12,45.1Z" transform="translate(0 0)" style="fill: #f4fafb"/>
+      <path d="M12,45.15h-.11a.63.63,0,0,1-.54-.32l-.05-.1a.62.62,0,0,1,0-.63l.05-.1a.66.66,0,0,1,.55-.31h.11a.63.63,0,0,1,.54.32l.05.1a.62.62,0,0,1,0,.63l-.06.09A.58.58,0,0,1,12,45.15Z" transform="translate(0 0)" style="fill: #c4cbd3"/>
+      <path d="M18.8,54.31h-.11a.63.63,0,0,1-.55-.32l-.05-.09a.64.64,0,0,1,0-.63l.05-.09a.59.59,0,0,1,.55-.31h.11a.63.63,0,0,1,.55.32l0,.09a.64.64,0,0,1,0,.63l0,.09A.63.63,0,0,1,18.8,54.31Z" transform="translate(0 0)" style="fill: #f4fafb"/>
+      <path d="M18.78,54.35h-.11a.63.63,0,0,1-.55-.32l-.05-.09a.64.64,0,0,1,0-.63l.05-.09a.59.59,0,0,1,.55-.31h.11a.63.63,0,0,1,.55.32l.05.09a.64.64,0,0,1,0,.63l-.05.09A.66.66,0,0,1,18.78,54.35Z" transform="translate(0 0)" style="fill: #c4cbd3"/>
+      <path d="M5.8,54.76h.11a.63.63,0,0,0,.55-.32l0-.09a.64.64,0,0,0,0-.63l0-.09a.59.59,0,0,0-.55-.31H5.8a.63.63,0,0,0-.55.32l0,.09a.64.64,0,0,0,0,.63l0,.09A.63.63,0,0,0,5.8,54.76Z" transform="translate(0 0)" style="fill: #f4fafb"/>
+      <path d="M5.82,54.79h.11a.63.63,0,0,0,.55-.32l0-.09a.64.64,0,0,0,0-.63l0-.09a.59.59,0,0,0-.55-.31H5.82a.63.63,0,0,0-.55.32l0,.09a.64.64,0,0,0,0,.63l0,.09A.62.62,0,0,0,5.82,54.79Z" transform="translate(0 0)" style="fill: #c4cbd3"/>
+      <path d="M18.7,49h-.11a.63.63,0,0,1-.54-.32l-.05-.1A.62.62,0,0,1,18,48l.06-.09a.66.66,0,0,1,.55-.31h.11a.63.63,0,0,1,.54.32l.05.1a.62.62,0,0,1,0,.63l-.06.09A.61.61,0,0,1,18.7,49Z" transform="translate(0 0)" style="fill: #f8fcfd"/>
+      <path d="M18.66,49.05h-.11a.63.63,0,0,1-.54-.32l-.05-.1A.62.62,0,0,1,18,48l.06-.09a.66.66,0,0,1,.55-.31h.11a.63.63,0,0,1,.54.32l.05.1a.62.62,0,0,1,0,.63l-.06.09A.59.59,0,0,1,18.66,49.05Z" transform="translate(0 0)" style="fill: #bac2c9"/>
+    </g>
+    <g>
+      <polyline points="10.48 39.11 10.2 39.11 10.34 41.72 10.48 39.16" style="fill: #2a3444"/>
+      <path d="M12.54,40.88a2,2,0,0,1-1.12.95" transform="translate(0 0)" style="fill: none;stroke: #162b42;stroke-miterlimit: 10"/>
+      <path d="M12.29,40.31l.22.06.05.5a2.27,2.27,0,0,1-.3.39A4.35,4.35,0,0,1,12.29,40.31Z" transform="translate(0 0)" style="fill: #253043"/>
+      <polygon points="11.7 41.72 11.77 39.06 11.54 39.06 11.66 41.72 11.7 41.72" style="fill: #2e3c50"/>
+      <polygon points="15.88 40.21 15.66 40.4 15.66 40.91 15.96 41.29 15.99 40.73 15.88 40.21" style="fill: #27364a"/>
+      <path d="M8.92,43.77s.12-.3,0-.18-.27.24-.27.24l-.16.37Z" transform="translate(0 0)" style="fill: #2e435d"/>
+      <path d="M8.89,43.45l.24-.08s0-.31.16-.31.08-.17.08-.17l-.51.44Z" transform="translate(0 0)" style="fill: #193a56"/>
+      <polygon points="9.8 42.51 9.8 43.33 9.68 43.33 9.52 42.74 9.8 42.51" style="fill: #13344f"/>
+    </g>
+    <g>
+      <path d="M.47,36c2,1.92,6.37,3.1,11.75,3.1,5.19,0,9.64-1.19,11.57-2.9a1.81,1.81,0,0,0,.61-1.19c.1-.81,0-3.47,0-3.47s-2.77,2.23-4.86,2.25S4,35.69,2,31.8L0,31.44,0,34.8a1.78,1.78,0,0,0,.14.72A2.61,2.61,0,0,0,.47,36Z" transform="translate(0 0)" style="fill: #093759"/>
+      <g>
+        <polygon points="7.39 38.76 8.16 38.84 8.32 35.72 7.28 35.52 7.39 38.76" style="fill: #2c4463"/>
+        <polygon points="10.25 35.86 10.53 35.86 10.53 39.06 10.16 39.06 10.25 35.86" style="fill: #384a65"/>
+        <polygon points="11.47 35.93 13.11 35.86 13.5 39.06 11.17 39.06 11.47 35.93" style="fill: #354764"/>
+        <polygon points="14.02 35.86 14.31 35.86 14.37 39.06 14.02 39.06 14.02 35.86" style="fill: #344865"/>
+      </g>
+      <path d="M.17,31.19a1.4,1.4,0,0,0,.07,1.45c1.32,2,6.19,3.5,12,3.5s10.8-1.53,12-3.58a1.41,1.41,0,0,0,0-1.43c-1.23-2.08-6.15-3.64-12-3.64S1.33,29.07.17,31.19Z" transform="translate(0 0)" style="fill: #0e3f64"/>
+    </g>
+    <path d="M4.29,29.35V31.8c0,.79.33,1,.33,1,1.26,1,4.31,1.77,7.89,1.77a17.79,17.79,0,0,0,6.91-1.17,1,1,0,0,0,.58-.91V29.51s-2.84,1.83-8.23,1.86A12.8,12.8,0,0,1,4.29,29.35Z" transform="translate(0 0)" style="fill: url(#e3c2a2dd-e6db-441a-baaa-8285371c4606)"/>
+    <path d="M6,31.9s4.49,3,12.24-.08V31L15.72,29.6s-8,.76-8,.76l-1.67.46L6,31.11Z" transform="translate(0 0)" style="fill: url(#e126915c-1b00-4f41-a2f7-a549e67ae15f)"/>
+    <ellipse cx="12.15" cy="29.15" rx="7.96" ry="2.79" style="fill: url(#b5cff062-2f6b-4d35-a2a9-5d660304af48)"/>
+    <g>
+      <polygon points="10.55 32.99 10.55 31.8 9.82 31.72 9.82 32.85 10.55 32.99" style="fill: #304360"/>
+      <rect x="11.79" y="31.9" width="0.18" height="1.24" style="fill: #33455e"/>
+      <polygon points="12.65 33.14 13.68 33.14 13.62 31.94 12.65 31.94 12.65 33.14" style="fill: #35465d"/>
+      <rect x="14.28" y="31.92" width="0.2" height="1.2" style="fill: #32455f"/>
+    </g>
+    <g>
+      <path d="M11.92,17.28a18.57,18.57,0,0,1,7.27,1.77v.73c0,1.38-3.25,2.5-7.27,2.5s-7.27-1.12-7.27-2.5v-.85l7.2-1.65" transform="translate(0 0)" style="fill: url(#e9750c86-2532-41fd-97c9-7358968b3353)"/>
+      <ellipse cx="11.92" cy="19.05" rx="7.27" ry="2.5" style="fill: url(#a66490a2-3ca5-4291-9a56-4e2b10e6841b)"/>
+      <g>
+        <polygon points="9.81 21.43 9.81 22.13 8.73 21.99 8.67 21.28 9.81 21.43" style="fill: #28425e"/>
+        <polygon points="10.85 21.52 10.85 22.23 10.87 22.23 10.9 21.52 10.85 21.52" style="fill: #384a64"/>
+        <rect x="12.95" y="21.5" width="0.03" height="0.75" style="fill: #314562"/>
+        <rect x="11.65" y="21.52" width="0.53" height="0.73" style="fill: #354661"/>
+        <polygon points="9.2 21.38 9.38 21.38 9.33 22.06 9.29 22.06 9.2 21.38" style="fill: #384c65"/>
+      </g>
+    </g>
+    <path d="M10.81,22.24H13.4l0,7.17a5.07,5.07,0,0,1-2.57,0V22.24Z" transform="translate(0 0)" style="fill: url(#bd53ed35-9969-4f33-802f-1bc449761ca2)"/>
+    <path d="M10.81,12H13.4l0,7.17a5.07,5.07,0,0,1-2.57,0V12Z" transform="translate(0 0)" style="fill: url(#ab4051f7-c819-4296-adae-afe384c30a15)"/>
+    <path d="M18.21,33.24s1.48.59,2.24-.28l-1.3-20.43L16.81,13Z" transform="translate(0 0)" style="fill: url(#b7efd822-b59a-4a3a-83d4-7d2a79b0f5e8)"/>
+    <path d="M6.12,33.67s-1.65.43-2-.41l1.47-20.7,2.4.58-1.5,20.3Z" transform="translate(0 0)" style="fill: url(#bb4b1aa0-ddb2-470f-a18b-4df86c5b98ff)"/>
+    <polyline points="5.65 13.4 5.71 13.44 5.18 21.5 5.64 13.38" style="fill: #3f556f"/>
+    <polygon points="6.09 13.72 6.18 13.78 5.59 21.5 6.09 13.72" style="fill: #3f556f"/>
+    <polygon points="6.7 14.05 6.84 14.12 5.68 32.08 5.47 32.49 6.7 14.05" style="fill: #3f556f"/>
+    <polygon points="4.85 33.06 4.96 33.06 5.8 20.18 4.85 33.06" style="fill: #3f556f"/>
+    <polygon points="5.11 32.97 5.19 32.97 5.63 25.77 5.11 32.97" style="fill: #3f556f"/>
+    <polygon points="18.02 14.12 18.08 14.1 19.25 32.3 19.05 31.92 18.02 14.12" style="fill: #374963"/>
+    <polygon points="17.72 14.24 17.81 14.2 18.81 30.91 18.59 29.9 17.72 14.24" style="fill: #324259"/>
+    <rect x="11.62" y="15.02" width="0.18" height="2.36" style="fill: #3f556f"/>
+    <polygon points="12.12 15.03 12.16 15.03 12.19 17.44 12.12 17.44 12.12 15.03" style="fill: #3f556f"/>
+    <rect x="11.62" y="22.24" width="0.16" height="5.02" style="fill: #2f3d53"/>
+    <polygon points="11.92 22.24 12.03 22.24 12.03 27.35 11.92 22.24" style="fill: #273348"/>
+    <polygon points="12.1 22.24 12.2 22.24 12.2 27.23 12.1 27.27 12.1 22.24" style="fill: #354055"/>
+    <polygon points="12.32 22.24 12.35 22.24 12.37 27.29 12.32 27.29 12.32 22.24" style="fill: #27384e"/>
+    <polygon points="17.66 14.26 17.53 14.3 18.34 25.42 17.66 14.26" style="fill: #344356"/>
+    <g>
+      <path d="M12.33,7a26.25,26.25,0,0,1,7.46,1.24v4.17c0,1.42-3.34,2.56-7.46,2.56s-7.46-1.15-7.46-3.13V8.4L12.26,7" transform="translate(0 0)" style="fill: url(#b43a8476-d762-4cc1-9036-8cbf7960d1fd)"/>
+      <ellipse cx="12.33" cy="8.46" rx="7.46" ry="2.79" style="fill: url(#f6f077fa-b693-48c8-96ce-7f40a9ad73b9)"/>
+    </g>
+    <g>
+      <rect x="11.17" y="11.27" width="1.99" height="3.74" style="fill: #093557"/>
+      <rect x="11.97" y="11.27" width="0.39" height="3.74" style="fill: #324561"/>
+      <polygon points="10.16 14.92 10.26 11.13 9.88 11.09 9.74 14.86 10.16 14.92" style="fill: #2d4360"/>
+      <polygon points="9.7 11.13 9.95 11.16 9.81 14.88 9.54 14.84 9.7 11.13" style="fill: #354661"/>
+      <polygon points="9.47 11.03 9.54 14.84 9.3 14.81 9.17 10.97 9.47 11.03" style="fill: #334865"/>
+      <polygon points="9.18 10.98 8.78 10.91 8.82 14.71 9.3 14.81 9.18 10.98" style="fill: #2c4058"/>
+    </g>
+    <g>
+      <path d="M13.5,21.49V18.88l-2.69-.13v2.76s.78,0,1.14,0S13.5,21.49,13.5,21.49Z" transform="translate(0 0)" style="fill: #07304f"/>
+      <polygon points="10.8 16.56 10.91 16.79 10.8 21.07 10.8 16.56" style="fill: #103551"/>
+    </g>
+    <g>
+      <path d="M16.24,6.46V9a.29.29,0,0,1,0,.09,1.14,1.14,0,0,1-.4.47,2.92,2.92,0,0,1-.69.33,4.25,4.25,0,0,1-.72.2,8.49,8.49,0,0,1-.88.14c-.38,0-.76.06-1.14.07-.21,0-.43,0-.64,0a7.49,7.49,0,0,1-1.25-.15,5.26,5.26,0,0,1-1.28-.39,2.48,2.48,0,0,1-.51-.37.63.63,0,0,1-.2-.44V4a2.63,2.63,0,0,1,.06-.39s0,0,0,0A2.11,2.11,0,0,1,9,3.14a4.22,4.22,0,0,1,1.07-.41,8.25,8.25,0,0,1,1.21-.2,13.67,13.67,0,0,1,1.43,0c.21,0,.42,0,.63,0a7.09,7.09,0,0,1,1.21.19,4.88,4.88,0,0,1,.65.2,4.6,4.6,0,0,1,.63.31,1.11,1.11,0,0,1,.3.31.71.71,0,0,1,.06.25,1.23,1.23,0,0,1,0,.19Z" transform="translate(0 0)" style="fill: url(#a5c2a419-787e-46d8-8ef3-6fe0e06434ec)"/>
+      <ellipse cx="12.37" cy="3.84" rx="3.88" ry="1.39" style="fill: #d81f1c"/>
+    </g>
+    <path d="M16.26,5.72V4.38h7.38V5.72Z" transform="translate(0 0)" style="fill: url(#ba255d4e-b4c7-48ed-bb94-9093644d325f)"/>
+    <path d="M3.44,7.76c-.15,0-.21-.12-.27-.23A1.12,1.12,0,0,1,3,7a.6.6,0,0,1,.12-.45.1.1,0,0,1,.07,0l2.86-.59,2.29-.47L10,5.11a1.21,1.21,0,0,1,.19,0l0,0a.88.88,0,0,1,.18.25,1.35,1.35,0,0,1,.11.52.54.54,0,0,1-.14.43l-.05,0L7.9,6.85l-2.29.47-2,.4Z" transform="translate(0 0)" style="fill: url(#a424fe7b-efab-41fc-81d8-aad02cc97a2b)"/>
+    <path d="M17,8.84a.66.66,0,0,1-.38-.12L12.84,6.4a.83.83,0,0,1-.22-.2.31.31,0,0,1,0-.17.68.68,0,0,1,.11-.53.66.66,0,0,1,.38-.3.5.5,0,0,1,.21,0,.38.38,0,0,1,.15,0l3.85,2.37a1.3,1.3,0,0,1,.22.19s0,.1.05.15a.71.71,0,0,1-.11.58.72.72,0,0,1-.37.28A.12.12,0,0,1,17,8.84Z" transform="translate(0 0)" style="fill: url(#f3e2a4d2-2148-47e8-b936-79fd1b2242ae)"/>
+    <path d="M13.44,10.13l-1.37,0-.83,0a7.18,7.18,0,0,1-.8-.06L9.1,10,7.77,9.85q-.66-.06-1.32-.15a3.18,3.18,0,0,1-.51-.13l-3.12-1-.15-.07L.5,6.88.44,6.81a1.47,1.47,0,0,1-.21-.73c0-.45,0-.91,0-1.36a4,4,0,0,1,.06-.91.87.87,0,0,1,.3-.53L2.65,1.69a.38.38,0,0,1,.17-.08C4,1.25,5.13.89,6.29.55A4,4,0,0,1,7,.45L8.31.3,9.65.15C10.09.1,10.52,0,11,0a6.06,6.06,0,0,1,.74,0l1.4.05,2,.07h.47a5.73,5.73,0,0,1,1.09.16c1,.2,2,.41,3,.59a5.08,5.08,0,0,1,1.2.44l2.07,1a.88.88,0,0,1,.43.38L24.18,4a2.77,2.77,0,0,1,.28.54,2.22,2.22,0,0,1,.08.63,1.83,1.83,0,0,1-.36,1c-.28.44-.55.88-.82,1.33a.92.92,0,0,1-.4.36L20.17,9.19a2,2,0,0,1-.49.11c-1.17.23-2.35.47-3.53.69a5.05,5.05,0,0,1-.68.07l-2,.07Zm-.09-2.32c.57,0,1.13,0,1.7-.06a8.08,8.08,0,0,0,1.47-.17c.95-.2,1.9-.38,2.85-.57A2.81,2.81,0,0,0,20,6.88c.84-.38,1.67-.78,2.5-1.17a.24.24,0,0,0,.09-.08l.29-.46a.12.12,0,0,0,0-.14l-.27-.43a.37.37,0,0,0-.13-.12L20.58,3.6a4.41,4.41,0,0,0-1.22-.42c-.92-.16-1.83-.35-2.75-.54a8,8,0,0,0-1.46-.19l-1.9-.06-1.89-.07a3.38,3.38,0,0,0-.45,0l-1.13.12L8.46,2.6l-1.34.15a4.44,4.44,0,0,0-.68.1c-1.12.33-2.24.68-3.36,1A.61.61,0,0,0,2.94,4L1.64,5a.2.2,0,0,0,0,.32l1.3,1,.13.07,3.13,1a2.36,2.36,0,0,0,.38.1l1.14.13L9,7.67l1.32.15a6.34,6.34,0,0,0,.75.07Z" transform="translate(0 0)" style="fill: url(#b21584db-4495-44da-b9bb-0c5dc51a0f12)"/>
+  </g>
+</svg>

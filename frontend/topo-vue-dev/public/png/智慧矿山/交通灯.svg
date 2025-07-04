@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="58.438px" height="30.686px" viewBox="0 0 58.438 30.686" enable-background="new 0 0 58.438 30.686" xml:space="preserve">
+<g>
+	<rect x="1" y="3.833" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="3.984" height="20" />
+	
+		<rect x="4.985" y="11.84" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="12.097" height="3.985" />
+	<circle com-has-ani="true" com-name="com_inner" fill="#FFFFFF" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="29.819" cy="13.833" r="12.833" />
+	<polygon com-has-ani="true" com-name="com_no_use_red" fill="#E7211A" stroke="#947266" stroke-miterlimit="10" points="39.243,21.961 31.114,13.833 39.243,5.705 37.755,4.218&#xD;&#xA;		29.628,12.346 21.499,4.218 20.012,5.705 28.14,13.833 20.012,21.961 21.499,23.449 29.628,15.321 37.755,23.449 	" />
+	<path com-has-ani="true" com-name="com_no_use_hand" fill="#CCCCCC" stroke="#947266" stroke-miterlimit="10" d="M56.938,16.984c-0.552,0-1,0.448-1,1v2.938H55.11v-5.938&#xD;&#xA;		c0-0.552-0.447-1-1-1s-1,0.448-1,1v5.938h-0.834v-6.938c0-0.552-0.446-1-1-1c-0.552,0-1,0.448-1,1v6.938h-0.833v-4.938&#xD;&#xA;		c0-0.552-0.447-1-1-1c-0.552,0-1,0.448-1,1v4.938v2.769l-1.824-2.162c0,0-0.813-0.561-1.396,0&#xD;&#xA;		c-0.582,0.562-0.004,1.509-0.004,1.509l3.38,5.063c0.173,0.54,0.489,1.008,0.911,1.365l0.035,0.052l0.008-0.016&#xD;&#xA;		c0.518,0.423,1.17,0.687,1.89,0.687h4.494c1.657,0,3-1.343,3-3v-3.202v-3.063v-2.938C57.938,17.432,57.489,16.984,56.938,16.984z" />
+	<polygon com-has-ani="true" com-name="com_no_use_green" fill="#6BB92D" stroke="#947266" stroke-miterlimit="10" points="40.433,12.113 34.919,6.598 33.431,8.086 37.894,12.548&#xD;&#xA;		17.017,12.548 17.017,14.652 37.893,14.652 33.431,19.115 34.919,20.602 40.433,15.088 41.921,13.6 	" />
+</g>
+</svg>

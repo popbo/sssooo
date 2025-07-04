@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="27.945px" height="40.784px" viewBox="0 0 27.945 40.784" enable-background="new 0 0 27.945 40.784" xml:space="preserve">
+<g>
+	<g>
+		<rect x="12.243" y="19.825" fill="#CCCCCC" width="3.529" height="10.53"/>
+		<g>
+
+				<rect com-has-ani="true" com-name="com_switch" x="0.5" y="30.356" fill="#CCCCCC" stroke="#8C6B5C" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="26.945" height="9.928"/>
+			<g>
+				<path fill="#8C6B5C" d="M11.452,35.729l-11.09,4.086l0.347,0.939l11.094-4.088C11.625,36.386,11.507,36.068,11.452,35.729z"/>
+				<path fill="#8C6B5C" d="M16.497,34.936l11.156-4.108l-0.346-0.939l-11.152,4.109C16.327,34.279,16.444,34.597,16.497,34.936z"/>
+			</g>
+
+				<circle com-has-ani="true" com-name="com_stroke" fill="none" stroke="#8C6B5C" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="13.974" cy="35.321" r="2.063"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill="#947266" d="M24.752,10.745c0,5.935-4.811,10.744-10.745,10.744c-5.936,0-10.746-4.811-10.746-10.744
+				C3.261,4.808,8.071,0,14.007,0C19.941,0,24.752,4.808,24.752,10.745z"/>
+
+			<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" d="M23.214,10.745c0,5.082-4.123,9.207-9.207,9.207c-5.089,0-9.209-4.125-9.209-9.207
+				c0-5.086,4.12-9.211,9.209-9.211C19.091,1.534,23.214,5.659,23.214,10.745z"/>
+		</g>
+		<g>
+			<path fill="#040000" d="M17.558,15.319V9.259c0-0.5,0.029-1.103,0.088-1.803h-0.029c-0.104,0.44-0.192,0.748-0.272,0.92
+				l-3.019,6.942h-0.653L10.657,8.43c-0.071-0.156-0.162-0.482-0.271-0.975H10.35C10.389,7.881,10.41,8.5,10.41,9.31v6.008H9.281
+				V6.166h1.603l2.698,6.274c0.205,0.48,0.341,0.854,0.408,1.123h0.039c0.207-0.563,0.353-0.946,0.434-1.146l2.746-6.252h1.525
+				v9.151h-1.177V15.319z"/>
+		</g>
+	</g>
+</g>
+</svg>

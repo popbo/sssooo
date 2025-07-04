@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="149.286px" height="149.286px" viewBox="0 0 149.286 149.286" enable-background="new 0 0 149.286 149.286" xml:space="preserve">
+<g  com-has-ani="true" com-name="com_rotate">
+	
+		<path com-has-ani="true" com-name="com_switch"  fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="&#xD;&#xA;		M148.286,74.646c0,40.678-32.977,73.639-73.649,73.639C33.971,148.286,1,115.325,1,74.646C1,33.971,33.971,1,74.637,1&#xD;&#xA;		C115.309,1,148.286,33.971,148.286,74.646z" />
+	
+		<path com-has-ani="true" com-name="com_switch"  fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="&#xD;&#xA;		M126.534,73.923c0,28.306-22.945,51.236-51.237,51.236c-28.285,0-51.23-22.93-51.23-51.236c0-28.294,22.945-51.225,51.23-51.225&#xD;&#xA;		C103.588,22.698,126.534,45.629,126.534,73.923z" />
+	
+		<rect x="71.025" y="32.563" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="8.545" height="25.643" />
+	
+		<rect x="91.737" y="70.369" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="25.646" height="8.547" />
+	
+		<rect x="33.215" y="70.369" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="25.646" height="8.547" />
+	
+		<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="&#xD;&#xA;		84.514,88.918 90.293,82.614 109.188,99.961 103.407,106.258 	" />
+	
+		<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="&#xD;&#xA;		41.409,49.334 47.193,43.028 66.082,60.383 60.304,66.673 	" />
+	
+		<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="&#xD;&#xA;		89.838,65.877 83.727,59.913 101.647,41.572 107.766,47.545 	" />
+	
+		<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="&#xD;&#xA;		48.946,107.739 42.828,101.766 60.758,83.424 66.863,89.397 	" />
+	
+		<rect x="71.025" y="91.081" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="8.545" height="25.65" />
+	
+		<path com-has-ani="true" com-name="com_switch"  fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="&#xD;&#xA;		M75.297,96.344c-12.32,0-22.354-10.025-22.354-22.358c0-12.329,10.034-22.355,22.354-22.355c12.327,0,22.358,10.026,22.358,22.355&#xD;&#xA;		C97.655,86.319,87.624,96.344,75.297,96.344z M75.297,62.147c-6.526,0-11.836,5.313-11.836,11.839&#xD;&#xA;		c0,6.52,5.31,11.838,11.836,11.838c6.53,0,11.836-5.318,11.836-11.838C87.133,67.46,81.827,62.147,75.297,62.147z" />
+</g>
+</svg>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg
+  version="1.1"
+  id="图层_2svg"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  x="0px"
+  y="0px"
+  viewBox="0 0 133.8 327.3"
+  style="enable-background: new 0 0 133.8 327.3"
+  xml:space="preserve"
+>
+  <g com-has-ani="true" com-name="visible" visibility="visible">
+    <ellipse
+      transform="matrix(0.1602 -0.9871 0.9871 0.1602 -9.8524 122.22)"
+      style="fill: #4f4f4f"
+      cx="66.9"
+      cy="66.9"
+      rx="66.9"
+      ry="66.9"
+    />
+    <circle style="fill: #726d69" cx="66.9" cy="66.7" r="46.2" />
+    <circle style="fill: #878787" cx="66.7" cy="66.6" r="42.2" />
+    <g>
+      <path
+        style="fill: #777472"
+        d="M68.5,327.3H65c-13.1,0-23.7-10.6-23.7-23.7V70.3h50.9v233.3C92.2,316.7,81.6,327.3,68.5,327.3z"
+      />
+      <path
+        style="fill: #8c8c8c"
+        d="M66.8,327.3L66.8,327.3c-13.1,0-23.7-10.6-23.7-23.7V70.3h47.4v233.3
+			C90.5,316.7,79.9,327.3,66.8,327.3z"
+      />
+    </g>
+    <circle style="fill: #777472" cx="66.7" cy="66.5" r="27.3" />
+    <circle style="fill: #ffd084" cx="66.7" cy="66.5" r="23.9" />
+    <circle style="fill: #ffffff" cx="66.7" cy="66.7" r="13.4" />
+    <circle style="fill: #ffffff" cx="66.5" cy="66.7" r="12.1" />
+    <circle style="fill: #ffffff" cx="66.8" cy="67.1" r="10.6" />
+    <g>
+      <circle style="fill: #373532" cx="66.7" cy="9.8" r="8.1" />
+      <circle style="fill: #585858" cx="66.7" cy="9.8" r="6.8" />
+      <circle style="fill: #8b8b8b" cx="66.7" cy="9.8" r="5.6" />
+      <circle style="fill: #6c6c6c" cx="66.7" cy="9.8" r="3.4" />
+    </g>
+    <g>
+      <circle style="fill: #373532" cx="123.7" cy="66.9" r="8.1" />
+      <circle style="fill: #585858" cx="123.7" cy="66.9" r="6.8" />
+      <circle style="fill: #8b8b8b" cx="123.7" cy="66.9" r="5.6" />
+      <circle style="fill: #6c6c6c" cx="123.7" cy="66.9" r="3.4" />
+    </g>
+    <g>
+      <circle style="fill: #373532" cx="9.5" cy="67.1" r="8.1" />
+      <circle style="fill: #585858" cx="9.5" cy="67.1" r="6.8" />
+      <circle style="fill: #8b8b8b" cx="9.5" cy="67.1" r="5.6" />
+      <circle style="fill: #6c6c6c" cx="9.5" cy="67.1" r="3.4" />
+    </g>
+  </g>
+</svg>

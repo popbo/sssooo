@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="67.861px" height="57.031px" viewBox="0 0 67.861 57.031" enable-background="new 0 0 67.861 57.031" xml:space="preserve">
+<g>
+	<g>
+		<polygon fill="#947266" points="50.234,41.393 52.197,40.293 54.16,39.193 54.16,41.393 54.16,43.594 52.197,42.494 		" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="67.861" y1="41.393" x2="54.16" y2="41.393" />
+	</g>
+	<rect x="1" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="19.742" height="24.332" />
+	
+		<rect x="34.197" y="32.197" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="15.117" height="18.393" />
+	<polyline fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="11.107,25.031 11.107,41.031 &#xD;&#xA;		11.107,57.031 	" />
+	
+		<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="11.107" y1="41.395" x2="33.748" y2="41.395" />
+	<text transform="matrix(1 0 0 1 37.8389 45.0068)" fill="#040000" font-family="'MicrosoftYaHei'" font-size="12">R</text>
+	<text transform="matrix(1 0 0 1 7.4077 16.7793)" fill="#040000" font-family="'MicrosoftYaHei'" font-size="12">S</text>
+</g>
+</svg>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="199.043px" height="68.96px" viewBox="0 0 199.043 68.96" enable-background="new 0 0 199.043 68.96" xml:space="preserve">
+<g>
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="13.23" cy="55.729" r="12.23" />
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="116.813" cy="13.229" r="12.23" />
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="185.813" cy="55.729" r="12.23" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="13.23" y1="67.96" x2="185.813" y2="67.96" />
+	<polyline fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="13.23,43.5 84.313,43.5 106.627,6.464 	&#xD;&#xA;		" />
+	<path fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M126.359,20.866" />
+	<polyline fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="185.813,43.5 112.723,43.5 &#xD;&#xA;		127.379,19.368 	" />
+</g>
+</svg>

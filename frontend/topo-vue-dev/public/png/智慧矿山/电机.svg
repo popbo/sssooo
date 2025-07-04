@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="58.148px" height="58.15px" viewBox="0 0 58.148 58.15" enable-background="new 0 0 58.148 58.15" xml:space="preserve">
+<g com-has-ani="true" com-name="visible" visibility="visible">
+	<g com-has-ani="true" com-name="com_rotate">
+		<path com-has-ani="true" com-name="com_inner_stroke" fill="#947266" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M29.302,1.008&#xD;&#xA;			C22.118,0.952,14.914,3.633,9.389,9.069l19.687,20.007L29.302,1.008z" />
+		<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M9.389,9.069&#xD;&#xA;			c-5.119,5.038-8.317,12.03-8.381,19.779l28.067,0.228L9.389,9.069z" />
+		<path com-has-ani="true" com-name="com_inner_stroke" fill="#947266" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M1.008,28.848&#xD;&#xA;			c-0.057,7.185,2.625,14.387,8.061,19.911l20.007-19.684L1.008,28.848z" />
+		<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M9.068,48.759&#xD;&#xA;			c5.038,5.12,12.031,8.318,19.779,8.382l0.228-28.065L9.068,48.759z" />
+		<path com-has-ani="true" com-name="com_inner_stroke" fill="#947266" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M28.848,57.141&#xD;&#xA;			c7.184,0.058,14.387-2.625,19.912-8.061L29.075,29.076L28.848,57.141z" />
+		<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M48.76,49.081&#xD;&#xA;			c5.121-5.038,8.318-12.028,8.381-19.778l-28.065-0.227L48.76,49.081z" />
+		<path com-has-ani="true" com-name="com_inner_stroke" fill="#947266" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M57.141,29.302&#xD;&#xA;			c0.059-7.185-2.624-14.388-8.061-19.913L29.075,29.076L57.141,29.302z" />
+		<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M49.08,9.39&#xD;&#xA;			c-5.037-5.12-12.029-8.318-19.778-8.381l-0.227,28.067L49.08,9.39z" />
+	</g>
+</g>
+</svg>

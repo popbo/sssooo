@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="82.5px" height="90px" viewBox="0 0 82.5 90" enable-background="new 0 0 82.5 90" xml:space="preserve">
+<g>
+	<rect x="1" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="80.5" height="76.5"/>
+	<polyline fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="16.75,90 16.75,12 65.75,12 65.75,24 	"/>
+	<rect x="59.875" y="24.5" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="11.75" height="5.75"/>
+	
+		<rect x="59.875" y="30.25" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="11.75" height="5.75"/>
+	<rect x="59.875" y="36" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="11.75" height="5.75"/>
+	
+		<rect x="59.875" y="41.75" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="11.75" height="5.75"/>
+	<rect x="59.875" y="47.5" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="11.75" height="5.75"/>
+	
+		<rect x="59.875" y="53.25" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="11.75" height="5.75"/>
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="65.75" y1="59" x2="65.75" y2="90"/>
+</g>
+</svg>

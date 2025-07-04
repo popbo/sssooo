@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="25.571px" height="24.343px" viewBox="6.306 12.933 25.571 24.343" enable-background="new 6.306 12.933 25.571 24.343"
+	 xml:space="preserve">
+<g>
+	<g>
+		<ellipse com-has-ani="true" com-name="com_switch" fill="#CCCCCC" cx="19.091" cy="25.104" rx="11.586" ry="11.03"/>
+		<path fill="#967366" d="M19.091,37.276c-7.05,0-12.785-5.46-12.785-12.171s5.735-12.172,12.785-12.172
+			c7.051,0,12.786,5.46,12.786,12.172C31.877,31.816,26.14,37.276,19.091,37.276z M19.091,15.214
+			c-5.728,0-10.388,4.438-10.388,9.891s4.66,9.889,10.388,9.889c5.729,0,10.39-4.436,10.39-9.889S24.82,15.214,19.091,15.214z"/>
+	</g>
+	<ellipse com-has-ani="true" com-name="com_switch"  fill="none" stroke="#967366" stroke-width="2" stroke-miterlimit="10" cx="19.091" cy="25.103" rx="6.792" ry="6.466"/>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="116.488px" height="89.586px" viewBox="0 0 116.488 89.586" enable-background="new 0 0 116.488 89.586" xml:space="preserve">
+<g>
+	<circle fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="54.023" cy="12" r="11" />
+	<text transform="matrix(1 0 0 1 49.1387 15.0098)" fill="#040000" font-family="'MicrosoftYaHei'" font-size="10">M</text>
+	<polygon com-has-ani="true" com-name="com_inner" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="5.19,35.918 5.19,64.584 25.19,88.586 &#xD;&#xA;		82.856,88.586 102.856,64.584 102.856,35.918 	" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="35.713" y1="74.262" x2="74.379" y2="74.262" />
+
+		<rect com-has-ani="true" com-name="com_inner" x="102.856" y="35.918" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="4.19" height="3.648" />
+	<rect com-has-ani="true" com-name="com_inner" x="1" y="35.918" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="4.19" height="3.648" />
+
+		<rect com-has-ani="true" com-name="com_inner" x="102.856" y="45.088" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="6.69" height="2.875" />
+
+		<rect com-has-ani="true" com-name="com_inner" x="112.363" y="45.125" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="3.125" height="2.875" />
+
+		<rect com-has-ani="true" com-name="com_inner" x="109.547" y="42.607" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="2.816" height="7.876" />
+	<rect com-has-ani="true" com-name="com_inner" x="44.046" y="76.57" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="3.333" height="9" />
+	<rect com-has-ani="true" com-name="com_inner" x="60.88" y="76.57" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="3.333" height="9" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="54.023" y1="23" x2="54.023" y2="75.279" />
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="143.664px" height="143.664px" viewBox="211.418 481.918 143.664 143.664"
+	 enable-background="new 211.418 481.918 143.664 143.664" xml:space="preserve">
+<g com-has-ani="true" com-name="com_rotate">
+	<circle com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="283.25" cy="553.75" r="70.832"/>
+	<g>
+		<path fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M284.325,499.455c-0.358,0-0.718,0-1.078,0
+			c-29.843,0-54.292,24.452-54.292,54.295h55.371L284.325,499.455L284.325,499.455z"/>
+		<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M284.325,499.455c0.359,0,0.72,0,1.08,0
+			c28.763,0,52.494,24.452,52.494,54.295h-53.574V499.455L284.325,499.455z"/>
+		<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M284.325,608.043c-0.358,0-0.718,0-1.078,0
+			c-29.843,0-54.292-24.449-54.292-54.293h55.371L284.325,608.043L284.325,608.043z"/>
+		<path fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M284.325,608.043c0.359,0,0.72,0,1.08,0
+			c28.763,0,52.494-24.449,52.494-54.293h-53.574V608.043L284.325,608.043z"/>
+	</g>
+</g>
+</svg>

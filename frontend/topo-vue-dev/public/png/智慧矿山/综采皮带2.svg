@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="306.695px" height="134.217px" viewBox="0 0 306.695 134.217" enable-background="new 0 0 306.695 134.217" xml:space="preserve">
+<g>
+	<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="6.246,104.362 1,104.362 1,61.519 &#xD;&#xA;		6.246,60.644 	" />
+	<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M280.345,46.611L34.227,99.116&#xD;&#xA;		C1,96.493,1,59.77,1,59.77L254.739,5.639c5.277-1.126,10.746,0.746,14.227,4.869l16.889,19.999&#xD;&#xA;		C290.69,36.233,287.675,45.047,280.345,46.611z" />
+	<path fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M1,86c0,0,11.367,23.613,33.227,23.609" />
+	<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="39.473,133.217 34.227,133.217 &#xD;&#xA;		34.227,99.116 39.473,98.242 	" />
+	<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="127.783,113.98 122.537,113.98 &#xD;&#xA;		122.537,79.881 127.783,79.006 	" />
+	<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="218.718,94.744 213.472,94.744 &#xD;&#xA;		213.472,60.644 218.718,59.77 	" />
+	<polyline fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="1,68.076 12.486,100.772 34.227,99.116 	&#xD;&#xA;		" />
+	
+		<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="91.359" y1="87.112" x2="122.537" y2="100.865" />
+	
+		<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="97.182" y1="85.127" x2="122.537" y2="95.737" />
+	
+		<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="182.294" y1="67.876" x2="213.472" y2="81.629" />
+	
+		<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="188.116" y1="65.89" x2="213.472" y2="76.502" />
+	<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M289.948,1.284L14.578,61&#xD;&#xA;		c0,0-3.215,28.674,23.154,22.281l259.847-58.11c7.334-1.64,10.586-11.473,5.994-18.117l0,0&#xD;&#xA;		C300.353,2.392,295.099,0.167,289.948,1.284z" />
+	<polyline fill="none" stroke="#947266" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" points="60.457,86 &#xD;&#xA;		65.703,77.645 65.703,92.4 	" />
+	<polyline fill="none" stroke="#947266" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" points="91.936,78.726 &#xD;&#xA;		97.182,70.369 97.182,85.127 	" />
+	<polyline fill="none" stroke="#947266" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" points="121.664,72.605 &#xD;&#xA;		126.91,64.249 126.91,79.006 	" />
+	<polyline fill="none" stroke="#947266" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" points="149.644,66.485 &#xD;&#xA;		154.89,58.129 154.89,72.885 	" />
+	<polyline fill="none" stroke="#947266" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" points="176.749,60.364 &#xD;&#xA;		181.995,52.008 181.995,66.765 	" />
+	<polyline fill="none" stroke="#947266" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" points="202.979,55.118 &#xD;&#xA;		208.226,46.762 208.226,61.519 	" />
+	<polyline fill="none" stroke="#947266" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" points="227.462,49.872 &#xD;&#xA;		232.708,41.516 232.708,56.272 	" />
+	<polyline fill="none" stroke="#947266" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" points="249.321,44.625 &#xD;&#xA;		254.567,36.27 254.567,51.026 	" />
+</g>
+</svg>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="65.375px" height="49.056px" viewBox="0 0 65.375 49.056" enable-background="new 0 0 65.375 49.056" xml:space="preserve">
+<g>
+	<line com-has-ani="true" com-name="com_stroke" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="0" y1="24.528" x2="65.375" y2="24.528" />
+	<g>
+		
+			<rect com-has-ani="true" com-name="com_stroke" x="16.345" y="8.184" transform="matrix(0.7071 0.7071 -0.7071 0.7071 26.9172 -15.9301)" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="32.688" height="32.688" />
+		<line com-has-ani="true" com-name="com_stroke" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="32.688" y1="1.414" x2="32.688" y2="47.642" />
+	</g>
+</g>
+</svg>

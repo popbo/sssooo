@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="505.882px" height="41.632px" viewBox="0 0 505.882 41.632" enable-background="new 0 0 505.882 41.632" xml:space="preserve">
+<g>
+	<rect com-has-ani="true" com-name="com_switch" x="20.487" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="464.668" height="7.748" />
+	<g com-has-ani="true" com-name="com_rotate">
+		<circle com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="20.727" cy="20.903" r="19.729" />
+		<g>
+			<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M15.249,6.821&#xD;&#xA;				c-3.603,1.401-6.672,4.18-8.352,7.998l13.831,6.084L15.249,6.821z" />
+			<path com-has-ani="true" com-name="com_inner_stroke" fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M6.897,14.819&#xD;&#xA;				c-1.558,3.54-1.765,7.673-0.251,11.562l14.082-5.478L6.897,14.819z" />
+			<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M6.646,26.381&#xD;&#xA;				c1.4,3.605,4.179,6.674,7.998,8.354l6.084-13.832L6.646,26.381z" />
+			<path com-has-ani="true" com-name="com_inner_stroke" fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M14.644,34.735&#xD;&#xA;				c3.54,1.557,7.675,1.762,11.563,0.25l-5.479-14.082L14.644,34.735z" />
+			<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M26.207,34.985&#xD;&#xA;				c3.604-1.4,6.671-4.178,8.353-7.998l-13.831-6.083L26.207,34.985z" />
+			<path com-has-ani="true" com-name="com_inner_stroke" fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M34.559,26.987&#xD;&#xA;				c1.558-3.539,1.765-7.674,0.251-11.563l-14.082,5.479L34.559,26.987z" />
+			<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M34.81,15.424&#xD;&#xA;				c-1.403-3.603-4.18-6.672-7.998-8.352l-6.084,13.831L34.81,15.424z" />
+			<path com-has-ani="true" com-name="com_inner_stroke" fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M26.812,7.072&#xD;&#xA;				c-3.54-1.558-7.675-1.763-11.563-0.251l5.479,14.082L26.812,7.072z" />
+		</g>
+	</g>
+	<g com-has-ani="true" com-name="com_rotate">
+		<circle com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="485.154" cy="20.903" r="19.729" />
+		<g>
+			<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M479.675,6.821&#xD;&#xA;				c-3.603,1.401-6.672,4.18-8.352,7.998l13.831,6.084L479.675,6.821z" />
+			<path com-has-ani="true" com-name="com_inner_stroke" fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M471.324,14.819&#xD;&#xA;				c-1.558,3.54-1.765,7.673-0.251,11.562l14.082-5.478L471.324,14.819z" />
+			<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M471.073,26.381&#xD;&#xA;				c1.4,3.605,4.179,6.674,7.998,8.354l6.084-13.832L471.073,26.381z" />
+			<path com-has-ani="true" com-name="com_inner_stroke" fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M479.071,34.735&#xD;&#xA;				c3.54,1.557,7.675,1.762,11.563,0.25l-5.479-14.082L479.071,34.735z" />
+			<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M490.633,34.985&#xD;&#xA;				c3.604-1.4,6.671-4.178,8.353-7.998l-13.831-6.083L490.633,34.985z" />
+			<path com-has-ani="true" com-name="com_inner_stroke" fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M498.986,26.987&#xD;&#xA;				c1.558-3.539,1.765-7.674,0.251-11.563l-14.082,5.479L498.986,26.987z" />
+			<path com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M499.237,15.424&#xD;&#xA;				c-1.403-3.603-4.18-6.672-7.998-8.352l-6.084,13.831L499.237,15.424z" />
+			<path com-has-ani="true" com-name="com_inner_stroke" fill="#212321" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M491.239,7.072&#xD;&#xA;				c-3.54-1.558-7.675-1.763-11.563-0.251l5.479,14.082L491.239,7.072z" />
+		</g>
+	</g>
+</g>
+</svg>

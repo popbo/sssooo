@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="36.507px" height="68.557px" viewBox="0 0 36.507 68.557" enable-background="new 0 0 36.507 68.557" xml:space="preserve">
+<g>
+	<path  com-has-ani="true" com-name="com_switch"  fill="#CCCCCC" d="M35,35.386l-14,31l-20-34v-27c0,0,5,13,15,12C16,17.386,19,34.386,35,35.386z" />
+	<path fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M19,24.386c0.446,0.748,1.159,2.652,1.728,3.396" />
+	<path fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M13.12,17.288c0.908,0.156,1.868,0.199,2.88,0.098&#xD;&#xA;		c0,0,0.281,1.594,1.13,3.833" />
+	<path fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M5.33,12.456c1.153,1.326,2.537,2.582,4.15,3.502" />
+	<path fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M29.055,34.13c1.748,0.669,3.721,1.117,5.945,1.256&#xD;&#xA;		l-14,31l-20-34v-27c0,0,0.703,1.828,2.109,4.061" />
+	<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M22.904,30.22&#xD;&#xA;		c0.991,0.946,2.116,1.825,3.393,2.579" />
+</g>
+</svg>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="96.5px" height="16.252px" viewBox="0 0 96.5 16.252" enable-background="new 0 0 96.5 16.252" xml:space="preserve">
+<g>
+	<rect x="9" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="86.5" height="14.252" />
+	<ellipse fill="#947266" cx="8" cy="8.096" rx="8" ry="8.098" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="38" y1="5.402" x2="38" y2="15.252" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="51.958" y1="5.402" x2="51.958" y2="15.252" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="65.916" y1="5.402" x2="65.916" y2="15.252" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="79.875" y1="5.402" x2="79.875" y2="15.252" />
+</g>
+</svg>

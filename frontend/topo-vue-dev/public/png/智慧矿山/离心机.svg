@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="94.225px" height="55.203px" viewBox="0 0 94.225 55.203" enable-background="new 0 0 94.225 55.203" xml:space="preserve">
+<g>
+	<polygon com-has-ani="true" com-name="com_switch"  fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="92.778,54.029 1.446,54.029 21.446,1 &#xD;&#xA;		72.778,1 	" />
+	<rect com-has-ani="true" com-name="com_switch"  x="22.028" y="1.174" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="50" height="53.029" />
+	<circle com-has-ani="true" com-name="com_switch"  fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="47.027" cy="27.688" r="12.833" />
+</g>
+</svg>

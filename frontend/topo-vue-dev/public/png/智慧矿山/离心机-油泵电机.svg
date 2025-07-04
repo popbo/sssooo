@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="73.645px" height="53.667px" viewBox="0 0 73.645 53.667" enable-background="new 0 0 73.645 53.667" xml:space="preserve">
+<g>
+	
+		<rect com-has-ani="true" com-name="com_switch"  x="20.979" y="6.667" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="32.666" height="13.334" />
+	<rect com-has-ani="true" com-name="com_switch"  x="30.979" fill="#947266" width="12.666" height="6.667" />
+	
+		<rect com-has-ani="true" com-name="com_switch"  x="26.979" y="20.001" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="20.666" height="32.667" />
+	
+		<rect com-has-ani="true" com-name="com_switch"  x="6.311" y="20.001" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="20.668" height="32.667" />
+	
+		<rect x="47.645" y="20.001" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="20.668" height="32.667" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="0" y1="20.001" x2="73.645" y2="20.001" />
+	<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="0" y1="52.667" x2="73.645" y2="52.667" />
+</g>
+</svg>

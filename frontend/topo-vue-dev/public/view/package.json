@@ -1,0 +1,14 @@
+{
+  "name": "meta2d-view",
+  "version": "1.0.0",
+  "description": "A view page for meta2d.",
+  "scripts": {
+    "start": "http-server"
+  },
+  "devDependencies": {
+    "http-server": "latest",
+    "meta2d.js": "latest"
+  },
+  "author": "unittec.com",
+  "license": "ISC"
+}

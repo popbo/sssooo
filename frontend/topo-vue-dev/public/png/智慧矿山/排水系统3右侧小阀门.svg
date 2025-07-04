@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 58.35 81.79" style="enable-background:new 0 0 58.35 81.79;" xml:space="preserve">
+<g>
+	<ellipse style="fill:#868A8E;" cx="33.58" cy="43.65" rx="20.41" ry="20.43"/>
+	<ellipse style="fill:#55585B;" cx="33.26" cy="45.18" rx="20.09" ry="18.9"/>
+	<path com-has-ani="true" com-name="com_stroke" style="fill:#65696D;" d="M26.63,30.91C20.1,31.88,15.1,41.9,14.83,48.49c-0.17,4.04,0.08,8.27,1.38,11.08
+		c3.2,6.96,4.88,7.45,7.19,9.12c2.29,1.66,9.45-25.43,24.1-17.07c0,0,5.41,1.62,6.66,3.83c0,0,1.67-3.29-2.87-12.51L32.14,30.09
+		L26.63,30.91z"/>
+	<rect x="0.06" y="13.84" style="fill:#696C70;" width="23.96" height="16.67"/>
+	<rect y="15.88" style="fill:#AAAAAA;" width="20.37" height="3"/>
+	<rect x="14.32" y="7.41" style="fill:#45484C;" width="3.91" height="29.82"/>
+	<rect x="14.32" y="17.63" style="fill:#AAAAAA;" width="3.91" height="1.82"/>
+	<rect x="20.14" y="13.84" style="fill:#45484C;" width="0.63" height="17.02"/>
+	<rect x="20.56" y="30.17" style="fill:#5A5D60;" width="30.33" height="14.84"/>
+	<rect x="20.56" y="27.04" style="fill:#4C4F51;" width="30.33" height="14.84"/>
+	<rect com-has-ani="true" com-name="com_stroke" x="21.44" y="10.45" style="fill:#5D6165;" width="28.58" height="30.7"/>
+	<polygon style="fill:#45484C;" points="23.99,14.12 47,14.12 47,12.84 50.01,12.84 50.01,1.29 47,1.29 47,0 23.99,0 23.99,1.29 
+		21.44,1.29 21.44,12.84 23.99,12.84 	"/>
+	<polygon style="fill:#686C70;" points="25.2,12.85 45.84,12.85 45.84,11.81 49.25,11.81 49.25,2.38 45.84,2.38 45.84,1.33 
+		25.2,1.33 25.2,2.38 22.2,2.38 22.2,11.81 25.2,11.81 	"/>
+	<path style="fill:#447A9A;" d="M22.67,41.15"/>
+	
+		<ellipse transform="matrix(0.8746 -0.4848 0.4848 0.8746 -25.9552 27.6488)" style="fill:#868A8E;enable-background:new    ;" cx="40.48" cy="64.01" rx="18" ry="17.42"/>
+	
+		<ellipse transform="matrix(0.8746 -0.4848 0.4848 0.8746 -26.5275 27.995)" style="fill:#55585B;" cx="40.87" cy="65.29" rx="17.72" ry="16.11"/>
+</g>
+</svg>

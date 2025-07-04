@@ -1,0 +1,9 @@
+{
+  "name": "meta2d-vue",
+  "version": "1.0.1",
+  "private": false,
+  "main": "meta2d-vue.es.js",
+  "publishConfig": {
+    "access": "public"
+  }
+}

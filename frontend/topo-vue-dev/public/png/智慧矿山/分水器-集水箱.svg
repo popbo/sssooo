@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="160px" height="56.667px" viewBox="0 0 160 56.667" enable-background="new 0 0 160 56.667" xml:space="preserve">
+<g>
+	<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M159,28.334&#xD;&#xA;		c0,15.096-12.237,27.333-27.333,27.333H28.333C13.237,55.667,1,43.43,1,28.334l0,0C1,13.238,13.237,1,28.333,1h103.334&#xD;&#xA;		C146.763,1,159,13.238,159,28.334L159,28.334z" />
+	<rect x="29.75" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="100.5" height="54.667" />
+	<rect x="45.99" y="16.834" fill="#0F1010" width="68.02" height="23" />
+</g>
+</svg>

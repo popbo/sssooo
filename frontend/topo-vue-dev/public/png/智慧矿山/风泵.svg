@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="49.014px" height="60.5px" viewBox="0 0 49.014 60.5" enable-background="new 0 0 49.014 60.5" xml:space="preserve">
+<g>
+	<line com-has-ani="true" com-name="com_stroke" fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="30.102" y1="60.5" x2="30.102" y2="0" />
+	<g>
+		<line com-has-ani="true" com-name="com_stroke" fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="12.19" y1="30.412" x2="0" y2="30.412" />
+		<circle com-has-ani="true" com-name="com_stroke" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="30.102" cy="30.412" r="17.912" />
+	</g>
+	<g>
+		
+			<line com-has-ani="true" com-name="com_stroke" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="25.273" y1="12.541" x2="22.353" y2="44.927" />
+		
+			<line com-has-ani="true" com-name="com_stroke" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="37.852" y1="44.927" x2="34.932" y2="12.541" />
+	</g>
+</g>
+</svg>

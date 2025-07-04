@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="150.75px" height="30.5px" viewBox="0 0 150.75 30.5" enable-background="new 0 0 150.75 30.5" xml:space="preserve">
+<rect x="1" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="148.75" height="28.5" />
+<g>
+	<circle com-has-ani="true" com-name="com_switch"  fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="18.938" cy="15.25" r="8.5" />
+	<circle com-has-ani="true" com-name="com_switch"  fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="56.563" cy="15.25" r="8.5" />
+	<circle com-has-ani="true" com-name="com_switch"  fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="94.188" cy="15.25" r="8.5" />
+	<circle com-has-ani="true" com-name="com_switch"  fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="131.813" cy="15.25" r="8.5" />
+</g>
+</svg>

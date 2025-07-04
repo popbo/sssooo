@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="176.251px" height="126.5px" viewBox="0 0 176.251 126.5" enable-background="new 0 0 176.251 126.5" xml:space="preserve">
+<g>
+	<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M20,35c0,0,41.75,4.25,65.75-5
+		c24.001-9.25,43.501-22.75,43.501-22.75h43.25V89.5c0,0-4,32.875-23.75,32.875s-16.75,0-16.75,0S106.501,97,70.75,92.5
+		C35,88,20,92.5,20,92.5V35z"/>
+	<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="19.75,94.5 7.75,97.5 7.75,32 19.75,35 
+			"/>
+	<rect x="127.001" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="48.25" height="6.25"/>
+	<rect x="127.001" y="119.25" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="38" height="6.25"/>
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="15.11" cy="101.859" r="10.859"/>
+	<rect x="1" y="98" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="28.5" height="17"/>
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="11.509" y1="42.833" x2="11.509" y2="84.333"/>
+</g>
+</svg>

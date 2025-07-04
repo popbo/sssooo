@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="59.319px" height="71.5px" viewBox="0 0 59.319 71.5" enable-background="new 0 0 59.319 71.5" xml:space="preserve">
+<g>
+	<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="8.322,65.5 36.578,65.5 28.578,50.5 &#xD;&#xA;		16.322,50.5 	" />
+	
+		<rect x="17.559" y="6.668" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="9.854" height="24.332" />
+	
+		<rect x="28.617" y="31.574" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="24.332" height="9.854" />
+	<circle com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="22.45" cy="36.784" r="21.45" />
+	<circle com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="22.45" cy="36.784" r="14.128" />
+	<circle com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="22.45" cy="36.784" r="6.76" />
+	<rect x="13.963" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="17.045" height="5.668" />
+	
+		<rect x="52.651" y="27.979" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="5.668" height="17.045" />
+	<rect x="8.322" y="65.5" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="28.256" height="5" />
+</g>
+</svg>

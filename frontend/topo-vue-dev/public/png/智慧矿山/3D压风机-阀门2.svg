@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="a4eff5a5-5330-4072-9fab-c22aad0666a4" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 52.12 37.1">
+  <defs>
+    <linearGradient id="ae19455f-5edb-4bc9-a556-46950625686e" data-name="未命名的渐变" x1="32.79" y1="27.43" x2="32.63" y2="25.14" gradientTransform="matrix(1, 0, 0, -1, 0.01, 37.88)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#154e79"/>
+      <stop offset="0.04" stop-color="#154d78"/>
+      <stop offset="0.58" stop-color="#11456e"/>
+      <stop offset="1" stop-color="#051d33"/>
+    </linearGradient>
+    <linearGradient id="b5f32c48-c431-4634-9216-4b0d98999d91" data-name="未命名的渐变 2" x1="21.4" y1="19.2" x2="23.77" y2="19.17" gradientTransform="matrix(1, 0, 0, -1, 0.01, 37.88)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#092f4e"/>
+      <stop offset="0.51" stop-color="#093a5d"/>
+      <stop offset="1" stop-color="#0d416a"/>
+    </linearGradient>
+    <linearGradient id="aba6256d-1743-48a8-87e3-2134041b29f6" data-name="未命名的渐变 3" x1="32.33" y1="20.58" x2="32.46" y2="18.16" gradientTransform="matrix(1, 0, 0, -1, 0.01, 37.88)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#124871"/>
+      <stop offset="0.52" stop-color="#104066"/>
+      <stop offset="0.99" stop-color="#062c49"/>
+    </linearGradient>
+    <linearGradient id="e5357261-86f2-4399-bd04-41a0c2128857" data-name="未命名的渐变 4" x1="40.64" y1="13.73" x2="24.39" y2="13.73" gradientTransform="matrix(1, 0, 0, -1, 0.01, 37.88)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#062641"/>
+      <stop offset="0.59" stop-color="#042944"/>
+      <stop offset="0.96" stop-color="#062c49"/>
+    </linearGradient>
+    <linearGradient id="b8853aed-3a1d-4b5b-8540-76dc53c8913e" data-name="未命名的渐变 5" x1="33.72" y1="24.32" x2="34.31" y2="13.87" gradientTransform="matrix(1, 0, 0, -1, 0.01, 37.88)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#124871"/>
+      <stop offset="0.52" stop-color="#104066"/>
+      <stop offset="0.99" stop-color="#114771"/>
+    </linearGradient>
+    <linearGradient id="e70d0f18-c8d3-4788-822d-5135eee5f1b5" data-name="未命名的渐变 6" x1="40.96" y1="19.32" x2="44.5" y2="19.39" gradientTransform="matrix(1, 0, 0, -1, 0.01, 37.88)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.03" stop-color="#0f426b"/>
+      <stop offset="0.65" stop-color="#114066"/>
+      <stop offset="1" stop-color="#104168"/>
+    </linearGradient>
+    <linearGradient id="b650c0be-39f3-4382-b6eb-befc51d02578" data-name="未命名的渐变 7" x1="32.67" y1="18.03" x2="32.78" y2="16.1" xlink:href="#aba6256d-1743-48a8-87e3-2134041b29f6"/>
+    <linearGradient id="b8b4a3bc-245e-4da7-b304-5a886d45bcda" data-name="未命名的渐变 8" x1="44.49" y1="19.33" x2="47.5" y2="19.33" gradientTransform="matrix(1, 0, 0, -1, 0.01, 37.88)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.03" stop-color="#9e2124"/>
+      <stop offset="0.33" stop-color="#ae1f23"/>
+      <stop offset="0.62" stop-color="#b81d22"/>
+      <stop offset="0.85" stop-color="#b51e23"/>
+      <stop offset="1" stop-color="#ad1f24"/>
+    </linearGradient>
+    <linearGradient id="eba11c17-fba3-4a8b-90a6-e4f64f79ba2d" data-name="未命名的渐变 9" x1="49.44" y1="19.4" x2="50.6" y2="19.4" gradientTransform="matrix(1, 0, 0, -1, 0.01, 37.88)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.03" stop-color="#9e2124"/>
+      <stop offset="0.16" stop-color="#ad1f21"/>
+      <stop offset="0.45" stop-color="#c71b1c"/>
+      <stop offset="0.62" stop-color="#d1191a"/>
+      <stop offset="0.76" stop-color="#ce1a1b"/>
+      <stop offset="0.87" stop-color="#c41b1e"/>
+      <stop offset="0.97" stop-color="#b41e22"/>
+      <stop offset="1" stop-color="#ad1f24"/>
+    </linearGradient>
+    <linearGradient id="be69642c-7c20-4bd9-96a6-6184c22a7e52" data-name="未命名的渐变 10" x1="50.6" y1="19.31" x2="52.11" y2="19.31" gradientTransform="matrix(1, 0, 0, -1, 0.01, 37.88)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.03" stop-color="#9e2124"/>
+      <stop offset="0.2" stop-color="#b42020"/>
+      <stop offset="0.46" stop-color="#ce1f1a"/>
+      <stop offset="0.62" stop-color="#d81f18"/>
+      <stop offset="0.75" stop-color="#d51f19"/>
+      <stop offset="0.85" stop-color="#cb1f1c"/>
+      <stop offset="0.95" stop-color="#bb1f20"/>
+      <stop offset="1" stop-color="#ad1f24"/>
+    </linearGradient>
+    <linearGradient id="f1215a2d-5701-4272-ae51-d4ae421b3149" data-name="未命名的渐变 11" x1="48.32" y1="19.33" x2="49.93" y2="19.33" gradientTransform="matrix(1, 0, 0, -1, 0.01, 37.88)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.03" stop-color="#9e2124"/>
+      <stop offset="0.2" stop-color="#b42020"/>
+      <stop offset="0.46" stop-color="#ce1f1c"/>
+      <stop offset="0.62" stop-color="#d81f1a"/>
+      <stop offset="0.75" stop-color="#d51f1b"/>
+      <stop offset="0.85" stop-color="#cb1f1d"/>
+      <stop offset="0.95" stop-color="#bb1f21"/>
+      <stop offset="1" stop-color="#ad1f24"/>
+    </linearGradient>
+    <linearGradient id="aaa4fc9c-fb0f-47e2-9dcf-df9a8397be75" data-name="未命名的渐变 12" x1="48.63" y1="9.18" x2="48.63" y2="26.23" gradientTransform="matrix(1, 0, 0, -1, 0, 37.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.03" stop-color="#a62124"/>
+      <stop offset="0.15" stop-color="#b42021"/>
+      <stop offset="0.44" stop-color="#ce1f1a"/>
+      <stop offset="0.62" stop-color="#d81f18"/>
+      <stop offset="0.96" stop-color="#d81f1b"/>
+      <stop offset="1" stop-color="#d81f1c"/>
+    </linearGradient>
+    <linearGradient id="a0659df3-78fd-46c7-9423-60459ca3540f" data-name="未命名的渐变 13" x1="9.93" y1="12.3" x2="9.93" y2="25.91" gradientTransform="matrix(1, 0, 0, -1, 0.01, 37.88)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.03" stop-color="#05263e"/>
+      <stop offset="0.15" stop-color="#062e4b"/>
+      <stop offset="0.29" stop-color="#063455"/>
+      <stop offset="0.42" stop-color="#083658"/>
+      <stop offset="0.52" stop-color="#0e3d62"/>
+      <stop offset="0.75" stop-color="#0b3b60"/>
+      <stop offset="0.86" stop-color="#0a395d"/>
+      <stop offset="0.95" stop-color="#093353"/>
+      <stop offset="1" stop-color="#072d4a"/>
+    </linearGradient>
+    <linearGradient id="ad779def-d4fc-4473-8032-1b76cf7e4f2d" data-name="未命名的渐变 14" x1="7.85" y1="0.91" x2="7.85" y2="1.81" gradientTransform="matrix(1, 0, 0, -1, 0, 37.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#257ab3"/>
+      <stop offset="0.44" stop-color="#267cb6"/>
+      <stop offset="0.55" stop-color="#277eb8"/>
+      <stop offset="0.89" stop-color="#267bb5"/>
+      <stop offset="1" stop-color="#2679b2"/>
+    </linearGradient>
+    <linearGradient id="b4c13752-d213-4890-a713-37fa58812375" data-name="未命名的渐变 15" x1="7.91" y1="3.3" x2="7.91" y2="14" gradientTransform="matrix(1, 0, 0, -1, 0, 37.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.03" stop-color="#062944"/>
+      <stop offset="0.26" stop-color="#083456"/>
+      <stop offset="0.45" stop-color="#093a60"/>
+      <stop offset="0.74" stop-color="#08385d"/>
+      <stop offset="0.97" stop-color="#063353"/>
+      <stop offset="1" stop-color="#063251"/>
+    </linearGradient>
+    <linearGradient id="a7cb4131-a604-4950-961f-ff48a5c89c56" data-name="未命名的渐变 16" x1="7.96" y1="1948.97" x2="7.96" y2="1962.69" gradientTransform="translate(0 -1943.99)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#062742"/>
+      <stop offset="0.28" stop-color="#083252"/>
+      <stop offset="0.54" stop-color="#0a395c"/>
+      <stop offset="0.94" stop-color="#0b395e"/>
+    </linearGradient>
+    <linearGradient id="b59f3a67-d225-4890-a273-50e7cc8f419e" data-name="未命名的渐变 17" x1="5.55" y1="2.6" x2="6.05" y2="2.6" gradientTransform="matrix(1, 0, 0, -1, 0.01, 37.88)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.03" stop-color="#2f4b6a"/>
+      <stop offset="0.45" stop-color="#304766"/>
+      <stop offset="0.7" stop-color="#2d4665"/>
+      <stop offset="0.89" stop-color="#234363"/>
+      <stop offset="1" stop-color="#1a4061"/>
+    </linearGradient>
+    <linearGradient id="bedf197a-15f8-4156-b463-8d584342cf1b" data-name="未命名的渐变 18" x1="-0.01" y1="32.36" x2="15.69" y2="32.36" gradientTransform="matrix(1, 0, 0, -1, 0, 37.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#08375a"/>
+      <stop offset="0.26" stop-color="#0a385b"/>
+      <stop offset="0.35" stop-color="#113b61"/>
+      <stop offset="0.35" stop-color="#113b61"/>
+      <stop offset="0.61" stop-color="#0f3a60"/>
+      <stop offset="0.68" stop-color="#0a395e"/>
+      <stop offset="0.88" stop-color="#09385b"/>
+      <stop offset="1" stop-color="#053454"/>
+    </linearGradient>
+    <linearGradient id="aad721ba-d14a-4caf-a129-d6e642eca719" data-name="未命名的渐变 19" y1="34.71" x2="15.7" y2="34.71" gradientTransform="matrix(1, 0, 0, -1, 0, 37.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a6fa9"/>
+      <stop offset="0.39" stop-color="#277eba"/>
+      <stop offset="0.73" stop-color="#267ab5"/>
+      <stop offset="1" stop-color="#2075af"/>
+    </linearGradient>
+    <linearGradient id="a439be86-5f39-452f-84c9-f79ab5f40d95" data-name="未命名的渐变 20" x1="0.09" y1="35.33" x2="15.61" y2="35.33" gradientTransform="matrix(1, 0, 0, -1, 0, 37.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#288cc4"/>
+      <stop offset="0.39" stop-color="#3393c9"/>
+      <stop offset="0.73" stop-color="#2c89c2"/>
+      <stop offset="0.94" stop-color="#2a87c0"/>
+      <stop offset="1" stop-color="#2783bd"/>
+    </linearGradient>
+    <linearGradient id="f0b0606c-da63-4f20-838d-1bb83bb06b56" data-name="未命名的渐变 21" x1="7.13" y1="30.6" x2="7.95" y2="30.6" gradientTransform="matrix(1, 0, 0, -1, 0.01, 37.88)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f3c60"/>
+      <stop offset="0.32" stop-color="#254566"/>
+      <stop offset="0.54" stop-color="#2f4969"/>
+      <stop offset="0.83" stop-color="#2c4767"/>
+      <stop offset="0.94" stop-color="#284565"/>
+    </linearGradient>
+  </defs>
+  <title>3D压风机-阀门2</title>
+  <g>
+    <g>
+      <polygon points="21.25 11.49 44.22 13.56 44.22 11.33 21.25 9.19 21.25 11.49" style="fill: url(#ae19455f-5edb-4bc9-a556-46950625686e)"/>
+      <polygon points="21.25 10.99 23.95 11.14 23.95 26.36 21.25 26.36 21.25 10.99" style="fill: url(#b5f32c48-c431-4634-9216-4b0d98999d91)"/>
+      <rect x="18" y="6.76" width="3.25" height="23.63" style="fill: #0e3e63"/>
+      <polygon points="23.95 19.85 40.86 19.61 40.86 17.2 23.95 17.32 23.95 19.85" style="fill: url(#aba6256d-1743-48a8-87e3-2134041b29f6)"/>
+      <polygon points="23.95 25.87 40.8 24.7 40.8 22.44 23.95 23.58 23.95 25.87" style="fill: url(#e5357261-86f2-4399-bd04-41a0c2128857)"/>
+      <polygon points="40.72 12.51 24.53 11.06 24.54 10.99 40.73 12.44 40.72 12.51" style="fill: #284c6d"/>
+      <rect x="23.96" y="24.48" width="16.76" height="0.07" transform="translate(-1.54 2.19) rotate(-3.8)" style="fill: #284c6d"/>
+      <rect x="33.64" y="11.58" width="0.75" height="14.03" style="fill: url(#b8853aed-3a1d-4b5b-8540-76dc53c8913e)"/>
+      <rect x="40.77" y="11.57" width="3.74" height="13.91" style="fill: url(#e70d0f18-c8d3-4788-822d-5135eee5f1b5)"/>
+      <polygon points="21.25 22.44 44.22 21.43 44.22 19.2 21.25 20.13 21.25 22.44" style="fill: url(#b650c0be-39f3-4382-b6eb-befc51d02578)"/>
+      <rect x="44.5" y="14.81" width="3.01" height="7.48" style="fill: url(#b8b4a3bc-245e-4da7-b304-5a886d45bcda)"/>
+      <rect x="49.45" y="15.86" width="1.16" height="5.23" style="fill: url(#eba11c17-fba3-4a8b-90a6-e4f64f79ba2d)"/>
+      <rect x="50.61" y="17.3" width="1.51" height="2.54" style="fill: url(#be69642c-7c20-4bd9-96a6-6184c22a7e52)"/>
+      <rect x="48.33" y="14.81" width="1.61" height="7.48" style="fill: url(#f1215a2d-5701-4272-ae51-d4ae421b3149)"/>
+      <path d="M48.63,30.31h0a1.12,1.12,0,0,1-1.12-1.12v-21a1.12,1.12,0,0,1,1.12-1.12h0a1.12,1.12,0,0,1,1.12,1.12v21A1.12,1.12,0,0,1,48.63,30.31Z" transform="translate(0.01 -0.01)" style="fill: url(#aaa4fc9c-fb0f-47e2-9dcf-df9a8397be75)"/>
+    </g>
+    <polygon points="18 25.27 1.88 25.27 1.88 12.03 18 12.02 18 25.27" style="fill: url(#a0659df3-78fd-46c7-9423-60459ca3540f)"/>
+    <path d="M5.25,37a3.83,3.83,0,0,1-.85-.11l0-.08a3.16,3.16,0,0,0,.91.11V37Z" transform="translate(0.01 -0.01)" style="fill: #8e97a1"/>
+    <path d="M11.62,36.88V36.8a3.25,3.25,0,0,0,.87-.18l0,.08A4,4,0,0,1,11.62,36.88Z" transform="translate(0.01 -0.01)" style="fill: #8e97a1"/>
+    <path d="M0,33.36s1.31,3.18,10.15,2.48c0,0,4.42-.26,5.54-2.31v1.32S14.77,37,8.44,37.1c0,0-6.89.22-8.44-2.38V33.36Z" transform="translate(0.01 -0.01)" style="fill: url(#ad779def-d4fc-4473-8032-1b76cf7e4f2d)"/>
+    <path d="M0,32.75H0a2.23,2.23,0,0,0,.1,1,3.17,3.17,0,0,0,.88.87c.92.67,2.68,1.29,6.49,1.41,0,0,4.82.35,7.34-1.47a2.1,2.1,0,0,0,.84-.92,4,4,0,0,0,0-.85v-.08a2.19,2.19,0,0,0-1.09-1.89,4.59,4.59,0,0,0-1-.41,24.94,24.94,0,0,0-11.53,0,1.63,1.63,0,0,0-.31.11,3.88,3.88,0,0,0-1,.63A2.08,2.08,0,0,0,0,32.75Z" transform="translate(0.01 -0.01)" style="fill: #08375b"/>
+    <path d="M15.37,31.38a4,4,0,0,0-1.78-1.08L7.2,29.79h0l5.09.44a3.11,3.11,0,0,1,1.42.92.89.89,0,0,1,.14.89,1.86,1.86,0,0,1-1.22,1,15.11,15.11,0,0,1-7.31.57,4.31,4.31,0,0,1-1-.2c-3.45-1.37-2.25-2.7-1.44-3.1a2.78,2.78,0,0,1,.91-.26L7.1,29.8l-4.2.31a3.63,3.63,0,0,0-1.14.31c-1,.47-3.88,2.29,1.61,3.87a9.42,9.42,0,0,0,1.27.23,20.18,20.18,0,0,0,9.18-.67,3.3,3.3,0,0,0,1.73-1.43A1,1,0,0,0,15.37,31.38Z" transform="translate(0.01 -0.01)" style="fill: #104168"/>
+    <polygon points="10.67 33.88 10.14 33.7 10.14 33.53 10.67 33.66 10.67 33.88" style="fill: #243d5d"/>
+    <path d="M1.87,25.25c-.13,5.55,0,7.06,0,7.06l.07.13.1.11a4.12,4.12,0,0,0,1.68.88A13.74,13.74,0,0,0,7.86,34a14.72,14.72,0,0,0,4.33-.56,4,4,0,0,0,1.69-.88.35.35,0,0,0,.13-.34c0-.14,0-1.34,0-7h0c-.11,0-4.67-2-6.24-2S2.1,25.16,1.87,25.25Z" transform="translate(0.01 -0.01)" style="fill: url(#b4c13752-d213-4890-a713-37fa58812375)"/>
+    <path d="M1.87,14.53c0-6.84.06-8.18,0-8.18A1.11,1.11,0,0,1,2,6.19l.11-.13A3.84,3.84,0,0,1,3.77,5a11.37,11.37,0,0,1,4.15-.68A12.27,12.27,0,0,1,12.23,5a3.8,3.8,0,0,1,1.68,1.07.48.48,0,0,1,.13.41c0,.16,0,6.89,0,6.89s-3,5.83-6.3,5.83C5.26,19.2,2.1,14.64,1.87,14.53Z" transform="translate(0.01 -0.01)" style="fill: url(#a7cb4131-a604-4950-961f-ff48a5c89c56)"/>
+    <g>
+      <polygon points="11.52 34.3 12.14 34.13 12.14 33.87 11.52 33.73 10.9 33.88 10.9 34.18 11.52 34.3" style="fill: #bec4cc"/>
+      <polygon points="11.52 34.19 12.14 34.02 12.14 33.75 11.52 33.62 10.9 33.77 10.9 34.06 11.52 34.19" style="fill: #dde3eb"/>
+      <polyline points="10.92 34.07 10.92 33.77 11.52 33.62 12.12 33.76 12.12 34.02" style="fill: none;stroke: #021208;stroke-miterlimit: 10;stroke-width: 0.42239999771118164px"/>
+    </g>
+    <g>
+      <polygon points="14.82 32.35 15.46 32.16 15.46 31.86 14.82 31.71 14.18 31.88 14.18 32.21 14.82 32.35" style="fill: #303e52"/>
+      <polygon points="14.82 32.23 15.46 32.03 15.46 31.74 14.82 31.58 14.18 31.75 14.18 32.09 14.82 32.23" style="fill: #8c929a"/>
+      <polyline points="14.2 32.09 14.2 31.76 14.82 31.59 15.44 31.74 15.44 32.04" style="fill: none;stroke: #021208;stroke-miterlimit: 10;stroke-width: 0.45660001039505005px"/>
+    </g>
+    <g>
+      <polygon points="4.97 34.49 5.64 34.31 5.64 34.02 4.97 33.87 4.31 34.04 4.31 34.36 4.97 34.49" style="fill: #bec4cc"/>
+      <polygon points="4.97 34.37 5.64 34.19 5.64 33.9 4.97 33.75 4.31 33.92 4.31 34.24 4.97 34.37" style="fill: #dde3eb"/>
+      <polyline points="4.33 34.24 4.33 33.92 4.97 33.76 5.63 33.9 5.63 34.19" style="fill: none;stroke: #021208;stroke-miterlimit: 10;stroke-width: 0.45509999990463257px"/>
+    </g>
+    <g>
+      <polygon points="0.86 32.27 1.49 32.1 1.49 31.83 0.86 31.68 0.23 31.84 0.23 32.14 0.86 32.27" style="fill: #bec4cc"/>
+      <polygon points="0.86 32.16 1.49 31.98 1.49 31.71 0.86 31.57 0.23 31.73 0.23 32.03 0.86 32.16" style="fill: #dde3eb"/>
+      <polyline points="0.25 32.03 0.25 31.73 0.86 31.57 1.47 31.71 1.47 31.99" style="fill: none;stroke: #021208;stroke-miterlimit: 10;stroke-width: 0.43149998784065247px"/>
+    </g>
+    <polygon points="10.75 33.67 10.23 33.5 10.23 33.2 10.41 33.01 10.79 32.93 11.3 33.07 11.3 33.36 10.75 33.46 10.75 33.67" style="fill: #3b4e68"/>
+    <g>
+      <polygon points="6.38 33.43 6.38 33.64 5.99 33.85 5.98 33.64 6.38 33.43" style="fill: #1a3c5d"/>
+      <polygon points="5.24 33.55 5.24 33.23 5.69 33.08 6.16 33.12 6.38 33.43 5.98 33.64 5.24 33.55" style="fill: #425976"/>
+    </g>
+    <g>
+      <polygon points="1.71 31.85 1.71 31.74 1.64 31.71 1.64 31.53 1.79 31.39 2.01 31.39 2.15 31.62 2.09 31.86 1.71 31.85" style="fill: #616e84"/>
+      <polygon points="1.71 31.81 1.73 32.02 2.09 32.02 2.09 31.81 1.71 31.81" style="fill: #3a4d66"/>
+    </g>
+    <g>
+      <polygon points="13.87 32.21 13.57 32.21 13.57 31.96 13.53 31.73 13.66 31.55 13.88 31.55 13.96 31.71 13.96 32.01 13.87 32.21" style="fill: #374557"/>
+      <rect x="13.57" y="32.13" width="0.33" height="0.13" style="fill: #1d3047"/>
+    </g>
+    <polygon points="6.03 35.94 5.56 35.9 5.61 34.62 6.06 34.66 6.03 35.94" style="fill: url(#b59f3a67-d225-4890-a273-50e7cc8f419e)"/>
+    <polygon points="4.98 32.46 2.88 31.84 2.88 24.94 4.98 24.16 4.98 32.46" style="fill: #0d3d64"/>
+    <polygon points="4.68 15.14 2.63 12.76 2.78 6.84 4.45 7.14 4.68 15.14" style="fill: #0d3d64"/>
+    <g>
+      <rect x="2.23" y="20.49" width="15.77" height="0.27" style="fill: #334c6b"/>
+      <ellipse cx="14.64" cy="13.99" rx="0.72" ry="0.15" style="fill: #1d466b"/>
+      <rect x="13.85" y="23.89" width="1.5" height="0.18" style="fill: #2c3c52"/>
+      <rect x="10.72" y="23.71" width="1.43" height="0.19" style="fill: #2c3c52"/>
+      <rect x="4.07" y="23.65" width="1.43" height="0.21" style="fill: #455467"/>
+      <rect x="13.23" y="24.56" width="0.39" height="0.09" style="fill: #2c3c52"/>
+      <rect x="6.43" y="23.29" width="0.3" height="10.04" style="fill: #334c6b"/>
+      <ellipse cx="5.46" cy="33.33" rx="0.54" ry="0.26" style="fill: #405471"/>
+      <ellipse cx="2.12" cy="31.72" rx="0.24" ry="0.34" style="fill: #405471"/>
+      <ellipse cx="13.37" cy="31.72" rx="0.24" ry="0.34" style="fill: #405471"/>
+      <ellipse cx="10.55" cy="33.21" rx="0.45" ry="0.27" style="fill: #405471"/>
+      <polygon points="2.25 34.25 2.96 34.08 2.96 33.71 2.14 33.59 1.5 33.78 1.5 34.1 2.25 34.25" style="fill: #0c3c60"/>
+      <rect x="6.83" y="7.27" width="0.18" height="10.58" style="fill: #324b6a"/>
+    </g>
+    <rect x="4.53" y="6.62" width="0.28" height="0.98" transform="translate(-3.02 10.72) rotate(-81.85)" style="fill: #969eaa"/>
+    <rect x="11.45" y="6.88" width="0.83" height="0.24" transform="translate(-0.96 1.99) rotate(-9.22)" style="fill: #a6afb8"/>
+    <path d="M0,3.66S1.31,6.84,10.15,6.14c0,0,4.42-.26,5.54-2.31V5.15s-.93,2.1-7.26,2.25c0,0-6.89.22-8.44-2.38V3.66Z" transform="translate(0.01 -0.01)" style="fill: url(#bedf197a-15f8-4156-b463-8d584342cf1b)"/>
+    <path d="M0,3H0a2.23,2.23,0,0,0,.1,1A3.17,3.17,0,0,0,1,4.91c.91.67,2.68,1.29,6.49,1.41,0,0,4.82.35,7.34-1.47a2.1,2.1,0,0,0,.84-.92,4,4,0,0,0,0-.85V3A2.19,2.19,0,0,0,14.61,1.1a4.59,4.59,0,0,0-1-.41A24.94,24.94,0,0,0,2.1.67l-.32.1a3.88,3.88,0,0,0-1,.63A2.17,2.17,0,0,0,0,3Z" transform="translate(0.01 -0.01)" style="fill: url(#aad721ba-d14a-4caf-a129-d6e642eca719)"/>
+    <path d="M15.36,1.67A4,4,0,0,0,13.58.59L7.19.08h0l5.09.44a3.11,3.11,0,0,1,1.42.92.89.89,0,0,1,.14.89,1.86,1.86,0,0,1-1.22,1,15.17,15.17,0,0,1-7.32.57,4.31,4.31,0,0,1-1-.2C.84,2.35,2,1,2.85.62A2.78,2.78,0,0,1,3.76.36L7.08.09,2.88.41a3.89,3.89,0,0,0-1.13.3C.73,1.18-2.14,3,3.36,4.58a8.9,8.9,0,0,0,1.27.24,20.18,20.18,0,0,0,9.18-.67,3.3,3.3,0,0,0,1.73-1.43A1,1,0,0,0,15.36,1.67Z" transform="translate(0.01 -0.01)" style="fill: url(#a439be86-5f39-452f-84c9-f79ab5f40d95)"/>
+    <polygon points="6.84 7.36 6.66 7.35 6.66 6.27 6.84 6.28 6.84 7.36" style="fill: #304c6c"/>
+    <polygon points="7.96 6.33 7.96 8.27 7.14 7.48 7.14 6.3 7.96 6.33" style="fill: url(#f0b0606c-da63-4f20-838d-1bb83bb06b56)"/>
+    <g>
+      <polygon points="1.08 2.58 1.83 2.41 1.83 2.07 1.08 1.95 0.37 2.07 0.37 2.43 1.08 2.58" style="fill: #cad5e2"/>
+      <polygon points="1.08 2.45 1.83 2.28 1.83 1.94 1.08 1.82 0.37 1.94 0.37 2.3 1.08 2.45" style="fill: #eff4fa"/>
+    </g>
+    <g>
+      <polygon points="4.88 4.7 5.63 4.53 5.63 4.19 4.88 4.07 4.17 4.19 4.17 4.55 4.88 4.7" style="fill: #cad5e2"/>
+      <polygon points="4.88 4.57 5.63 4.4 5.63 4.06 4.88 3.95 4.17 4.06 4.17 4.43 4.88 4.57" style="fill: #eff4fa"/>
+    </g>
+    <g>
+      <polygon points="11.53 4.63 12.28 4.47 12.28 4.13 11.53 4.01 10.83 4.13 10.83 4.49 11.53 4.63" style="fill: #cad5e2"/>
+      <polygon points="11.53 4.51 12.28 4.34 12.28 4 11.53 3.88 10.83 4 10.83 4.36 11.53 4.51" style="fill: #eff4fa"/>
+    </g>
+    <g>
+      <polygon points="14.67 2.57 15.42 2.4 15.42 2.06 14.67 1.95 13.97 2.06 13.97 2.43 14.67 2.57" style="fill: #cad5e2"/>
+      <polygon points="14.67 2.45 15.42 2.28 15.42 1.94 14.67 1.82 13.97 1.94 13.97 2.3 14.67 2.45" style="fill: #eff4fa"/>
+    </g>
+  </g>
+</svg>

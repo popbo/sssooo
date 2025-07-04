@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="52.512px" height="53.017px" viewBox="0 0 52.512 53.017" enable-background="new 0 0 52.512 53.017" xml:space="preserve">
+<g>
+	<polyline fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="51.012,27.939 51.012,1 36.969,1
+		36.969,13.031 	"/>
+	<polyline fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="12.406,36.517 1,36.517 1,50.559
+		24.234,50.559 	"/>
+	<circle fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="31.661" cy="32.166" r="19.851"/>
+	<circle com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" cx="31.661" cy="32.166" r="13.81"/>
+	<path fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M30.77,29.518v-5.309c0,0,0.072-2.582,1.506-2.439
+		s4.303,1.219,5.094,1.793c0.789,0.574,1.578,1.503,1.578,2.078c0,0.576-0.934,1.58-2.08,1.438
+		C35.719,26.935,30.77,29.518,30.77,29.518z"/>
+	<path fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M33.857,32.905l4.541,2.747
+		c0,0,2.172,1.397,1.309,2.552c-0.865,1.153-3.27,3.052-4.17,3.431c-0.898,0.377-2.102,0.574-2.594,0.274
+		c-0.494-0.298-0.871-1.615-0.154-2.522C33.504,38.478,33.857,32.905,33.857,32.905z"/>
+	<path fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M29.205,33.859l-4.938,1.949
+		c0,0-2.428,0.881-2.822-0.505c-0.393-1.387-0.447-4.449-0.203-5.396c0.244-0.944,0.814-2.021,1.352-2.231s1.813,0.287,2.102,1.407
+		C24.984,30.202,29.205,33.859,29.205,33.859z"/>
+	<path fill="#947266" d="M28.666,32.166c0-1.651,1.346-2.994,2.996-2.994c1.648,0,2.994,1.343,2.994,2.994s-1.346,2.994-2.994,2.994
+		C30.012,35.16,28.666,33.817,28.666,32.166z M30.076,32.166c0,0.874,0.711,1.586,1.586,1.586c0.873,0,1.586-0.712,1.586-1.586
+		c0-0.873-0.713-1.585-1.586-1.585C30.787,30.581,30.076,31.293,30.076,32.166z"/>
+</g>
+</svg>

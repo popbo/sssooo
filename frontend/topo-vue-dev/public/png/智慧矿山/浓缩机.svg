@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="58.143px" height="118.353px" viewBox="0 0 58.143 118.353" enable-background="new 0 0 58.143 118.353" xml:space="preserve">
+<g>
+	<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M40.905,28.253V5.303&#xD;&#xA;		C40.905,2.927,38.979,1,36.602,1H21.542c-2.377,0-4.303,1.927-4.303,4.303v22.95H40.905z" />
+	<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M40.905,28.455v7.172&#xD;&#xA;		c0,2.376-1.926,4.303-4.303,4.303H21.542c-2.377,0-4.303-1.927-4.303-4.303v-7.172H40.905z" />
+	
+		<rect x="17.239" y="5.841" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="23.666" height="22.412" />
+	
+		<rect x="28.098" y="39.93" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="2.455" height="77.423" />
+	
+		<rect x="20.12" y="44.415" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="18.412" height="16.82" />
+	
+		<rect x="17.239" y="28.26" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="23.666" height="7.053" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="32.186" y1="29.546" x2="32.186" y2="34.028" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="38.676" y1="29.546" x2="38.676" y2="34.028" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="35.432" y1="29.546" x2="35.432" y2="34.028" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="19.202" y1="29.546" x2="19.202" y2="34.028" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="22.448" y1="29.546" x2="22.448" y2="34.028" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="28.94" y1="29.546" x2="28.94" y2="34.028" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="25.694" y1="29.546" x2="25.694" y2="34.028" />
+	<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M1.331,89.019&#xD;&#xA;		c0.725,2.502,3.027,5.333,5.762,5.333h43.959c2.734,0,5.037-2.831,5.762-5.333H1.331z" />
+	<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M1.331,112.02&#xD;&#xA;		c0.725,2.502,3.027,5.333,5.762,5.333h43.959c2.734,0,5.037-2.831,5.762-5.333H1.331z" />
+</g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 448.72 176.28" style="enable-background:new 0 0 448.72 176.28;" xml:space="preserve">
+<g>
+	<linearGradient id="suochezhedang_01" gradientUnits="userSpaceOnUse" x1="0" y1="88.1381" x2="448.724" y2="88.1381">
+		<stop  offset="0" style="stop-color:#F4C885"/>
+		<stop  offset="0.2176" style="stop-color:#F4C885"/>
+		<stop  offset="0.5655" style="stop-color:#F4C885"/>
+		<stop  offset="0.6241" style="stop-color:#F4C885"/>
+		<stop  offset="0.8127" style="stop-color:#F4C885"/>
+		<stop  offset="0.925" style="stop-color:#EEC382"/>
+		<stop  offset="1" style="stop-color:#D7AF75"/>
+	</linearGradient>
+	<polygon style="fill:url(#suochezhedang_01);" points="448.6,0 0,0 0.93,176.28 448.72,176.28 	"/>
+</g>
+</svg>

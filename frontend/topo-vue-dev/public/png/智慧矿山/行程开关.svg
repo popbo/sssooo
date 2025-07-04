@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="79px" height="11.332px" viewBox="0 0 79 11.332" enable-background="new 0 0 79 11.332" xml:space="preserve">
+<g>
+	<circle fill="#947266" cx="4.667" cy="5.666" r="4.667" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="9.333" y1="5.666" x2="55.266" y2="5.666" />
+	<rect x="55.266" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="22.734" height="9.332" />
+</g>
+</svg>

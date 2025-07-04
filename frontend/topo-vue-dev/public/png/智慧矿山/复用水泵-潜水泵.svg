@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30.045px" height="61.4px" viewBox="0 0 30.045 61.4" enable-background="new 0 0 30.045 61.4" xml:space="preserve">
+<g>
+	<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M24.666,28.253V5.303&#xD;&#xA;		C24.666,2.927,22.74,1,20.363,1H5.303C2.926,1,1,2.927,1,5.303v22.95H24.666z" />
+	<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M24.666,28.455v7.172&#xD;&#xA;		c0,2.376-1.926,4.303-4.303,4.303H5.303C2.926,39.93,1,38.003,1,35.627v-7.172H24.666z" />
+	<rect com-has-ani="true" com-name="com_switch" x="1" y="5.841" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="23.666" height="22.412" />
+	
+  <rect x="3.882" y="43.415" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="18.411" height="13.5" />
+	<rect com-has-ani="true" com-name="com_switch" x="1" y="28.26" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="23.666" height="7.053" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="15.947" y1="29.546" x2="15.947" y2="34.028" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="22.438" y1="29.546" x2="22.438" y2="34.028" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="19.193" y1="29.546" x2="19.193" y2="34.028" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="2.964" y1="29.546" x2="2.964" y2="34.028" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="6.209" y1="29.546" x2="6.209" y2="34.028" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="12.701" y1="29.546" x2="12.701" y2="34.028" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="9.455" y1="29.546" x2="9.455" y2="34.028" />
+	
+		<rect x="8.221" y="39.93" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="9.732" height="3.485" />
+	
+		<rect x="8.221" y="56.915" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="9.732" height="3.485" />
+	
+		<rect x="25.561" y="46.738" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="3.484" height="6.854" />
+	
+		<rect x="22.293" y="48.422" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="3.268" height="3.485" />
+</g>
+</svg>

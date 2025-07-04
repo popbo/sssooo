@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 29.03 70.18" style="enable-background:new 0 0 29.03 70.18;" xml:space="preserve">
+<linearGradient id="randowzj1" gradientUnits="userSpaceOnUse" x1="5.313" y1="32.928" x2="22.0871" y2="36.4869">
+	<stop  offset="0" style="stop-color:#CE6000"/>
+	<stop  offset="0.4949" style="stop-color:#CE6000"/>
+	<stop  offset="1" style="stop-color:#CA5E00"/>
+</linearGradient>
+<path style="fill:url(#randowzj1);" d="M0,69.76l4.25,0.42c0,0,1.51-49.27,24.77-70.18c0,0-9.2,1.1-19.44,24.22
+	C9.58,24.22,0,43.71,0,69.76z"/>
+</svg>

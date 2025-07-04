@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="159.107px" height="81.993px" viewBox="0 0 159.107 81.993" enable-background="new 0 0 159.107 81.993" xml:space="preserve">
+<g>
+	<text transform="matrix(1 0 0 1 24.4658 79.3369)" fill="#947266" font-family="'MicrosoftYaHei'" font-size="9.1055">0</text>
+	<text transform="matrix(1 0 0 1 78.1406 29.3892)" fill="#947266" font-family="'MicrosoftYaHei'" font-size="9.1055">9</text>
+	<text transform="matrix(1 0 0 1 127.2705 79.668)" fill="#947266" font-family="'MicrosoftYaHei'" font-size="9.1055">18</text>
+	<g>
+		<path fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M16.295,79.554&#xD;&#xA;			c0-34.938,28.322-63.259,63.259-63.259s63.259,28.322,63.259,63.259" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="16.295" y1="79.554" x2="0" y2="79.554" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="34.822" y1="34.822" x2="23.301" y2="23.301" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="79.554" y1="16.294" x2="79.554" y2="0" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="124.285" y1="34.822" x2="135.807" y2="23.301" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="142.813" y1="79.554" x2="159.107" y2="79.554" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="16.295" y1="79.554" x2="8.627" y2="79.554" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="18.449" y1="63.181" x2="11.043" y2="61.196" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="24.77" y1="47.924" x2="18.129" y2="44.09" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="34.822" y1="34.822" x2="29.4" y2="29.4" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="47.924" y1="24.77" x2="44.09" y2="18.129" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="63.181" y1="18.449" x2="61.196" y2="11.043" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="79.554" y1="16.294" x2="79.554" y2="8.626" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="95.926" y1="18.449" x2="97.911" y2="11.043" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="111.184" y1="24.77" x2="115.018" y2="18.129" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="124.285" y1="34.822" x2="129.707" y2="29.4" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="134.338" y1="47.924" x2="140.979" y2="44.09" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="140.657" y1="63.181" x2="148.064" y2="61.196" />
+	</g>
+</g>
+</svg>

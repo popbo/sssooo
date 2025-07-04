@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="37.375px" viewBox="0 0 64 37.375" enable-background="new 0 0 64 37.375" xml:space="preserve">
+<g>
+	<rect com-has-ani="true" com-name="com_switch"  x="1" y="12.375" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="62" height="16.75" />
+	<polygon com-has-ani="true" com-name="com_switch"  fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="9,5.125 1,5.125 1,12.375 11,12.375 	&#xD;&#xA;		" />
+	<polygon com-has-ani="true" com-name="com_switch"  fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="55,36.375 63,36.375 63,29.125 &#xD;&#xA;		53,29.125 	" />
+	<path com-has-ani="true" com-name="com_switch"  fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M22.375,1C16.092,1,11,6.092,11,12.375h22.75&#xD;&#xA;		C33.75,6.092,28.656,1,22.375,1z" />
+	<path com-has-ani="true" com-name="com_switch"  fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" d="M45.125,1C38.842,1,33.75,6.092,33.75,12.375&#xD;&#xA;		H56.5C56.5,6.092,51.406,1,45.125,1z" />
+</g>
+</svg>

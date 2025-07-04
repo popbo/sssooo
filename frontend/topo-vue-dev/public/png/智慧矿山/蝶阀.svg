@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="44.481px" height="25.354px" viewBox="0 0 44.481 25.354" enable-background="new 0 0 44.481 25.354" xml:space="preserve">
+<g>
+
+		<rect com-has-ani="true" com-name="com_switch" x="1" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="42.481" height="23.354" />
+
+		<line com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1" y1="24.354" x2="43.481" y2="1" />
+
+		<circle com-has-ani="true" com-name="com_switch" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="22.241" cy="12.678" r="3.84" />
+</g>
+</svg>

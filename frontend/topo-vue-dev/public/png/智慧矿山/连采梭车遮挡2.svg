@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 243.9 242.58" style="enable-background:new 0 0 243.9 242.58;" xml:space="preserve">
+<g>
+	<linearGradient id="suochezhedang_02" gradientUnits="userSpaceOnUse" x1="227.17" y1="245.867" x2="23.6159" y2="4.8504">
+		<stop  offset="0" style="stop-color:#88693F"/>
+		<stop  offset="0.2176" style="stop-color:#9D7A4A"/>
+		<stop  offset="0.389" style="stop-color:#9F7C4C"/>
+		<stop  offset="0.4816" style="stop-color:#A78352"/>
+		<stop  offset="0.4938" style="stop-color:#A98553"/>
+		<stop  offset="0.8127" style="stop-color:#7C603A"/>
+		<stop  offset="0.9789" style="stop-color:#725632"/>
+	</linearGradient>
+	<polygon style="fill:url(#suochezhedang_02);" points="21.72,0.01 26.58,0 243.9,242.58 239.63,242.58 188.84,223.58 13.62,6.99 	"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="207.301" y1="236.1514" x2="4.4553" y2="9.7388">
+		<stop  offset="6.350627e-03" style="stop-color:#C7A16B"/>
+		<stop  offset="0.2176" style="stop-color:#E6BD7E"/>
+		<stop  offset="0.4396" style="stop-color:#E8BF7F"/>
+		<stop  offset="0.4944" style="stop-color:#EBC181"/>
+		<stop  offset="0.8126" style="stop-color:#ECC180"/>
+		<stop  offset="0.987" style="stop-color:#CDA770"/>
+	</linearGradient>
+	<polygon style="fill:url(#SVGID_2_);" points="21.72,0.01 239.63,242.58 186.48,242.58 0.15,32.02 0,0.08 	"/>
+</g>
+</svg>

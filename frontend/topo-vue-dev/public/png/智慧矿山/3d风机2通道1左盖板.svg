@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 324.14 138.88" style="enable-background:new 0 0 324.14 138.88;" xml:space="preserve">
+<g>
+	<linearGradient id="random21lgb1_" gradientUnits="userSpaceOnUse" x1="66.2309" y1="107.9464" x2="87.2874" y2="-5.4646">
+		<stop  offset="0" style="stop-color:#AA4F00"/>
+		<stop  offset="0.4949" style="stop-color:#C65C00"/>
+		<stop  offset="1" style="stop-color:#C75B00"/>
+	</linearGradient>
+	<path style="fill:url(#random21lgb1_);" d="M0,88.72c0,0,0.61-15.31,3.27-30.91c2.12-12.4,6.1-25,8.11-30.16
+		c0,0,11.44-28.07,35.69-27.64l27.71,4.37l80.58,12.75c0,0-12.23,6.49-26.78,33.38c0,0-11.85,19.81-14.75,59.4L0,88.72z"/>
+	<linearGradient id="random21lgb2_" gradientUnits="userSpaceOnUse" x1="224.7543" y1="139.0583" x2="224.7543" y2="15.4585">
+		<stop  offset="0" style="stop-color:#AF5100"/>
+		<stop  offset="0.4949" style="stop-color:#C65C00"/>
+		<stop  offset="1" style="stop-color:#C75B00"/>
+	</linearGradient>
+	<path style="fill:url(#random21lgb2_);" d="M125.37,112.01c0,0,1.31-17.41,2.62-20.68c0,0,6.36-26.97,9.55-29.17l15.16,1.73l0.93-2.45
+		l-13.45-5.25c0,0,5.85-11.23,14.34-19.54c0,0,6.22-6.24,8.55-7.14l14.57,1.9l1.39-1.79l-12.46-8.49c0,0,14,0.02,22.43,2.38
+		l135.14,31.05l-0.97,0.64l-17.18,3.25l-0.08,1.89l8.93,2.03c0,0-9.54,10.94-14.92,27.21l-14.87,0.12l0.03,1.94l14.2-0.16
+		c0,0-2.68,8.78-2.81,9.64l-1.66,0.03l0.03,1.92l1.14-0.02c0,0-1.47,4.33-4.23,23.31l-1.31,0.02l0.03,1.92l1.05-0.02
+		c0,0-1.04,9.52-0.82,10.63l-53.04-8.63L125.37,112.01z"/>
+</g>
+</svg>

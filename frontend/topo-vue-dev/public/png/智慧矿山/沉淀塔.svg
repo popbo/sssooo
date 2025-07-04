@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="149.808px" height="93.351px" viewBox="0 0 149.808 93.351" enable-background="new 0 0 149.808 93.351" xml:space="preserve">
+<g>
+	<rect x="0.753" y="4" fill="#CCCCCC" width="148" height="29" />
+	<polyline fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="148.808,0 148.808,33.143 1,33.143 1,0 	&#xD;&#xA;		" />
+	<polyline fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="27.453,18.486 74.328,91.5 &#xD;&#xA;		121.203,18.486 	" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="46.753" y1="24" x2="102.753" y2="24" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="52.753" y1="36" x2="96.753" y2="36" />
+	<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="59.753" y1="48" x2="88.753" y2="48" />
+</g>
+</svg>

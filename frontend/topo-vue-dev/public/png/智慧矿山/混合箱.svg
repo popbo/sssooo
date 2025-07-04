@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="176.471px" height="36.531px" viewBox="0 0 176.471 36.531" enable-background="new 0 0 176.471 36.531" xml:space="preserve">
+<g>
+	<rect x="1" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="174.471" height="34.531" />
+	<g>
+		
+			<rect x="6.564" y="30.079" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="31.805" height="5.452" />
+		
+			<rect x="37.574" y="8.27" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="102.684" height="27.261" />
+		<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="88.689" y1="35.531" x2="88.689" y2="15.54" />
+		
+			<rect x="58.93" y="8.27" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="59.975" height="7.27" />
+		<rect x="44.617" y="8.27" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="7.27" height="7.27" />
+		
+			<rect x="125.492" y="8.27" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="7.27" height="7.27" />
+		<g>
+			
+				<rect x="140.031" y="11.904" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="5.559" height="23.626" />
+			
+				<rect x="153.93" y="18.266" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="14.271" height="17.265" />
+			
+				<rect x="158.848" y="18.266" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="4.436" height="12.722" />
+			
+				<rect x="145.475" y="30.079" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="8.34" height="5.452" />
+			
+				<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="145.475" y1="20.992" x2="153.814" y2="20.992" />
+			
+				<rect x="147.906" y="8.27" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="3.475" height="12.722" />
+		</g>
+		
+			<rect x="14.629" y="11.904" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="22.719" height="18.174" />
+		<polyline fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="6.451,20.992 38.256,20.992 &#xD;&#xA;			140.031,20.992 		" />
+		<line fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="6.451" y1="25.536" x2="37.574" y2="25.536" />
+		
+			<rect x="27.352" y="10.087" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="9.996" height="10.904" />
+		
+			<rect x="20.082" y="15.54" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" width="7.27" height="5.452" />
+	</g>
+</g>
+</svg>

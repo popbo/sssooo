@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="175.591px" height="92.928px" viewBox="0 0 175.591 92.928" enable-background="new 0 0 175.591 92.928" xml:space="preserve">
+<g>
+	<g>
+		
+			<rect x="13.017" y="48.223" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="148.729" height="43.705" />
+		
+			<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="&#xD;&#xA;			M13.433,91.928c0,0-12.433-8.514-12.433-21.793s12.433-21.912,12.433-21.912V91.928z" />
+		
+			<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="&#xD;&#xA;			M162.159,91.928c0,0,12.432-8.514,12.432-21.793s-12.432-21.912-12.432-21.912V91.928z" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="2.204" y1="61.076" x2="172.558" y2="61.076" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="65.188" y1="66.076" x2="109.573" y2="66.076" />
+		<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="75.522" y1="72.076" x2="99.239" y2="72.076" />
+	</g>
+	<g>
+		
+			<rect x="47.235" y="1" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="80.67" height="29.117" />
+		
+			<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="&#xD;&#xA;			M47.46,30.117c0,0-6.742-5.672-6.742-14.52C40.718,6.752,47.46,1,47.46,1V30.117z" />
+		
+			<path fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="&#xD;&#xA;			M128.13,30.117c0,0,6.744-5.672,6.744-14.52C134.874,6.752,128.13,1,128.13,1V30.117z" />
+	</g>
+	
+		<rect x="65.604" y="30.117" fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="44.384" height="18" />
+</g>
+</svg>

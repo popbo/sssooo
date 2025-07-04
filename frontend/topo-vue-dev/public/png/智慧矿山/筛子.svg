@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64.396px" height="46.586px" viewBox="0 0 64.396 46.586" enable-background="new 0 0 64.396 46.586" xml:space="preserve">
+<g>
+	<polygon  com-has-ani="true" com-name="com_switch"  fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="5.314,17.586 34.648,25.253 &#xD;&#xA;		61.982,25.253 41.648,45.586 36.648,45.586 	" />
+	<polygon fill="#CCCCCC" stroke="#947266" stroke-width="2" stroke-miterlimit="10" points="6.815,1.253 1.314,15.92 34.315,25.586 &#xD;&#xA;		62.982,25.586 62.982,10.753 36.316,11.086 	" />
+	<g>
+		<g>
+			<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="5.648" y1="6.586" x2="8.997" y2="7.604" />
+			<polyline fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="7.4079,7.4079" points="&#xD;&#xA;				16.085,9.757 31.981,14.586 56.111,14.586 			" />
+			<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="59.816" y1="14.586" x2="63.316" y2="14.586" />
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="5.648" y1="12.919" x2="8.997" y2="13.937" />
+			<polyline fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="7.4079,7.4079" points="&#xD;&#xA;				16.085,16.09 31.981,20.919 56.111,20.919 			" />
+			<line fill="none" stroke="#947266" stroke-width="2" stroke-miterlimit="10" x1="59.816" y1="20.919" x2="63.316" y2="20.919" />
+		</g>
+	</g>
+</g>
+</svg>
